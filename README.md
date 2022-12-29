@@ -1,4 +1,4 @@
-# CCIC
+# CCIC 4.0
 
 ## Overview:
 Markets summary helps traders taking the extra advantage of indices across globe, depository receipts
