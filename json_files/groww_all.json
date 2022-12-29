@@ -1,7 +1,7 @@
 {
-  "title": "Sah Polymers IPO, rise in crude oil price, & more",
-  "date": "2022-12-28T14:00:00.000Z",
-  "slug": "sah-polymers-ipo-rise-in-crude-oil-price-and-more",
+  "title": "India-Australia FTA, current account deficit widens, & more",
+  "date": "2022-12-29T14:00:00.000Z",
+  "slug": "india-australia-fta-current-account-deficit-widens-and-more",
   "is_indian_market_open": true,
   "sensex": {
     "value": 60910.28,
@@ -13,7 +13,7 @@
     "change_type": "down",
     "perc_change": 0.05
   },
-  "us_indices_date": "2022-12-27",
+  "us_indices_date": "2022-12-28",
   "daily_change": {
     "is_gold_market_open": true,
     "gold": {
@@ -35,15 +35,15 @@
     },
     "is_dow_jones_market_open": true,
     "dow_jones": {
-      "value": 33241.56,
+      "value": null,
       "change_type": "up",
-      "perc_change": 0.11
+      "perc_change": null
     },
     "is_nasdaq_market_open": true,
     "nasdaq": {
-      "value": 10353.23,
-      "change_type": "down",
-      "perc_change": 1.38
+      "value": 33241.56,
+      "change_type": "up",
+      "perc_change": 0.11
     }
   },
   "long_term_change": {
@@ -71,27 +71,27 @@
   "news": [
     {
       "title": "More...",
-      "description": "+Sah Polymers IPO will open for subscription on 30 Dec. Price band is Rs 61-65.\n+Airbag industry in India will grow to Rs 7,000 cr by Financial Year 2027: ICRA\n+Crude oil prices touched a 3-week high of $84.48 (Brent crude).\n+India's basmati and non-basmati rice exports rose 7.37% to 126.97 lakh tons during the April-October period."
+      "description": "+India-Australia Free Trade Agreement (FTA) is now in force. 96.4% of India\u2019s exports to Australia will not attract any customs duty.\n+India's current account deficit widened to 4.4% of GDP at $36.4 billion in the September quarter. It stood at 2.2% in the April-June quarter.\n+Negative reports will now be mandatory at Indian airports for flyers from China and 5 other countries.\n+Mamaearth is aiming to raise Rs 400 cr via an IPO, as per media reports.\n+The Production-Linked Incentive (PLI) scheme for automobile and auto components has attracted a proposed investment of Rs 67,690 cr in the past 5 years. The target was Rs 42,500 cr."
     },
     {
       "title": "Stocks in the news",
-      "description": "Welspun Enterprises: will hold a board meeting on 30 Dec.\nDilip Buildcon: incorporated a special-purpose vehicle for a road project in Karnataka.\nReliance Industries: Mukesh Ambani completed 20 years as chairman of the company.\nNTPC: signed a Memorandum of Understanding (MoU) with Tecnimont to produce green methanol.\nHariom Pipe: bought a manufacturing unit from RP Metal Sections for Rs 55 cr.\nKotak Mahindra Bank: hiked RD interest rates by up to 0.75% on certain tenures."
+      "description": "Godrej Properties: acquired around 9 acres of land in Gurugram to build a residential project.\nZomato: CEO Deepinder Goyal announced that Zomato Gold (company\u2019s loyalty subscription program) will be back soon.\nJK Tyre: announced plans to become carbon neutral by 2050.\nTata Consumer Products: company\u2019s subsidiary has acquired a 23.3% stake in Joekels Tea Packers.\nHDFC: sold a 2.18% stake in Siti Networks.\nPurvankara: approved issue of debentures worth Rs 230 cr.\nNTPC: company\u2019s Nokhra project will begin commercial production on Dec 30.\nICICI Prudential: Assets Under Management (AUM) of ICICI Prudential Life Insurance Company has crossed Rs 2.5 trillion."
     },
     {
       "title": "Word of the Day",
-      "description": "Net Profit Margin\nNet profit margin shows how much profit is earned out of the total revenue.\nIt is expressed in percentage. Net profit margin = Net Income/Revenue.\nIn the financial statements of a company, you can find this under the ratios subhead of its income statement."
+      "description": "Trading Symbol\nEvery listed company is assigned a unique series of letters - this is called its trading or ticker symbol.\nThese are just short forms to represent the stock and to differentiate them from each other. These might be different in some cases on BSE and NSE.\nFor example, the trading symbol of Adani Enterprises is ADANIENT. AU Small Finance Bank = AUBANK. Aurobindo Pharma = AUROPHARMA. Reliance Industries = RELIANCE."
     },
     {
       "title": "6 Day Course",
-      "description": "Theme: checklist before buying real estate\nDay 3: Wednesday\nConversion and permits: many properties are in zones and can only be used for designated purposes like commercial use, residential use, institutional use, etc.\nCheck the zoning rules and the ability to change the use.\nNOC: No Objection Certificate (NOC) is given by any authority that has a say in any matter.\nDepending on where the property is located, there could be several authorities (municipality, fire department, excise department, etc) that need to give the property owner an NOC before the property is used.\nFind out all the NOCs needed. Then, find out how many of the required NOCs are not obtained already.\nSome NOCs are easy to get. Some NOCs can be difficult to obtain. Factor these before deciding on a property purchase. \nMissed last week's course? You can download the course PDF - click to download."
+      "description": "Theme: checklist before buying real estate\nDay 4: Thursday\nLegal matters: do check if the property is involved in any legal hassles. Hiring a competent lawyer for this can help resolve this.\nSuch lawyers can also offer to draft the sale agreement and other property-related legal matters.\nPhysical inspection: check the property physically \u2014 does it have good access by road? Are the electricity and water supply in place and working? Does the area face flooding?\nHow is the connectivity? Close to markets, bus stands, hospitals, etc?\nPhysical inspection is very vast \u2014 do make a list and check each of those factors closely. \nMissed last week's course? You can download the course PDF - click to download."
     },
     {
       "title": "Featured Question",
-      "description": "\"What are the basic difference between balanced and balanced advantage mutual fund? What is suitable for a senior citizen of low risk appetite?\"\n\u00a0\nBalanced funds are funds that invest in both equity (eg. share markets) and debt (bonds, fixed-income securities, etc).\nA conservative balanced fund invests a majority of its money in debt and a smaller portion in equity.\nAn aggressive balanced fund invests a majority of its money in equity and a smaller portion in debt.\nA balanced advantage fund is one that can switch between being a majority in equity or a majority in debt.\nIt does not have to stick to being just debt-heavy or just equity-heavy.\nSuitability for senior citizens: this is really an individual decision. Senior citizens are usually less risk-taking.\nBut then, many argue all balanced funds are relatively lower-risk than equity funds.\nThere is no right or wrong answer. Each investor should evaluate and invest."
+      "description": "\"Is it advisable to break old FDs to get better interest rates?\"\n\u00a0\nRemember, breaking an FD usually has a penalty.\nIn many cases, after calculating the penalty, it does not make sense to break an FD. Sometimes it does.\nSo, when you break an FD, you must ask this question: which gives more profit?\n1. Break FD, pay the penalty, and then invest in higher-interest FD2. Keep money in the same FD\nIn which case do you stand to gain more? Decide based only on that."
     }
   ],
   "introduction": {
-    "image": "https://cms-resources.groww.in/uploads/Screenshot_2022_12_28_at_6_56_26_PM_c1c88ae4b7.png",
+    "image": "https://cms-resources.groww.in/uploads/Screenshot_2022_12_29_at_7_12_36_PM_3e7e81da7b.png",
     "content": "Fact: Nifty has fallen between 0% and 1% about 415 times in the last 5 years.\nThe markets ended in the red today.\nHowever the change was almost flat, mostly because of mixed global cues.\nThe day started with the markets erasing Tuesday's gains. The US and Asian markets along with SGX Nifty ended lower.\nThe reopening of the Chinese economy has raised concerns about the spread of the virus. But it may also revive demand for goods - reasons that led to mixed global cues.\nEnergy, realty, auto, and consumption stocks ended in the green today."
   },
   "top_gainers": [

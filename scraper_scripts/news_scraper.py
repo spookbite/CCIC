@@ -256,9 +256,3 @@ def capital():
         # Write the data to the file
         json.dump(data, outfile)
 
-
-moneycontrol()
-grow()
-upstox_fo()
-upstox_mo()
-capital()

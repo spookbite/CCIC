@@ -1,0 +1,289 @@
+{
+  "index_future": {
+    "date": "2022-12-29",
+    "data": [
+      {
+        "participant": "Pro",
+        "long": -8213,
+        "short": -8993
+      },
+      {
+        "participant": "FII",
+        "long": -5049,
+        "short": -25064
+      },
+      {
+        "participant": "DII",
+        "long": 573,
+        "short": -12
+      },
+      {
+        "participant": "Client",
+        "long": -26566,
+        "short": -5186
+      }
+    ]
+  },
+  "index_call": {
+    "date": "2022-12-29",
+    "data": [
+      {
+        "participant": "Pro",
+        "long": -484511,
+        "short": -620528
+      },
+      {
+        "participant": "FII",
+        "long": -359145,
+        "short": -282610
+      },
+      {
+        "participant": "DII",
+        "long": -318,
+        "short": 0
+      },
+      {
+        "participant": "Client",
+        "long": -2395404,
+        "short": -2336239
+      }
+    ]
+  },
+  "index_put": {
+    "date": "2022-12-29",
+    "data": [
+      {
+        "participant": "Pro",
+        "long": -451730,
+        "short": -633286
+      },
+      {
+        "participant": "FII",
+        "long": -369439,
+        "short": -256532
+      },
+      {
+        "participant": "DII",
+        "long": -10474,
+        "short": 0
+      },
+      {
+        "participant": "Client",
+        "long": -2339668,
+        "short": -2281494
+      }
+    ]
+  },
+  "index_future_increases": {
+    "date": "29/12/2022",
+    "data": [
+      {
+        "symbol": "NIFTY",
+        "expiry": "25/01/2023",
+        "price": 18292.25,
+        "chg_oi": 36797
+      },
+      {
+        "symbol": "BANKNIFTY",
+        "expiry": "25/01/2023",
+        "price": 43376.65,
+        "chg_oi": 21024
+      },
+      {
+        "symbol": "NIFTY",
+        "expiry": "23/02/2023",
+        "price": 18362.4,
+        "chg_oi": 4341
+      },
+      {
+        "symbol": "BANKNIFTY",
+        "expiry": "23/02/2023",
+        "price": 43489.85,
+        "chg_oi": 1136
+      }
+    ]
+  },
+  "index_future_decreases": {
+    "date": "29/12/2022",
+    "data": [
+      {
+        "symbol": "NIFTY",
+        "expiry": "29/12/2022",
+        "price": 18191.0,
+        "chg_oi": -20085
+      },
+      {
+        "symbol": "BANKNIFTY",
+        "expiry": "29/12/2022",
+        "price": 43252.35,
+        "chg_oi": -17678
+      },
+      {
+        "symbol": "FINNIFTY",
+        "expiry": "31/01/2023",
+        "price": 19178.5,
+        "chg_oi": -32
+      }
+    ]
+  },
+  "index_call_increases": {
+    "date": "2022-12-29",
+    "data": [
+      {
+        "symbol": "BANKNIFTY",
+        "expiry": "2022-12-29",
+        "strike": 43300,
+        "premium": 43252.35,
+        "chg_oi": 94640
+      },
+      {
+        "symbol": "BANKNIFTY",
+        "expiry": "2023-01-05",
+        "strike": 43500,
+        "premium": 226.3,
+        "chg_oi": 28306
+      },
+      {
+        "symbol": "NIFTY",
+        "expiry": "2023-01-05",
+        "strike": 18200,
+        "premium": 122.6,
+        "chg_oi": 24678
+      },
+      {
+        "symbol": "BANKNIFTY",
+        "expiry": "2023-01-05",
+        "strike": 45000,
+        "premium": 14.6,
+        "chg_oi": 20518
+      },
+      {
+        "symbol": "NIFTY",
+        "expiry": "2022-12-29",
+        "strike": 18200,
+        "premium": 18191.0,
+        "chg_oi": 20167
+      }
+    ]
+  },
+  "index_call_decreases": {
+    "date": "2022-12-29",
+    "data": [
+      {
+        "symbol": "BANKNIFTY",
+        "expiry": "2022-12-29",
+        "strike": 43000,
+        "premium": 43252.35,
+        "chg_oi": -116125
+      },
+      {
+        "symbol": "BANKNIFTY",
+        "expiry": "2022-12-29",
+        "strike": 42800,
+        "premium": 43252.35,
+        "chg_oi": -47736
+      },
+      {
+        "symbol": "BANKNIFTY",
+        "expiry": "2022-12-29",
+        "strike": 43100,
+        "premium": 43252.35,
+        "chg_oi": -47727
+      },
+      {
+        "symbol": "NIFTY",
+        "expiry": "2022-12-29",
+        "strike": 18500,
+        "premium": 18191.0,
+        "chg_oi": -42731
+      },
+      {
+        "symbol": "BANKNIFTY",
+        "expiry": "2022-12-29",
+        "strike": 44500,
+        "premium": 43252.35,
+        "chg_oi": -42597
+      }
+    ]
+  },
+  "index_put_increases": {
+    "date": "2022-12-29",
+    "data": [
+      {
+        "symbol": "BANKNIFTY",
+        "expiry": "2022-12-29",
+        "strike": 43200,
+        "premium": 43252.35,
+        "chg_oi": 93938
+      },
+      {
+        "symbol": "BANKNIFTY",
+        "expiry": "2023-01-05",
+        "strike": 43000,
+        "premium": 255.4,
+        "chg_oi": 60370
+      },
+      {
+        "symbol": "BANKNIFTY",
+        "expiry": "2022-12-29",
+        "strike": 43000,
+        "premium": 43252.35,
+        "chg_oi": 57797
+      },
+      {
+        "symbol": "BANKNIFTY",
+        "expiry": "2022-12-29",
+        "strike": 43100,
+        "premium": 43252.35,
+        "chg_oi": 57565
+      },
+      {
+        "symbol": "NIFTY",
+        "expiry": "2023-01-05",
+        "strike": 18000,
+        "premium": 48.25,
+        "chg_oi": 40370
+      }
+    ]
+  },
+  "index_put_decreases": {
+    "date": "2022-12-29",
+    "data": [
+      {
+        "symbol": "NIFTY",
+        "expiry": "2022-12-29",
+        "strike": 18000,
+        "premium": 18191.0,
+        "chg_oi": -53337
+      },
+      {
+        "symbol": "BANKNIFTY",
+        "expiry": "2022-12-29",
+        "strike": 41000,
+        "premium": 43252.35,
+        "chg_oi": -50305
+      },
+      {
+        "symbol": "NIFTY",
+        "expiry": "2022-12-29",
+        "strike": 17800,
+        "premium": 18191.0,
+        "chg_oi": -41181
+      },
+      {
+        "symbol": "BANKNIFTY",
+        "expiry": "2022-12-29",
+        "strike": 42000,
+        "premium": 43252.35,
+        "chg_oi": -39566
+      },
+      {
+        "symbol": "NIFTY",
+        "expiry": "2022-12-29",
+        "strike": 17500,
+        "premium": 18191.0,
+        "chg_oi": -35063
+      }
+    ]
+  }
+}
