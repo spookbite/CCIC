@@ -23,7 +23,7 @@ jobs:
           pip install -r requirements.txt
       
       - name: execute py script
-        run: python ./scraper_scripts/capital.py
+        run: python scraper_scripts/capital.py
 
       - name: commit files
         run: |
