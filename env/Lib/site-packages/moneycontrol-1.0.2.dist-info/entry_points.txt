@@ -1,0 +1,3 @@
+[console_scripts]
+moneycontrol = moneycontrol.__main__:main
+
