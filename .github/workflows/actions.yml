@@ -2,7 +2,7 @@ run scraper_scripts/news_scraper.py
 
 on:
   schedule:
-    - cron: '45 7 * * * TZ=Asia/Kolkata'
+    - cron: '45 7 * * *'
 
 jobs:
   build:
