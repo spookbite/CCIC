@@ -1,4 +1,4 @@
-run scraper_scripts/news_scraper.py
+name: run scraper_scripts/news_scraper.py
 
 on:
   schedule:
