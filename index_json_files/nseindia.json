@@ -1,0 +1,206 @@
+{
+  "equities": {
+    "previous": {
+      "volume": 3232115804,
+      "open_interest": null
+    },
+    "today": {
+      "volume": 2971758181,
+      "traded_value": 49635.88,
+      "trd": 17251587,
+      "pre_val": 0.0,
+      "valb": 496.36,
+      "pre_valb": 0.0,
+      "utm": "16:00",
+      "utmAs": "Dec 29, 2022"
+    },
+    "mkt": "CM"
+  },
+  "index_futures": {
+    "previous": {
+      "volume": 386616,
+      "open_interest": 363635
+    },
+    "today": {
+      "volume": 490808,
+      "traded_value": 47598.41,
+      "trd": 330293,
+      "pre_val": 0.0,
+      "valb": 475.98,
+      "pre_valb": 0.0,
+      "utm": "15:30",
+      "utmAs": "Dec 29, 2022"
+    },
+    "mkt": "FNOFUT"
+  },
+  "index_options": {
+    "previous": {
+      "volume": 154152029,
+      "open_interest": 10818182
+    },
+    "today": {
+      "volume": 323260114,
+      "traded_value": 51416.68,
+      "trd": 111644715,
+      "pre_val": 32667739.85,
+      "valb": 514.17,
+      "pre_valb": 326677.4,
+      "utm": "15:30",
+      "utmAs": "Dec 29, 2022"
+    },
+    "mkt": "FNOOPT"
+  },
+  "vol_futures": {
+    "previous": {
+      "volume": 0,
+      "open_interest": 0
+    },
+    "today": {
+      "volume": null,
+      "traded_value": null,
+      "trd": null,
+      "pre_val": null,
+      "valb": null,
+      "pre_valb": null,
+      "utm": "-",
+      "utmAs": ""
+    },
+    "mkt": "FNOIVX"
+  },
+  "stock_futures": {
+    "previous": {
+      "volume": 1885676,
+      "open_interest": 2899118
+    },
+    "today": {
+      "volume": 1946961,
+      "traded_value": 131748.36,
+      "trd": 1493956,
+      "pre_val": 0.0,
+      "valb": 1317.48,
+      "pre_valb": 0.0,
+      "utm": "15:30",
+      "utmAs": "Dec 29, 2022"
+    },
+    "mkt": "FNOSTKFUT"
+  },
+  "stock_options": {
+    "previous": {
+      "volume": 3227416,
+      "open_interest": 2483801
+    },
+    "today": {
+      "volume": 2475440,
+      "traded_value": 2541.05,
+      "trd": 1893913,
+      "pre_val": 178147.36,
+      "valb": 25.41,
+      "pre_valb": 1781.47,
+      "utm": "15:30",
+      "utmAs": "Dec 29, 2022"
+    },
+    "mkt": "FNOSTKOPT"
+  },
+  "global_indices_futures": {
+    "previous": {
+      "volume": null,
+      "open_interest": null
+    },
+    "today": {
+      "volume": null,
+      "traded_value": null,
+      "trd": null,
+      "pre_val": null,
+      "valb": null,
+      "pre_valb": null,
+      "utm": "-",
+      "utmAs": ""
+    },
+    "mkt": "GIFUT"
+  },
+  "global_indices_options": {
+    "previous": {
+      "volume": null,
+      "open_interest": null
+    },
+    "today": {
+      "volume": null,
+      "traded_value": null,
+      "trd": null,
+      "pre_val": null,
+      "valb": null,
+      "pre_valb": null,
+      "utm": "-",
+      "utmAs": ""
+    },
+    "mkt": "GIOPT"
+  },
+  "currency_futures": {
+    "previous": {
+      "volume": 6376430,
+      "open_interest": 7861869
+    },
+    "today": {
+      "volume": 2965835,
+      "traded_value": 25079.37,
+      "trd": 134272,
+      "pre_val": 0.0,
+      "valb": 250.79,
+      "pre_valb": 0.0,
+      "utm": "17:00",
+      "utmAs": "Dec 29, 2022"
+    },
+    "mkt": "FUTCUR"
+  },
+  "currency_options": {
+    "previous": {
+      "volume": 14420749,
+      "open_interest": 10422858
+    },
+    "today": {
+      "volume": 10023860,
+      "traded_value": 85.67,
+      "trd": 163705,
+      "pre_val": 83145.26,
+      "valb": 0.86,
+      "pre_valb": 831.45,
+      "utm": "17:00",
+      "utmAs": "Dec 29, 2022"
+    },
+    "mkt": "OPTCUR"
+  },
+  "nse_bond_futures": {
+    "previous": {
+      "volume": 2479,
+      "open_interest": 40392
+    },
+    "today": {
+      "volume": 11732,
+      "traded_value": 233.63,
+      "trd": 152,
+      "pre_val": 0.0,
+      "valb": 2.34,
+      "pre_valb": 0.0,
+      "utm": "17:00",
+      "utmAs": "Dec 29, 2022"
+    },
+    "mkt": "IRF"
+  },
+  "commodity_futures": {
+    "previous": {
+      "volume": 1,
+      "open_interest": 1
+    },
+    "today": {
+      "volume": null,
+      "traded_value": null,
+      "trd": null,
+      "pre_val": null,
+      "valb": null,
+      "pre_valb": null,
+      "utm": "-",
+      "utmAs": ""
+    },
+    "mkt": "COMFUT"
+  }
+}
