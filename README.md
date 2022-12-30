@@ -1,5 +1,6 @@
 # CCIC 4.0
 [![run app.py](https://github.com/spookbite/CCIC/actions/workflows/runapp.yml/badge.svg)](https://github.com/spookbite/CCIC/actions/workflows/runapp.yml)
+[![run master_scraper](https://github.com/spookbite/CCIC/actions/workflows/scrape.yml/badge.svg)](https://github.com/spookbite/CCIC/actions/workflows/scrape.yml)
 ## Overview:
 Markets summary helps traders taking the extra advantage of indices across globe, depository receipts
 (DR), commodities and foreign currencies movement and additionally, how FII and DII are placed across
