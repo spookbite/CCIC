@@ -68,7 +68,7 @@ for row in rows:
     month_chg_pct = month_chg_pct.text.strip()
     data.setdefault(name, {}).update({"month_chg_pct": month_chg_pct})
 
-with open("investing.json", "w") as f:
+with open(r"index_json_files\investing.json", "w") as f:
     json.dump(data, f, indent=2)
 
 print(json.dumps(data, indent=2))

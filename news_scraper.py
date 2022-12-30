@@ -75,12 +75,12 @@ def moneycontrol():
     tmp.reset_index(inplace=True)
     tmp.drop(['index'], axis=1, inplace=True)
 
-    tmp.to_csv(r'csv_files\news_scraped.csv', header=True, index=False)
+    tmp.to_csv(r'csv_files/news_scraped.csv', header=True, index=False)
 
 def grow():
     data = groww.get_data()
     data = groww.parse_data(data)
-    with open("json_files\groww_all.json", "w") as f:
+    with open("json_files/groww_all.json", "w") as f:
         json.dump(data, f, indent=2)
 
     print(json.dumps(data, indent=2))
@@ -113,13 +113,13 @@ def upstox_fo():
     for s in article.find_all('p'):
         data.append(s.text)
 
-    with open(r"temp_txt_files\upstox_output_fo.txt", "w", encoding="utf-8") as output:
+    with open(r"temp_txt_files/upstox_output_fo.txt", "w", encoding="utf-8") as output:
         for line in data:
             output.write(line)
 
 
     # Open the file in read mode
-    with open(r'temp_txt_files\upstox_output_fo.txt', 'r', encoding="utf-8") as file:
+    with open(r'temp_txt_files/upstox_output_fo.txt', 'r', encoding="utf-8") as file:
         # Read the contents of the file
         mf = file.read()
         f = mf.replace("\n", " ")
@@ -170,7 +170,7 @@ def upstox_fo():
     }
 
     # Open the JSON file for writing
-    with open(r"json_files\upstox_fo.json", "w", encoding="utf-8") as outfile:
+    with open(r"json_files/upstox_fo.json", "w", encoding="utf-8") as outfile:
         # Write the data to the file
         json.dump(data, outfile)
 
@@ -208,7 +208,7 @@ def upstox_mo():
     }
 
     # Open the JSON file for writing
-    with open(r'json_files\upstox_morning.json', 'w', encoding="utf-8") as outfile:
+    with open(r'json_files/upstox_morning.json', 'w', encoding="utf-8") as outfile:
         # Write the data to the file
         json.dump(data, outfile)
 
@@ -226,12 +226,12 @@ def capital():
     soup1 = BeautifulSoup(r1.content, 'html5lib')
 
     data=soup1.find('div',id='PrintNews')
-    with open("temp_txt_files\capital_output.txt", "w", encoding="utf-8") as output:
+    with open("temp_txt_files/capital_output.txt", "w", encoding="utf-8") as output:
         output.write(data.text)
 
     ls = []
 
-    with open('temp_txt_files\capital_output.txt', 'r', encoding="utf-8") as file:
+    with open('temp_txt_files/capital_output.txt', 'r', encoding="utf-8") as file:
         # Read the contents of the file
         mf = file.readlines()
         count = 0
@@ -252,7 +252,7 @@ def capital():
     }
 
     # Open the JSON file for writing
-    with open("json_files\capital_fo.json", "w", encoding="utf-8") as outfile:
+    with open("json_files/capital_fo.json", "w", encoding="utf-8") as outfile:
         # Write the data to the file
         json.dump(data, outfile)
 

@@ -8,61 +8,68 @@ st.set_page_config(page_title='CCIC', layout='wide')
 
 @st.cache(allow_output_mutation=True)
 def get_data():
-    return pd.read_csv(r'csv_files\news_scraped.csv')
+    return pd.read_csv(r'csv_files/news_scraped.csv')
 
 
 @st.cache
 def get_groww():
-    f = open('json_files\groww_all.json')
+    f = open('json_files/groww_all.json')
     data = json.load(f)
     return data
 
 
 @st.cache
 def get_capital():
-    f = open(r'json_files\capital_fo.json')
+    f = open(r'json_files/capital_fo.json')
     data = json.load(f)
     return data
 
 
 @st.cache
 def get_upfo():
-    f = open(r'json_files\upstox_fo.json')
+    f = open(r'json_files/upstox_fo.json')
     data = json.load(f)
     return data
 
 
 @st.cache
 def get_upmo():
-    f = open(r'json_files\upstox_morning.json')
+    f = open(r'json_files/upstox_morning.json')
     data = json.load(f)
     return data
 
 
 @st.cache
 def get_nse():
-    f = open(r'index_json_files\nseindia.json')
+    f = open(r'index_json_files/nseindia.json')
     data = json.load(f)
     return data
 
 
 @st.cache
 def get_cashmc():
-    f = open(r'index_json_files\cash_moneycontrol.json')
+    f = open(r'index_json_files/cash_moneycontrol.json')
     data = json.load(f)
     return data
 
 
 @st.cache
 def get_fnomc():
-    f = open(r'index_json_files\fno_moneycontrol.json')
+    f = open(r'index_json_files/fno_moneycontrol.json')
     data = json.load(f)
     return data
 
 
 @st.cache
 def get_eqsis():
-    f = open(r'index_json_files\eqsis.json')
+    f = open(r'index_json_files/eqsis.json')
+    data = json.load(f)
+    return data
+
+
+@st.cache
+def get_invest():
+    f = open(r'index_json_files/investing.json')
     data = json.load(f)
     return data
 
@@ -118,7 +125,7 @@ with col2:
     st.write(globalm)
     st.subheader("Index Action 📈📉")
     st.write(index)
-    st.subheader("Sector Update 🗞️")
+    st.subheader("General NEWS 🗞️")
     for upd in gsector:
         st.write("⭐️ " + upd[1:])
     # st.write(gsector)
@@ -180,7 +187,7 @@ with col2:
     stockopt_oi = int(nse["stock_options"]["previous"]["open_interest"])
     delta_stockopt = ((stockopt_tod-stockopt_prev)/stockopt_prev)*100
     data = [[equity_tod, delta_eq, '-'], [indexfut_tod, delta_indexfut, indexfut_oi], [indexopt_tod, delta_indexopt, indexopt_oi], [stockfut_tod, delta_stockfut, stockfut_oi], [stockopt_tod, delta_stockopt, stockopt_oi]]
-    df = pd.DataFrame(data, columns=['Previous Volume', '🛆 Volume (%)', 'Previous OI'], index=['Equity', 'Index Futures', 'Index Options', 'Stock Futures', 'Stock Options'])
+    df = pd.DataFrame(data, columns=['Previous Volume', '🛆 Volume (%)', 'Previous OI'], index=['Cash Equity', 'Index Futures', 'Index Options', 'Stock Futures', 'Stock Options'])
     df.reset_index(inplace=True)
     df.rename(columns={'index': 'Product'}, inplace=True)
     # s1 = dict(selector='th', props=[('text-align', 'center')])
@@ -325,6 +332,17 @@ with col2:
     df.reset_index(inplace=True)
     df.rename(columns={'index': 'Category'}, inplace=True)
     st.dataframe(df, use_container_width=True)
+    st.write("")
+
+    st.subheader("ADR moves 🏦")
+    st.write("")
+    invest = get_invest()
+    df = pd.DataFrame.from_dict(invest, orient='index')
+    df.reset_index(inplace=True)
+    df.rename(columns={'index': 'Name', 'chg_pct' : '1D % change', 'volume': 'Volume', 'month_chg_pct': '30D % change'}, inplace=True)
+    st.dataframe(df, use_container_width=True)
+
+
     st.write("")
     st.write("")
     st.info("Sources: MoneyControl, NSE India, Eqsis, Groww, Upstox, Capital Market", icon="💁🏻")

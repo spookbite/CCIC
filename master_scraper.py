@@ -12,6 +12,7 @@ def main():
     ids.mc_cash()
     ids.mc_fno()
     ids.nse_india()
+    ids.investing()
 
 if __name__ == "__main__":
     main()
