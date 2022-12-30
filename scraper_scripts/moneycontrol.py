@@ -8,13 +8,13 @@ import pandas as pd
 from dateutil import parser
 
 # Get today's date
-todate = date.today()
-today = date.today().weekday()
+today = date.today()
+dayno = date.today().weekday()
 
 # Yesterday date
-yesterday = todate - timedelta(days=1)
-fridate = todate - timedelta(days=3)
-saturdate = todate - timedelta(days=2)
+yesterday = today - timedelta(days=1)
+fridate = today - timedelta(days=3)
+saturdate = today - timedelta(days=2)
 
 data = pd.read_csv('nifty200list.csv')
 
@@ -53,7 +53,7 @@ for i in range(len(data)):
 
             #add the date filter -> if date == yesterday OR (today = MONDAY and date = timedelta(3))
             temp = parser.parse(dat)
-            if temp.date() == yesterday or (today == 0 and (temp.date() == fridate or temp.date() == saturdate)):
+            if temp.date() == yesterday or (dayno == 0 and (temp.date() == fridate or temp.date() == saturdate)):
                 res.append({
                     'date': dat,
                     'title': title,

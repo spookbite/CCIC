@@ -3,7 +3,6 @@ import index_scraper as ids
 
 
 def main():
-    ns.moneycontrol()
     ns.grow()
     ns.upstox_fo()
     ns.upstox_mo()
@@ -13,6 +12,7 @@ def main():
     ids.mc_fno()
     ids.nse_india()
     ids.investing()
+    ns.moneycontrol()
 
 if __name__ == "__main__":
     main()

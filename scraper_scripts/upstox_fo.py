@@ -8,23 +8,14 @@ from datetime import date
 from datetime import timedelta
 
 # Get today's date
-todate = date.today()
-today = date.today().weekday()
-
-# Yesterday date
-yesterday = todate - timedelta(days=1)
-fridate = todate - timedelta(days=3)
-saturdate = todate - timedelta(days=2)
-
-# Get today's date
 today = datetime.today()
 
 # Print the date in the desired format
 day = today.strftime("%d")
 month = today.strftime("%B").lower()
 year = today.strftime("%Y")
-date = day+'-'+month+'-'+year
-pg = "fo-morning-update-for-"+date+'/'
+dat = day+'-'+month+'-'+year
+pg = "fo-morning-update-for-"+dat+'/'
 base = "https://upstox.com/market-talk/"
 URL = base+pg
 print(URL)
