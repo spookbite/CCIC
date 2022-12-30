@@ -59,6 +59,7 @@ data = {}
 for table, prefix, keys in row_prefixes:
     data[table] = {}
     date = None
+    first = True
     idx = 0
     tdata = []
     while row := bs4_object.find("tr", {"id": f"{prefix}{idx}"}):
@@ -66,11 +67,14 @@ for table, prefix, keys in row_prefixes:
         _date = cells[0].text.strip()
         if date is None:
             date = _date
-            data[table].update({"date": _date})
         if _date != date:
-            break
+            if first:
+                first = False
+                date = _date
+            else:
+                break
 
-        rdata = {}
+        rdata = {"date": _date}
         for i, key in enumerate(keys):
             if key in ("long", "short", "strike", "chg_oi"):
                 rdata[key] = int(cells[i + 1].text.strip().replace(",", ""))

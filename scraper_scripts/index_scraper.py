@@ -6,6 +6,8 @@ from bs4 import BeautifulSoup
 
 def eqsis():
     URL = "https://www.eqsis.com/fii-activity-in-nse-index-futures-and-options/"
+
+
     DEBUG = False
 
     if DEBUG and os.path.exists("data.html"):
@@ -61,6 +63,7 @@ def eqsis():
     for table, prefix, keys in row_prefixes:
         data[table] = {}
         date = None
+        first = True
         idx = 0
         tdata = []
         while row := bs4_object.find("tr", {"id": f"{prefix}{idx}"}):
@@ -68,11 +71,14 @@ def eqsis():
             _date = cells[0].text.strip()
             if date is None:
                 date = _date
-                data[table].update({"date": _date})
             if _date != date:
-                break
+                if first:
+                    first = False
+                    date = _date
+                else:
+                    break
 
-            rdata = {}
+            rdata = {"date": _date}
             for i, key in enumerate(keys):
                 if key in ("long", "short", "strike", "chg_oi"):
                     rdata[key] = int(cells[i + 1].text.strip().replace(",", ""))
@@ -86,6 +92,8 @@ def eqsis():
 
     with open(r"index_json_files\eqsis.json", "w") as f:
         json.dump(data, f, indent=2)
+
+    print(json.dumps(data, indent=2))
 
 
 def mc_cash():

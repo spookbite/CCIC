@@ -180,7 +180,7 @@ with col2:
     stockopt_oi = int(nse["stock_options"]["previous"]["open_interest"])
     delta_stockopt = ((stockopt_tod-stockopt_prev)/stockopt_prev)*100
     data = [[equity_tod, delta_eq, '-'], [indexfut_tod, delta_indexfut, indexfut_oi], [indexopt_tod, delta_indexopt, indexopt_oi], [stockfut_tod, delta_stockfut, stockfut_oi], [stockopt_tod, delta_stockopt, stockopt_oi]]
-    df = pd.DataFrame(data, columns=['Previous Volume', '🛆 Volume (%)', 'Prev OI'], index=['Equity', 'Index Futures', 'Index Options', 'Stock Futures', 'Stock Options'])
+    df = pd.DataFrame(data, columns=['Previous Volume', '🛆 Volume (%)', 'Previous OI'], index=['Equity', 'Index Futures', 'Index Options', 'Stock Futures', 'Stock Options'])
     df.reset_index(inplace=True)
     df.rename(columns={'index': 'Product'}, inplace=True)
     # s1 = dict(selector='th', props=[('text-align', 'center')])
@@ -304,14 +304,14 @@ with col2:
     long_dii_ip = eqsis["index_put"]["data"][2]["long"]
     short_dii_ip = eqsis["index_put"]["data"][2]["short"]
 
-    long_fii_ic1 = eqsis["index_call"]["data"][1]["long"]
-    short_fii_ic1 = eqsis["index_call"]["data"][1]["short"]
-    long_dii_ic1 = eqsis["index_call"]["data"][2]["long"]
-    short_dii_ic1 = eqsis["index_call"]["data"][2]["short"]
-    long_fii_ip1 = eqsis["index_put"]["data"][1]["long"]
-    short_fii_ip1 = eqsis["index_put"]["data"][1]["short"]
-    long_dii_ip1 = eqsis["index_put"]["data"][2]["long"]
-    short_dii_ip1 = eqsis["index_put"]["data"][2]["short"]
+    long_fii_ic1 = eqsis["index_call"]["data"][5]["long"]
+    short_fii_ic1 = eqsis["index_call"]["data"][5]["short"]
+    long_dii_ic1 = eqsis["index_call"]["data"][6]["long"]
+    short_dii_ic1 = eqsis["index_call"]["data"][6]["short"]
+    long_fii_ip1 = eqsis["index_put"]["data"][5]["long"]
+    short_fii_ip1 = eqsis["index_put"]["data"][5]["short"]
+    long_dii_ip1 = eqsis["index_put"]["data"][6]["long"]
+    short_dii_ip1 = eqsis["index_put"]["data"][6]["short"]
     
     data = [
         [long_fii_ic-short_fii_ic, long_fii_ic1-short_fii_ic1, (long_fii_ic-short_fii_ic)-(long_fii_ic1-short_fii_ic1)],
