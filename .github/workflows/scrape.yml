@@ -2,7 +2,7 @@ name: run master_scraper
 
 on:
   schedule:
-    - cron: '*/1 * * * *'
+    - cron: '35 19 * * *'
 
 jobs:
   build:
