@@ -11,6 +11,7 @@ def main():
     ids.eqsis()
     ids.mc_cash()
     ids.mc_fno()
+    ids.nse_india()
 
 if __name__ == "__main__":
     main()
