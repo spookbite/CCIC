@@ -2,7 +2,7 @@ name: run master_scraper
 
 on:
   schedule:
-    - cron: '*/3 * * * *'
+    - cron: '*/1 * * * *'
 
 jobs:
   build:
@@ -23,7 +23,7 @@ jobs:
           pip install -r requirements.txt
       
       - name: execute py script
-        run: python investing.py
+        run: python master_scraper.py
 
       - name: commit files
         run: |
