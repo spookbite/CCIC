@@ -2,7 +2,7 @@ name: run scraper_scripts/news_scraper.py
 
 on:
   schedule:
-    - cron: '45 7 * * *'
+    - cron: '*/1 * * * *'
 
 jobs:
   build:
@@ -23,7 +23,7 @@ jobs:
           pip install -r requirements.txt
       
       - name: execute py script
-        run: python scraper_scripts/capital.py
+        run: python investing.py
 
       - name: commit files
         run: |
