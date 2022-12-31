@@ -358,6 +358,20 @@ with col2:
     df.rename(columns={'index': 'Name', 'chg_pct' : '1D % change', 'volume': 'Volume', 'month_chg_pct': '30D % change'}, inplace=True)
     st.dataframe(df, use_container_width=True)
 
+    st.write("")
+    st.write("")
+
+    st.header("Methodology ✍️")
+    st.write("")
+    st.write("We have made a concerted effort to ensure that the news stories we present to our users are from reputable and reliable sources. In order to achieve this, we have carefully selected a number of prominent news outlets to serve as our sources, and have implemented a web scraper to gather news stories from these sources on a regular basis.")
+    st.write("With that said, in order to maintain the integrity and relevance of our news feed, we have implemented a filter that removes any news stories that meet the following criteria: ")
+    st.write("👉  The company is listed in the NIFTY200 index.")
+    st.write("👉  The news story was published yesterday.")
+    st.write("👉  The news story was published over the weekend (if we are viewing the news feed on a Monday).")
+    st.write("This filter helps us to provide our users with the most current and relevant news stories, and ensures that our news feed is as useful as possible.")
+    st.write("In order to provide our users with up-to-date and accurate Index level reporting, we have implemented a similar process for gathering and displaying data. Specifically, we have scraped data from reliable sources and used it to create a web app using Streamlit. This app allows users to easily view and interact with the data, and we have hosted it on Streamlit Cloud for convenient access.")
+    st.write("In order to make this process as efficient as possible, we have also set up a workflow using GitHub Actions that runs the code to update the content every day at 7:30 AM IST. This ensures that the data is always current and accurate, without requiring us to manually update it on a daily basis.")
+    st.write("Overall, we believe that this combination of reliable data sources, a user-friendly web app, and automated updates allows our users to have the most comprehensive and up-to-date overview of the market before the start of the trading session.")
 
     st.write("")
     st.write("")
