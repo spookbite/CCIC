@@ -86,8 +86,15 @@ def grow():
     print(json.dumps(data, indent=2))
 
 def upstox_fo():
-    # Get today's date
     today = datetime.today()
+    dayno = today.weekday()
+    yesterday = today - timedelta(days=1)
+    yesterday1 = today - timedelta(days=2)
+
+    if dayno == 5:
+        today = yesterday
+    if dayno == 6:
+        today = yesterday1
 
     # Print the date in the desired format
     day = today.strftime("%d")
@@ -151,8 +158,9 @@ def upstox_fo():
 
 
     asian = asian.split(
-        "Asian Markets Update @ 7:30 am  ")[1].split("Global Markets Update ")
+        "Asian Markets Update")[1].split("Global Markets Update ")
     asian = "".join(asian[:])
+    asian = asian[12:]
 
     fiidii = fiidii[5:]
 
@@ -255,4 +263,3 @@ def capital():
     with open("json_files/capital_fo.json", "w", encoding="utf-8") as outfile:
         # Write the data to the file
         json.dump(data, outfile)
-

@@ -4,7 +4,8 @@ import json
 from datetime import datetime
 from datetime import timedelta
 
-st.set_page_config(page_title='CCIC', layout='wide')
+st.set_page_config(page_title='CCIC 4.0: Group J',
+                   page_icon='favicon.ico', layout='wide')
 
 @st.cache(allow_output_mutation=True)
 def get_data():
@@ -75,11 +76,24 @@ def get_invest():
 
 
 today = datetime.today()
+dayno = today.weekday()
 day = today.strftime("%d %B %Y")
 yesterday = today - timedelta(days=1)
 day1 = yesterday.strftime("%d %B")
 yesterday1 = today - timedelta(days=2)
 day2 = yesterday1.strftime("%d %B")
+yesterday2 = today - timedelta(days=3)
+day3 = yesterday2.strftime("%d %B")
+yesterday3 = today - timedelta(days=4)
+day4 = yesterday3.strftime("%d %B")
+
+if dayno == 0:
+    yesterday = day3
+    yesterday1 = day4
+
+if dayno == 6:
+    yesterday = day2
+    yesterday1 = day3
 
 # add day
 st.markdown("<h1 style='text-align: center;'><b>CCIC 4.0 : Group J</b></h1>",
@@ -95,7 +109,7 @@ with col1:
 
 with col2:
     st.write("Date: " + day)
-    st.header("Market Commentary - Intended for Institutional Clients")
+    st.header("Market Commentary 📻")
     st.write("")
     grow = get_groww()
     capital = get_capital()
@@ -120,7 +134,7 @@ with col2:
     news2 = upmo['news2']
     news3 = upmo['news3']
 
-    st.write(summary)
+    summary
     st.subheader("Global Markets 🌎")
     st.write(globalm)
     st.subheader("Index Action 📈📉")
@@ -139,7 +153,8 @@ with col2:
     st.subheader("Stock Futures 📊")
     st.write("**Long Build-up**" + stock[0][13:])
     st.write("**Short Build-up**" + stock[1][16:])
-    st.write("**Under F&O Ban**" + stock[2][15:])
+    if(len(stock[2][15:]) > 4):
+        st.write("**Under F&O Ban**" + stock[2][15:])
     st.info(disc, icon="ℹ️")
 
 
@@ -187,7 +202,8 @@ with col2:
     stockopt_oi = int(nse["stock_options"]["previous"]["open_interest"])
     delta_stockopt = ((stockopt_tod-stockopt_prev)/stockopt_prev)*100
     data = [[equity_tod, delta_eq, '-'], [indexfut_tod, delta_indexfut, indexfut_oi], [indexopt_tod, delta_indexopt, indexopt_oi], [stockfut_tod, delta_stockfut, stockfut_oi], [stockopt_tod, delta_stockopt, stockopt_oi]]
-    df = pd.DataFrame(data, columns=['Previous Volume', '🛆 Volume (%)', 'Previous OI'], index=['Cash Equity', 'Index Futures', 'Index Options', 'Stock Futures', 'Stock Options'])
+    df = pd.DataFrame(data, columns=['Previous Volume(shares/contracts)', '🛆 Volume (%)', 'Previous OI(contracts)'], index=[
+                      'Cash Equity', 'Index Futures', 'Index Options', 'Stock Futures', 'Stock Options'])
     df.reset_index(inplace=True)
     df.rename(columns={'index': 'Product'}, inplace=True)
     # s1 = dict(selector='th', props=[('text-align', 'center')])

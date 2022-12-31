@@ -1,49 +1,49 @@
 {
-  "title": "India-Australia FTA, current account deficit widens, & more",
-  "date": "2022-12-29T14:00:00.000Z",
-  "slug": "india-australia-fta-current-account-deficit-widens-and-more",
+  "title": "Core sector growth, Elin Electronics listing debut, & more",
+  "date": "2022-12-30T14:00:00.000Z",
+  "slug": "core-sector-growth-elin-electronics-listing-debut-and-more",
   "is_indian_market_open": true,
   "sensex": {
-    "value": 60910.28,
+    "value": 60840.74,
     "change_type": "down",
-    "perc_change": 0.03
+    "perc_change": 0.48
   },
   "nifty": {
-    "value": 18122.5,
+    "value": 18105.3,
     "change_type": "down",
-    "perc_change": 0.05
+    "perc_change": 0.47
   },
-  "us_indices_date": "2022-12-28",
+  "us_indices_date": "2022-12-30",
   "daily_change": {
     "is_gold_market_open": true,
     "gold": {
-      "value": 54750,
-      "change_type": "down",
-      "perc_change": 0.23
+      "value": 54975,
+      "change_type": "up",
+      "perc_change": 0.34
     },
     "is_silver_market_open": true,
     "silver": {
-      "value": 69485,
+      "value": 69459,
       "change_type": "down",
-      "perc_change": 0.8
+      "perc_change": 0
     },
     "is_usd_inr_market_open": true,
     "usd_inr": {
-      "value": 82.86,
-      "change_type": "up",
-      "perc_change": 0.01
+      "value": 82.72,
+      "change_type": "down",
+      "perc_change": 0.09
     },
     "is_dow_jones_market_open": true,
     "dow_jones": {
-      "value": null,
+      "value": 33220.8,
       "change_type": "up",
-      "perc_change": null
+      "perc_change": 1.05
     },
     "is_nasdaq_market_open": true,
     "nasdaq": {
-      "value": 33241.56,
+      "value": 10478.09,
       "change_type": "up",
-      "perc_change": 0.11
+      "perc_change": 2.59
     }
   },
   "long_term_change": {
@@ -55,126 +55,114 @@
     "nifty": {
       "value": null,
       "change_type": "up",
-      "perc_change": 15.08
+      "perc_change": 15.07
     },
     "dow_jones": {
       "value": null,
       "change_type": "up",
-      "perc_change": 7.18
+      "perc_change": 7.16
     },
     "nasdaq": {
       "value": null,
       "change_type": "up",
-      "perc_change": 10.73
+      "perc_change": 10.83
     }
   },
   "news": [
     {
       "title": "More...",
-      "description": "+India-Australia Free Trade Agreement (FTA) is now in force. 96.4% of India\u2019s exports to Australia will not attract any customs duty.\n+India's current account deficit widened to 4.4% of GDP at $36.4 billion in the September quarter. It stood at 2.2% in the April-June quarter.\n+Negative reports will now be mandatory at Indian airports for flyers from China and 5 other countries.\n+Mamaearth is aiming to raise Rs 400 cr via an IPO, as per media reports.\n+The Production-Linked Incentive (PLI) scheme for automobile and auto components has attracted a proposed investment of Rs 67,690 cr in the past 5 years. The target was Rs 42,500 cr."
+      "description": "+India's eight core sectors (including cement, coal, and steel) grew 5.4% in Nov 2022 vs 3.2% in Nov 2021.\n+India's external debt stood at $610.5 billion in the Sept quarter, down by $2.3 bn from the June quarter.\n+Sah Polymers IPO was subscribed 0.86 times on day 1. Retail investors subscribed 2.07 times.\n+Elin Electronics made its listing debut on NSE at Rs 244, a discount of 1.21% to its issue price. On BSE, it listed at Rs 243, a discount of 1.61%.\n+Stage-3 of the anti-pollution plan has been implemented in Delhi-NCR. Curbs include a ban on non-essential construction work and closure of mining activities.\n+India's fiscal deficit for the first 8 months of this financial year stood at Rs 9.78 lakh cr or 58.9% of annual estimates.\n+Wheat exports rose 29.29% to $1.5 bn during April-Nov vs $1.17 bn in the same period the previous year."
     },
     {
       "title": "Stocks in the news",
-      "description": "Godrej Properties: acquired around 9 acres of land in Gurugram to build a residential project.\nZomato: CEO Deepinder Goyal announced that Zomato Gold (company\u2019s loyalty subscription program) will be back soon.\nJK Tyre: announced plans to become carbon neutral by 2050.\nTata Consumer Products: company\u2019s subsidiary has acquired a 23.3% stake in Joekels Tea Packers.\nHDFC: sold a 2.18% stake in Siti Networks.\nPurvankara: approved issue of debentures worth Rs 230 cr.\nNTPC: company\u2019s Nokhra project will begin commercial production on Dec 30.\nICICI Prudential: Assets Under Management (AUM) of ICICI Prudential Life Insurance Company has crossed Rs 2.5 trillion."
-    },
-    {
-      "title": "Word of the Day",
-      "description": "Trading Symbol\nEvery listed company is assigned a unique series of letters - this is called its trading or ticker symbol.\nThese are just short forms to represent the stock and to differentiate them from each other. These might be different in some cases on BSE and NSE.\nFor example, the trading symbol of Adani Enterprises is ADANIENT. AU Small Finance Bank = AUBANK. Aurobindo Pharma = AUROPHARMA. Reliance Industries = RELIANCE."
-    },
-    {
-      "title": "6 Day Course",
-      "description": "Theme: checklist before buying real estate\nDay 4: Thursday\nLegal matters: do check if the property is involved in any legal hassles. Hiring a competent lawyer for this can help resolve this.\nSuch lawyers can also offer to draft the sale agreement and other property-related legal matters.\nPhysical inspection: check the property physically \u2014 does it have good access by road? Are the electricity and water supply in place and working? Does the area face flooding?\nHow is the connectivity? Close to markets, bus stands, hospitals, etc?\nPhysical inspection is very vast \u2014 do make a list and check each of those factors closely. \nMissed last week's course? You can download the course PDF - click to download."
-    },
-    {
-      "title": "Featured Question",
-      "description": "\"Is it advisable to break old FDs to get better interest rates?\"\n\u00a0\nRemember, breaking an FD usually has a penalty.\nIn many cases, after calculating the penalty, it does not make sense to break an FD. Sometimes it does.\nSo, when you break an FD, you must ask this question: which gives more profit?\n1. Break FD, pay the penalty, and then invest in higher-interest FD2. Keep money in the same FD\nIn which case do you stand to gain more? Decide based only on that."
+      "description": "Reliance: subsidiary will buy a 51% stake in Lotus Chocolates for Rs 74 cr.\nDish TV: shareholders rejected the adoption of the financial year 2021 and 2022 balance sheets.\nWelspun Enterprises: board approved Rs 235 cr buyback.\nShriram Finance: Asian Development Bank will give Rs 830 cr to Shriram Finance Limited to provide vehicle loans to women entrepreneurs.\nAdani Enterprises: acquired NDTV founders\u2019 27.26% stake.\nKalpataru Power: bagged new orders worth Rs 1,247 cr."
     }
   ],
   "introduction": {
-    "image": "https://cms-resources.groww.in/uploads/Screenshot_2022_12_29_at_7_12_36_PM_3e7e81da7b.png",
-    "content": "Fact: Nifty has fallen between 0% and 1% about 415 times in the last 5 years.\nThe markets ended in the red today.\nHowever the change was almost flat, mostly because of mixed global cues.\nThe day started with the markets erasing Tuesday's gains. The US and Asian markets along with SGX Nifty ended lower.\nThe reopening of the Chinese economy has raised concerns about the spread of the virus. But it may also revive demand for goods - reasons that led to mixed global cues.\nEnergy, realty, auto, and consumption stocks ended in the green today."
+    "image": "https://cms-resources.groww.in/uploads/Screenshot_2022_12_30_at_7_12_44_PM_a1d001097a.png",
+    "content": "Fact: Nifty has fallen between 0% and 1% about 415 times in the last 5 years.\nAsian markets gained after losing for 2 days.\nThe Indian markets too remained in the green throughout the first half of the day.\nHowever, around 3:00 PM the markets saw heavy selling. The reason for this is not known yet.\nMarkets throughout the week were volatile, majorly influenced by global uncertainties.\nOil still continues to fall as more countries are putting restrictions on international travelers.\nIndia has also made a test report compulsory for travelers from Thailand, Hong Kong, Japan, South Korea, and Singapore.\nDespite the volatility, Sensex and Nifty gained around 1.6% this week."
   },
   "top_gainers": [
     {
+      "name": "Bajaj Finserv",
+      "price": 1547.85,
+      "change": {
+        "change_type": "up",
+        "perc_change": 2.39
+      }
+    },
+    {
       "name": "Titan",
-      "price": 2580.15,
+      "price": 2597.5,
       "change": {
         "change_type": "up",
-        "perc_change": 3.06
+        "perc_change": 1.73
       }
     },
     {
-      "name": "M&M",
-      "price": 1252.35,
+      "name": "Coal India",
+      "price": 225.05,
       "change": {
         "change_type": "up",
-        "perc_change": 1.47
+        "perc_change": 1.53
       }
     },
     {
-      "name": "Power Grid",
-      "price": 215.75,
+      "name": "ONGC",
+      "price": 146.75,
       "change": {
         "change_type": "up",
-        "perc_change": 1.46
+        "perc_change": 1.45
       }
     },
     {
-      "name": "Maruti Suzuki",
-      "price": 8421.05,
+      "name": "Bajaj Auto",
+      "price": 3616.05,
       "change": {
         "change_type": "up",
-        "perc_change": 1.39
-      }
-    },
-    {
-      "name": "UPL",
-      "price": 723.55,
-      "change": {
-        "change_type": "up",
-        "perc_change": 1.01
+        "perc_change": 1.32
       }
     }
   ],
   "top_losers": [
     {
+      "name": "SBI Life",
+      "price": 1231.3,
+      "change": {
+        "change_type": "down",
+        "perc_change": 2.17
+      }
+    },
+    {
+      "name": "ICICI Bank",
+      "price": 890.85,
+      "change": {
+        "change_type": "down",
+        "perc_change": 1.89
+      }
+    },
+    {
       "name": "Airtel",
-      "price": 803.8,
+      "price": 806.1,
       "change": {
         "change_type": "down",
-        "perc_change": 1.35
+        "perc_change": 1.78
       }
     },
     {
-      "name": "Apollo Hospitals",
-      "price": 4588.65,
+      "name": "Grasim",
+      "price": 1723.5,
       "change": {
         "change_type": "down",
-        "perc_change": 1.19
+        "perc_change": 1.67
       }
     },
     {
-      "name": "Hindalco",
-      "price": 465.95,
+      "name": "Eicher Motors",
+      "price": 3227.75,
       "change": {
         "change_type": "down",
-        "perc_change": 1.07
-      }
-    },
-    {
-      "name": "Tata Steel",
-      "price": 110.0,
-      "change": {
-        "change_type": "down",
-        "perc_change": 1.03
-      }
-    },
-    {
-      "name": "Bajaj Finserv",
-      "price": 1522.7,
-      "change": {
-        "change_type": "down",
-        "perc_change": 0.98
+        "perc_change": 1.63
       }
     }
   ]
