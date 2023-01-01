@@ -308,7 +308,7 @@ with col2:
         [prev_purchase_fii_stockfut - prev_sale_fii_stockfut, prev1_purchase_fii_stockfut - prev1_sale_fii_stockfut, avg_purchase_fii_stockfut - avg_sale_fii_stockfut],
         [prev_purchase_fii_stockopt - prev_sale_fii_stockopt, prev1_purchase_fii_stockopt - prev1_sale_fii_stockopt, avg_purchase_fii_stockopt - avg_sale_fii_stockopt], 
     ]
-    df = pd.DataFrame(data, columns=[day1, day2,'30D Average Net Purchase'], 
+    df = pd.DataFrame(data, columns=[yesterday, yesterday1,'30D Average Net Purchase'], 
                         index=['FII Cash', 'DII Cash', 'FII Index Futures', 'FII Index Options', 'FII Stock Futures', 'FII Stock Options'])
     df.reset_index(inplace=True)
     df.rename(columns={'index': 'Category'}, inplace=True)
@@ -343,7 +343,7 @@ with col2:
         [long_dii_ip-short_dii_ip, long_dii_ip1-short_dii_ip1, (long_dii_ip-short_dii_ip)-(long_dii_ip1-short_dii_ip1)],
     ]
 
-    df = pd.DataFrame(data, columns=[day1, day2, "1D change"],
+    df = pd.DataFrame(data, columns=[yesterday, yesterday1, "1D change"],
                       index=['FII Index Call Options', 'DII Index Call Options', 'FII Index Put Options', 'DII Index Put Options'])
     df.reset_index(inplace=True)
     df.rename(columns={'index': 'Category'}, inplace=True)
