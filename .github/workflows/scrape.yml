@@ -1,4 +1,4 @@
-name: run master_scraper
+name: Master Scraper
 
 on:
   schedule:
