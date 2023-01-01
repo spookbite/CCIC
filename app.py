@@ -364,7 +364,7 @@ with col2:
     st.header("Methodology ✍️")
     st.write("")
     st.write("We have made a concerted effort to ensure that the news stories we present to our users are from reputable and reliable sources. In order to achieve this, we have carefully selected a number of prominent news outlets to serve as our sources, and have implemented a web scraper to gather news stories from these sources on a regular basis.")
-    st.write("With that said, in order to maintain the integrity and relevance of our news feed, we have implemented a filter that removes any news stories that meet the following criteria: ")
+    st.write("With that said, in order to maintain the integrity and relevance of our news feed, we have implemented a filter that removes any news stories that does not meet the following criteria: ")
     st.write("👉  The company is listed in the NIFTY200 index.")
     st.write("👉  The news story was published yesterday.")
     st.write("👉  The news story was published over the weekend (if we are viewing the news feed on a Monday).")
