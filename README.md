@@ -23,7 +23,7 @@ GDR moves, Top Surfers for NSE 100 as per attached template from defined sources
 ## Methodology:
 We have made a concerted effort to ensure that the news stories we present to our users are from reputable and reliable sources. In order to achieve this, we have carefully selected a number of prominent news outlets to serve as our sources, and have implemented a web scraper to gather news stories from these sources on a regular basis.
 
-With that said, in order to maintain the integrity and relevance of our news feed, we have implemented a filter that removes any news stories that meet the following criteria:
+With that said, in order to maintain the integrity and relevance of our news feed, we have implemented a filter that removes any news stories that does not meet the following criteria:
 • The company is listed in the NIFTY200 index.
 • The news story was published yesterday.
 • The news story was published over the weekend (if we are viewing the news feed on a Monday).
