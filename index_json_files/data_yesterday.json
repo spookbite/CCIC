@@ -12,7 +12,7 @@
     },
     {
       "prevMkt": "CM",
-      "prevQty": "2,97,03,08,075",
+      "prevQty": "",
       "oi": ""
     },
     {
@@ -32,8 +32,8 @@
     },
     {
       "prevMkt": "FNOOPT",
-      "prevQty": "34,88,36,840",
-      "oi": "1,11,40,104"
+      "prevQty": "0",
+      "oi": "0"
     },
     {
       "prevMkt": "GIFUT",
@@ -42,8 +42,8 @@
     },
     {
       "prevMkt": "FNOSTKOPT",
-      "prevQty": "26,49,255",
-      "oi": "22,64,737"
+      "prevQty": "0",
+      "oi": "0"
     },
     {
       "prevMkt": "GIOPT",
@@ -52,13 +52,13 @@
     },
     {
       "prevMkt": "IRF",
-      "prevQty": "2,479",
-      "oi": "40,392"
+      "prevQty": "1,568",
+      "oi": "35,646"
     },
     {
       "prevMkt": "COMFUT",
       "prevQty": "1",
-      "oi": "1"
+      "oi": "2"
     }
   ]
 }

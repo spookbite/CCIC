@@ -1,66 +1,66 @@
 {
-  "title": "Core sector growth, Elin Electronics listing debut, & more",
-  "date": "2022-12-30T14:00:00.000Z",
-  "slug": "core-sector-growth-elin-electronics-listing-debut-and-more",
+  "title": "Rise in 4-wheeler sales, manufacturing PMI, & more",
+  "date": "2023-01-02T06:30:00.000Z",
+  "slug": "rise-in-4-wheeler-sales-manufacturing-pmi-and-more",
   "is_indian_market_open": true,
   "sensex": {
-    "value": 60840.74,
-    "change_type": "down",
-    "perc_change": 0.48
+    "value": 61167.79,
+    "change_type": "up",
+    "perc_change": 0.54
   },
   "nifty": {
-    "value": 18105.3,
-    "change_type": "down",
-    "perc_change": 0.47
+    "value": 18197.45,
+    "change_type": "up",
+    "perc_change": 0.51
   },
   "us_indices_date": "2022-12-30",
   "daily_change": {
     "is_gold_market_open": true,
     "gold": {
-      "value": 54975,
+      "value": 55179,
       "change_type": "up",
-      "perc_change": 0.34
+      "perc_change": 0.37
     },
     "is_silver_market_open": true,
     "silver": {
-      "value": 69459,
-      "change_type": "down",
-      "perc_change": 0
+      "value": 69561,
+      "change_type": "up",
+      "perc_change": 0.15
     },
     "is_usd_inr_market_open": true,
     "usd_inr": {
-      "value": 82.72,
-      "change_type": "down",
-      "perc_change": 0.09
+      "value": 82.74,
+      "change_type": "up",
+      "perc_change": 0.02
     },
     "is_dow_jones_market_open": true,
     "dow_jones": {
-      "value": 33220.8,
-      "change_type": "up",
-      "perc_change": 1.05
+      "value": 33147.25,
+      "change_type": "down",
+      "perc_change": 0.22
     },
     "is_nasdaq_market_open": true,
     "nasdaq": {
-      "value": 10478.09,
-      "change_type": "up",
-      "perc_change": 2.59
+      "value": 10466.49,
+      "change_type": "down",
+      "perc_change": 0.11
     }
   },
   "long_term_change": {
     "sensex": {
       "value": null,
       "change_type": "up",
-      "perc_change": 15.52
+      "perc_change": 15.68
     },
     "nifty": {
       "value": null,
       "change_type": "up",
-      "perc_change": 15.07
+      "perc_change": 15.03
     },
     "dow_jones": {
       "value": null,
       "change_type": "up",
-      "perc_change": 7.16
+      "perc_change": 7.15
     },
     "nasdaq": {
       "value": null,
@@ -70,99 +70,115 @@
   },
   "news": [
     {
-      "title": "More...",
-      "description": "+India's eight core sectors (including cement, coal, and steel) grew 5.4% in Nov 2022 vs 3.2% in Nov 2021.\n+India's external debt stood at $610.5 billion in the Sept quarter, down by $2.3 bn from the June quarter.\n+Sah Polymers IPO was subscribed 0.86 times on day 1. Retail investors subscribed 2.07 times.\n+Elin Electronics made its listing debut on NSE at Rs 244, a discount of 1.21% to its issue price. On BSE, it listed at Rs 243, a discount of 1.61%.\n+Stage-3 of the anti-pollution plan has been implemented in Delhi-NCR. Curbs include a ban on non-essential construction work and closure of mining activities.\n+India's fiscal deficit for the first 8 months of this financial year stood at Rs 9.78 lakh cr or 58.9% of annual estimates.\n+Wheat exports rose 29.29% to $1.5 bn during April-Nov vs $1.17 bn in the same period the previous year."
+      "title": "Rise in 4-wheeler sales, 2w sales decline",
+      "description": "Automakers released sales numbers for Dec'22. Here are the highlights:\nTata Motors: sold\u00a02.28 lakh units- 14.3% higher that compared to Dec 2021.\nMaruti Suzuki: sold 1.39 lakh units, 9% lesser.\nM&M: sales rose 45% to 56,677 units.\nAshok Leyland: sold 18000 units - 45% higher.\nEicher Motors: sold 7,221 vehicles - 17% higher.\n2 and 3-wheeler sales\nHero Moto: sold 3.94 lakh motorcycles and scooters - 0.2% lower than Dec 2021.\nBajaj Auto: sales stood at 2.81 lakh units - 22.3% lower.\nTVS Motors: sales fell 3.6% to 2.42 lakh units.\nEicher Motor: sold 68,400 units - 7.2% lower."
     },
     {
-      "title": "Stocks in the news",
-      "description": "Reliance: subsidiary will buy a 51% stake in Lotus Chocolates for Rs 74 cr.\nDish TV: shareholders rejected the adoption of the financial year 2021 and 2022 balance sheets.\nWelspun Enterprises: board approved Rs 235 cr buyback.\nShriram Finance: Asian Development Bank will give Rs 830 cr to Shriram Finance Limited to provide vehicle loans to women entrepreneurs.\nAdani Enterprises: acquired NDTV founders\u2019 27.26% stake.\nKalpataru Power: bagged new orders worth Rs 1,247 cr."
+      "title": "More...",
+      "description": "+Sah Polymers IPO was subscribed 2.37 times. Retail investors subscribed 7.46 times. The IPO is open till 4 Jan.\n+India\u2019s purchasing managers\u2019 index (PMI) for manufacturing (a measure of industrial production) rose to a 26-month high of 57.8 in December.\n+Net corporate tax collection stood at Rs 7.12 lakh cr in the financial year 2021-22.\n+Rishabh Instruments has filed draft papers with SEBI for an IPO.\n+Coffee shipments from India rose 1.66% to 4 lakh tonnes in 2022."
+    },
+    {
+      "title": "Other stocks in news",
+      "description": "Hero Moto: started deliveries of its first electric scooter Vida V1.\nEdelweiss Financial Services: will raise Rs 400 cr via debentures.\nNCC: won orders worth Rs 3,601 cr in Dec.\nPTC India: approved final dividend of Rs 5.80 per share.\nCoal India: coal supply to the power sector rose 11% to 432.7 million tonne in the April-Dec period."
+    },
+    {
+      "title": "Word of the day",
+      "description": "SME\nSmall and Medium-sized Enterprises (SMEs) are companies with a total revenue lesser than Rs 250 cr.\nSMEs include both manufacturing and service companies.\nSmall enterprises = initial investment of less than Rs 10 cr. Revenue less than Rs 50 cr.Medium enterprises = initial investment of less than Rs 50 cr. Revenue less than Rs 250 cr."
+    },
+    {
+      "title": "6-day course",
+      "description": "Theme: tax-saver mutual funds\nDay 1: Monday\nInvesting in a particular type of mutual fund can give investors tax benefits.\nThese mutual funds are called Equity Linked Savings Scheme (ELSS). Tax-saver funds is another name for these mutual funds.\nThis week, we\u2019ll discuss all about it.\nMany investors make a mistake and think they can get tax benefits for their investment in any mutual fund.\nThis isn\u2019t true.\nA tax benefit is available only in case of ELSS funds.\nIn most mutual funds, you can invest and withdraw any time.\nTax saver funds have a lock-in period of 3 years. \nMissed last week's course? You can download the course PDF - click to download."
+    },
+    {
+      "title": "Featured question",
+      "description": "\"Won't it be better to withdraw and reinvest all money from stocks and MFs at the end of each year rather than take all of it out all at once? Doing the yearly thing would reduce net taxes as most of the money would fall under the non taxable 1L slab.\"\n\u00a0\nYou could do that.\nBut remember, if you start taking out money early, you will also miss out on potential returns.\nMany investors do use the technique that you\u2019re suggesting. \n------------------\nIn this section, daily, we'll try to answer one burning question related to the field of personal finance education.\u00a0\nRemember, NO investment advice & ONLY personal finance education questions.\u00a0\nAsk your question here: Ask a question"
     }
   ],
   "introduction": {
-    "image": "https://cms-resources.groww.in/uploads/Screenshot_2022_12_30_at_7_12_44_PM_a1d001097a.png",
-    "content": "Fact: Nifty has fallen between 0% and 1% about 415 times in the last 5 years.\nAsian markets gained after losing for 2 days.\nThe Indian markets too remained in the green throughout the first half of the day.\nHowever, around 3:00 PM the markets saw heavy selling. The reason for this is not known yet.\nMarkets throughout the week were volatile, majorly influenced by global uncertainties.\nOil still continues to fall as more countries are putting restrictions on international travelers.\nIndia has also made a test report compulsory for travelers from Thailand, Hong Kong, Japan, South Korea, and Singapore.\nDespite the volatility, Sensex and Nifty gained around 1.6% this week."
+    "image": "https://cms-resources.groww.in/uploads/11_1f3d3e6ef3.png",
+    "content": "Happy New Year 2023!\nIndian markets kicked off the new year with around 0.5% gains. They remained in the green throughout the session.\nSGX Nifty was in the red, and US markets ended lower in their previous session. This usually signals a negative start for Indian markets.\nDespite that, both indices gained through the day.\nA few reports said markets rose because of the gain in metal stocks. Analysts shared a positive view on metal stocks due to the easing of curbs in China.\nNifty Metal was up 2.43% today, followed by Nifty PSE (Public sector enterprise), which was up 1.42%, and Nifty CDTY (Commodities) 1.28%.\nConsumption and pharma indices were the only losers.\nFact: Nifty has risen between 0% and 1% about 501 times in the last 5 years."
   },
   "top_gainers": [
     {
-      "name": "Bajaj Finserv",
-      "price": 1547.85,
+      "name": "Tata Steel",
+      "price": 119.25,
       "change": {
         "change_type": "up",
-        "perc_change": 2.39
+        "perc_change": 5.86
       }
     },
     {
-      "name": "Titan",
-      "price": 2597.5,
+      "name": "Hindalco",
+      "price": 487.05,
       "change": {
         "change_type": "up",
-        "perc_change": 1.73
-      }
-    },
-    {
-      "name": "Coal India",
-      "price": 225.05,
-      "change": {
-        "change_type": "up",
-        "perc_change": 1.53
+        "perc_change": 2.89
       }
     },
     {
       "name": "ONGC",
-      "price": 146.75,
+      "price": 150.45,
       "change": {
         "change_type": "up",
-        "perc_change": 1.45
+        "perc_change": 2.52
       }
     },
     {
-      "name": "Bajaj Auto",
-      "price": 3616.05,
+      "name": "Tata Motors",
+      "price": 394.8,
       "change": {
         "change_type": "up",
-        "perc_change": 1.32
+        "perc_change": 1.77
+      }
+    },
+    {
+      "name": "ICICI Bank",
+      "price": 902.45,
+      "change": {
+        "change_type": "up",
+        "perc_change": 1.3
       }
     }
   ],
   "top_losers": [
     {
-      "name": "SBI Life",
-      "price": 1231.3,
+      "name": "Asian Paints",
+      "price": 3047.25,
       "change": {
         "change_type": "down",
-        "perc_change": 2.17
+        "perc_change": 1.32
       }
     },
     {
-      "name": "ICICI Bank",
-      "price": 890.85,
+      "name": "Titan",
+      "price": 2565.75,
       "change": {
         "change_type": "down",
-        "perc_change": 1.89
+        "perc_change": 1.22
       }
     },
     {
-      "name": "Airtel",
-      "price": 806.1,
+      "name": "Divi's Labs",
+      "price": 3372.65,
       "change": {
         "change_type": "down",
-        "perc_change": 1.78
+        "perc_change": 1.19
       }
     },
     {
-      "name": "Grasim",
-      "price": 1723.5,
+      "name": "Bajaj Auto",
+      "price": 3573.95,
       "change": {
         "change_type": "down",
-        "perc_change": 1.67
+        "perc_change": 1.16
       }
     },
     {
-      "name": "Eicher Motors",
-      "price": 3227.75,
+      "name": "Hero Motocorp",
+      "price": 2715.9,
       "change": {
         "change_type": "down",
-        "perc_change": 1.63
+        "perc_change": 0.84
       }
     }
   ]
