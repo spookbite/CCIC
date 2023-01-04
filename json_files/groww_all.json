@@ -1,184 +1,180 @@
 {
-  "title": "Rise in 4-wheeler sales, manufacturing PMI, & more",
-  "date": "2023-01-02T06:30:00.000Z",
-  "slug": "rise-in-4-wheeler-sales-manufacturing-pmi-and-more",
+  "title": "PSUs exempted from shareholding norm, Sah Polymers IPO, & more",
+  "date": "2023-01-03T06:30:00.000Z",
+  "slug": "ps-us-exempted-from-shareholding-norm-sah-polymers-ipo-and-more",
   "is_indian_market_open": true,
   "sensex": {
-    "value": 61167.79,
+    "value": 61294.2,
     "change_type": "up",
-    "perc_change": 0.54
+    "perc_change": 0.21
   },
   "nifty": {
-    "value": 18197.45,
+    "value": 18232.55,
     "change_type": "up",
-    "perc_change": 0.51
+    "perc_change": 0.19
   },
-  "us_indices_date": "2022-12-30",
+  "us_indices_date": null,
   "daily_change": {
     "is_gold_market_open": true,
     "gold": {
-      "value": 55179,
+      "value": 55536,
       "change_type": "up",
-      "perc_change": 0.37
+      "perc_change": 0.65
     },
     "is_silver_market_open": true,
     "silver": {
-      "value": 69561,
+      "value": 70600,
       "change_type": "up",
-      "perc_change": 0.15
+      "perc_change": 1.49
     },
     "is_usd_inr_market_open": true,
     "usd_inr": {
-      "value": 82.74,
+      "value": 82.88,
       "change_type": "up",
-      "perc_change": 0.02
+      "perc_change": 0.17
     },
-    "is_dow_jones_market_open": true,
+    "is_dow_jones_market_open": false,
     "dow_jones": {
-      "value": 33147.25,
-      "change_type": "down",
-      "perc_change": 0.22
+      "value": null,
+      "change_type": "up",
+      "perc_change": null
     },
-    "is_nasdaq_market_open": true,
+    "is_nasdaq_market_open": false,
     "nasdaq": {
-      "value": 10466.49,
-      "change_type": "down",
-      "perc_change": 0.11
+      "value": null,
+      "change_type": "up",
+      "perc_change": null
     }
   },
   "long_term_change": {
     "sensex": {
       "value": null,
       "change_type": "up",
-      "perc_change": 15.68
+      "perc_change": 15.63
     },
     "nifty": {
       "value": null,
       "change_type": "up",
-      "perc_change": 15.03
+      "perc_change": 15.13
     },
     "dow_jones": {
       "value": null,
       "change_type": "up",
-      "perc_change": 7.15
+      "perc_change": null
     },
     "nasdaq": {
       "value": null,
       "change_type": "up",
-      "perc_change": 10.83
+      "perc_change": null
     }
   },
   "news": [
     {
-      "title": "Rise in 4-wheeler sales, 2w sales decline",
-      "description": "Automakers released sales numbers for Dec'22. Here are the highlights:\nTata Motors: sold\u00a02.28 lakh units- 14.3% higher that compared to Dec 2021.\nMaruti Suzuki: sold 1.39 lakh units, 9% lesser.\nM&M: sales rose 45% to 56,677 units.\nAshok Leyland: sold 18000 units - 45% higher.\nEicher Motors: sold 7,221 vehicles - 17% higher.\n2 and 3-wheeler sales\nHero Moto: sold 3.94 lakh motorcycles and scooters - 0.2% lower than Dec 2021.\nBajaj Auto: sales stood at 2.81 lakh units - 22.3% lower.\nTVS Motors: sales fell 3.6% to 2.42 lakh units.\nEicher Motor: sold 68,400 units - 7.2% lower."
-    },
-    {
       "title": "More...",
-      "description": "+Sah Polymers IPO was subscribed 2.37 times. Retail investors subscribed 7.46 times. The IPO is open till 4 Jan.\n+India\u2019s purchasing managers\u2019 index (PMI) for manufacturing (a measure of industrial production) rose to a 26-month high of 57.8 in December.\n+Net corporate tax collection stood at Rs 7.12 lakh cr in the financial year 2021-22.\n+Rishabh Instruments has filed draft papers with SEBI for an IPO.\n+Coffee shipments from India rose 1.66% to 4 lakh tonnes in 2022."
+      "description": "+Sah Polymers IPO was subscribed 5.35 times. Retail investors subscribed 16.53 times. The IPO is open till 4 Jan.\n+The govt has exempted public sector companies from the rule that makes it compulsory for listed companies to have at least 25% public float (explained later)."
     },
     {
-      "title": "Other stocks in news",
-      "description": "Hero Moto: started deliveries of its first electric scooter Vida V1.\nEdelweiss Financial Services: will raise Rs 400 cr via debentures.\nNCC: won orders worth Rs 3,601 cr in Dec.\nPTC India: approved final dividend of Rs 5.80 per share.\nCoal India: coal supply to the power sector rose 11% to 432.7 million tonne in the April-Dec period."
+      "title": "Stocks in the news",
+      "description": "ZEE: The Indian Performing Right Society (IPRS) has filed a petition against ZEE claiming a default of Rs 211.4 cr in music royalty payments.\nDabur: completed acquisition of 51% stake in Badshah Masala.\nAirtel: launched 5G services in Indore.\nSBI: is planning to raise Rs 10,000 cr through infrastructure bonds in 2023.\nUCO Bank: approved raising Rs 1,000 cr through bonds.\nNTPC: launched India's first green hydrogen blending project."
     },
     {
       "title": "Word of the day",
-      "description": "SME\nSmall and Medium-sized Enterprises (SMEs) are companies with a total revenue lesser than Rs 250 cr.\nSMEs include both manufacturing and service companies.\nSmall enterprises = initial investment of less than Rs 10 cr. Revenue less than Rs 50 cr.Medium enterprises = initial investment of less than Rs 50 cr. Revenue less than Rs 250 cr."
+      "description": "Public float\nNot all shares of a company can be bought and sold by the general investors.\nPublic float is the portion of a company's shares that can be publicly bought and sold.\nThe rest of the shares are held by promoters, institutional investors, governments, etc."
     },
     {
       "title": "6-day course",
-      "description": "Theme: tax-saver mutual funds\nDay 1: Monday\nInvesting in a particular type of mutual fund can give investors tax benefits.\nThese mutual funds are called Equity Linked Savings Scheme (ELSS). Tax-saver funds is another name for these mutual funds.\nThis week, we\u2019ll discuss all about it.\nMany investors make a mistake and think they can get tax benefits for their investment in any mutual fund.\nThis isn\u2019t true.\nA tax benefit is available only in case of ELSS funds.\nIn most mutual funds, you can invest and withdraw any time.\nTax saver funds have a lock-in period of 3 years. \nMissed last week's course? You can download the course PDF - click to download."
+      "description": "Theme: tax-saver mutual funds\nDay 2: Tuesday\nOne of the most misunderstood aspects of ELSS funds is the lock-in period itself.\nThe lock-in period is for 3 years from the date of investment.\nIf you invest on 2nd Feb 2022, you will be able to take out that money from 2nd Feb 2025 onwards.\nHow does this work in case of SIPs?\nEach SIP instalment is treated as a separate investment.\nSo the money invested on 1st April 2022 will come out of lock-in on 1st April 2025; the money invested on 1st May 2022 will come out of lock-in on 1st May 2025 and so on.\nAlso, you don\u2019t have to take out the money after 3 years. You can leave it invested so it continues to grow \u2014 you can take it out any time after 3 years.\nMissed last week's course? You can download the course PDF - click to download."
     },
     {
       "title": "Featured question",
-      "description": "\"Won't it be better to withdraw and reinvest all money from stocks and MFs at the end of each year rather than take all of it out all at once? Doing the yearly thing would reduce net taxes as most of the money would fall under the non taxable 1L slab.\"\n\u00a0\nYou could do that.\nBut remember, if you start taking out money early, you will also miss out on potential returns.\nMany investors do use the technique that you\u2019re suggesting. \n------------------\nIn this section, daily, we'll try to answer one burning question related to the field of personal finance education.\u00a0\nRemember, NO investment advice & ONLY personal finance education questions.\u00a0\nAsk your question here: Ask a question"
+      "description": "\"Why one should invest in multiple funds and stocks for 15% gain if it can be gained through Index funds .\"\n\u00a0\nMany stock investors can get higher returns than the returns given by index funds.\nSimilarly, there are many mutual funds that have given returns better than index funds.\nIt is very simple, then.\nIf by investing in stocks or choosing mutual funds you can get higher returns than index funds, it makes perfect sense to not invest in index funds.\n------------------\nIn this section, daily, we'll try to answer one burning question related to the field of personal finance education.\u00a0\nRemember, NO investment advice & ONLY personal finance education questions.\u00a0\nAsk your question here: Ask a question"
     }
   ],
   "introduction": {
-    "image": "https://cms-resources.groww.in/uploads/11_1f3d3e6ef3.png",
-    "content": "Happy New Year 2023!\nIndian markets kicked off the new year with around 0.5% gains. They remained in the green throughout the session.\nSGX Nifty was in the red, and US markets ended lower in their previous session. This usually signals a negative start for Indian markets.\nDespite that, both indices gained through the day.\nA few reports said markets rose because of the gain in metal stocks. Analysts shared a positive view on metal stocks due to the easing of curbs in China.\nNifty Metal was up 2.43% today, followed by Nifty PSE (Public sector enterprise), which was up 1.42%, and Nifty CDTY (Commodities) 1.28%.\nConsumption and pharma indices were the only losers.\nFact: Nifty has risen between 0% and 1% about 501 times in the last 5 years."
+    "image": "https://cms-resources.groww.in/uploads/Jan_3_1152451055.png",
+    "content": "Fact: Nifty has risen between 0% and 1% about 501 times in the last 5 years.\nIndian markets started the day in the red on a flat note.\nIt went in the red again for an hour during the session, ending the day with a 0.2% gain.\nAlmost all the Asian markets, along with SGX Nifty, were in the red.\nIT, pharma, PSU bank, and finance stocks gained the most today. Media and metal stocks were among the top losers.\nUS markets were shut on Jan 2 for New Year's Day. There will be no updates on Dow Jones and Nasdaq."
   },
   "top_gainers": [
     {
-      "name": "Tata Steel",
-      "price": 119.25,
+      "name": "HDFC Life",
+      "price": 595.6,
       "change": {
         "change_type": "up",
-        "perc_change": 5.86
+        "perc_change": 4.44
       }
     },
     {
-      "name": "Hindalco",
-      "price": 487.05,
+      "name": "SBI Life",
+      "price": 1268.4,
       "change": {
         "change_type": "up",
-        "perc_change": 2.89
+        "perc_change": 2.29
       }
     },
     {
-      "name": "ONGC",
-      "price": 150.45,
+      "name": "Axis Bank",
+      "price": 962.3,
       "change": {
         "change_type": "up",
-        "perc_change": 2.52
+        "perc_change": 2.2
       }
     },
     {
-      "name": "Tata Motors",
-      "price": 394.8,
+      "name": "Titan",
+      "price": 2613.6,
       "change": {
         "change_type": "up",
-        "perc_change": 1.77
+        "perc_change": 1.86
       }
     },
     {
-      "name": "ICICI Bank",
-      "price": 902.45,
+      "name": "TCS",
+      "price": 3311.35,
       "change": {
         "change_type": "up",
-        "perc_change": 1.3
+        "perc_change": 1.53
       }
     }
   ],
   "top_losers": [
     {
-      "name": "Asian Paints",
-      "price": 3047.25,
+      "name": "Hindalco",
+      "price": 479.9,
       "change": {
         "change_type": "down",
-        "perc_change": 1.32
+        "perc_change": 1.47
       }
     },
     {
-      "name": "Titan",
-      "price": 2565.75,
+      "name": "Britannia",
+      "price": 4241.85,
       "change": {
         "change_type": "down",
-        "perc_change": 1.22
+        "perc_change": 1.17
       }
     },
     {
-      "name": "Divi's Labs",
-      "price": 3372.65,
+      "name": "M&M",
+      "price": 1249.3,
       "change": {
         "change_type": "down",
-        "perc_change": 1.19
+        "perc_change": 1.07
       }
     },
     {
-      "name": "Bajaj Auto",
-      "price": 3573.95,
+      "name": "JSW Steel",
+      "price": 767.9,
       "change": {
         "change_type": "down",
-        "perc_change": 1.16
+        "perc_change": 0.95
       }
     },
     {
-      "name": "Hero Motocorp",
-      "price": 2715.9,
+      "name": "Grasim",
+      "price": 1717.05,
       "change": {
         "change_type": "down",
-        "perc_change": 0.84
+        "perc_change": 0.82
       }
     }
   ]
