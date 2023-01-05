@@ -1,180 +1,180 @@
 {
-  "title": "PSUs exempted from shareholding norm, Sah Polymers IPO, & more",
-  "date": "2023-01-03T06:30:00.000Z",
-  "slug": "ps-us-exempted-from-shareholding-norm-sah-polymers-ipo-and-more",
+  "title": "Radiant lists at premium, service sector growth, & more",
+  "date": "2023-01-04T06:30:00.000Z",
+  "slug": "radiant-lists-at-premium-service-sector-growth-and-more",
   "is_indian_market_open": true,
   "sensex": {
-    "value": 61294.2,
-    "change_type": "up",
-    "perc_change": 0.21
+    "value": 60657.45,
+    "change_type": "down",
+    "perc_change": 1.04
   },
   "nifty": {
-    "value": 18232.55,
-    "change_type": "up",
-    "perc_change": 0.19
+    "value": 18042.95,
+    "change_type": "down",
+    "perc_change": 1.04
   },
-  "us_indices_date": null,
+  "us_indices_date": "2023-01-03",
   "daily_change": {
     "is_gold_market_open": true,
     "gold": {
-      "value": 55536,
+      "value": 55869,
       "change_type": "up",
-      "perc_change": 0.65
+      "perc_change": 0.6
     },
     "is_silver_market_open": true,
     "silver": {
-      "value": 70600,
-      "change_type": "up",
-      "perc_change": 1.49
+      "value": 70214,
+      "change_type": "down",
+      "perc_change": 0.55
     },
     "is_usd_inr_market_open": true,
     "usd_inr": {
-      "value": 82.88,
-      "change_type": "up",
-      "perc_change": 0.17
+      "value": 82.8,
+      "change_type": "down",
+      "perc_change": 0.09
     },
-    "is_dow_jones_market_open": false,
+    "is_dow_jones_market_open": true,
     "dow_jones": {
-      "value": null,
-      "change_type": "up",
-      "perc_change": null
+      "value": 33136.37,
+      "change_type": "down",
+      "perc_change": 0.76
     },
-    "is_nasdaq_market_open": false,
+    "is_nasdaq_market_open": true,
     "nasdaq": {
-      "value": null,
-      "change_type": "up",
-      "perc_change": null
+      "value": 10386.98,
+      "change_type": "down",
+      "perc_change": 0.76
     }
   },
   "long_term_change": {
     "sensex": {
       "value": null,
       "change_type": "up",
-      "perc_change": 15.63
+      "perc_change": 15.61
     },
     "nifty": {
       "value": null,
       "change_type": "up",
-      "perc_change": 15.13
+      "perc_change": 15.1
     },
     "dow_jones": {
       "value": null,
       "change_type": "up",
-      "perc_change": null
+      "perc_change": 6.98
     },
     "nasdaq": {
       "value": null,
       "change_type": "up",
-      "perc_change": null
+      "perc_change": 10.59
     }
   },
   "news": [
     {
       "title": "More...",
-      "description": "+Sah Polymers IPO was subscribed 5.35 times. Retail investors subscribed 16.53 times. The IPO is open till 4 Jan.\n+The govt has exempted public sector companies from the rule that makes it compulsory for listed companies to have at least 25% public float (explained later)."
+      "description": "+Radiant Cash Management listed at a 9.57% premium on NSE. On BSE, it listed with a 5.64% premium.\n+Purchasing Managers' Index (PMI) for the services sector - a measure of sales growth in the service industry - improved to 58.5 in Dec vs 56.4 in Nov.\n+Sah Polymers IPO was subscribed 17.46 times. Retail investors subscribed 39.78 times.\n+AMFI has upgraded 7 midcap stocks to largecap. Varun Beverages, ABB India, Page Industries, Tata Elxsi, Bosch, Trent, and PI Industries.\n+NCLAT has directed Google to pay Rs 133.8 cr penalty for using its dominant position unfairly.\n+The govt has approved Rs 19,744 cr National Green Hydrogen Mission.\n+Paddy procurement by the central govt rose 9.58% to 541.90 lakh tonne in the ongoing 2022-23 kharif marketing season.\n+Delhi logged the lowest temperature of this season -4.4 degree celsius. Orange alert has been issued for next 2 days."
     },
     {
       "title": "Stocks in the news",
-      "description": "ZEE: The Indian Performing Right Society (IPRS) has filed a petition against ZEE claiming a default of Rs 211.4 cr in music royalty payments.\nDabur: completed acquisition of 51% stake in Badshah Masala.\nAirtel: launched 5G services in Indore.\nSBI: is planning to raise Rs 10,000 cr through infrastructure bonds in 2023.\nUCO Bank: approved raising Rs 1,000 cr through bonds.\nNTPC: launched India's first green hydrogen blending project."
+      "description": "Bharat Forge: has partnered with General Atomics to manufacture aerostructures.\nGodrej Consumer Products: opened a mega warehouse in Punjab.\nTVS: iQube e-scooter recorded best-ever sales in Dec.\nSJVN: govt approved Rs 2,614.51 cr investment for SJVN\u2019s 382 MW Sunni Dam Hydro Electric Project in Himachal Pradesh.\nIndus Towers: appointed Prachur Sah as MD and CEO."
     },
     {
       "title": "Word of the day",
-      "description": "Public float\nNot all shares of a company can be bought and sold by the general investors.\nPublic float is the portion of a company's shares that can be publicly bought and sold.\nThe rest of the shares are held by promoters, institutional investors, governments, etc."
+      "description": "Public Sector Enterprises\nPublic Sector Enterprises are companies that are owned by the government.\nThey are established with the goal of producing goods and services at affordable prices and also to deal with scarcity of any particular good.\nCentral Public Sector Undertakings are owned by the central govt. State Public Sector Undertakings are owned by state governments."
     },
     {
       "title": "6-day course",
-      "description": "Theme: tax-saver mutual funds\nDay 2: Tuesday\nOne of the most misunderstood aspects of ELSS funds is the lock-in period itself.\nThe lock-in period is for 3 years from the date of investment.\nIf you invest on 2nd Feb 2022, you will be able to take out that money from 2nd Feb 2025 onwards.\nHow does this work in case of SIPs?\nEach SIP instalment is treated as a separate investment.\nSo the money invested on 1st April 2022 will come out of lock-in on 1st April 2025; the money invested on 1st May 2022 will come out of lock-in on 1st May 2025 and so on.\nAlso, you don\u2019t have to take out the money after 3 years. You can leave it invested so it continues to grow \u2014 you can take it out any time after 3 years.\nMissed last week's course? You can download the course PDF - click to download."
+      "description": "Theme: tax-saver mutual funds\nDay 3: Wednesday\nAnother crucial fact to realise is that with ELSS, you can only get a tax benefit under section 80C.\nSection 80C allows a total tax benefit of up to Rs 1.5 lakh.\nWhich means, while calculating tax, you can reduce your income by up to Rs 1.5 lakh before calculating tax.\nSection 80C is made up of many other components also. You can use insurance, FD investment, etc in section 80C also.\nSo plan accordingly. You might not need to invest Rs 1.5 lakh in ELSS \u2014 you might be able to invest less also.\nAny extra amount invested in an ELSS fund will not give you tax benefits. But the extra amount will remain locked-in for 3 years \u2014 that is the rule.\nSo plan your investments and tax carefully.\nMissed last week's course? You can download the course PDF - click to download."
     },
     {
       "title": "Featured question",
-      "description": "\"Why one should invest in multiple funds and stocks for 15% gain if it can be gained through Index funds .\"\n\u00a0\nMany stock investors can get higher returns than the returns given by index funds.\nSimilarly, there are many mutual funds that have given returns better than index funds.\nIt is very simple, then.\nIf by investing in stocks or choosing mutual funds you can get higher returns than index funds, it makes perfect sense to not invest in index funds.\n------------------\nIn this section, daily, we'll try to answer one burning question related to the field of personal finance education.\u00a0\nRemember, NO investment advice & ONLY personal finance education questions.\u00a0\nAsk your question here: Ask a question"
+      "description": "\"How the compounding works in mutual fund? Like the gain/loss keeps fluctuating thorugh out the year and beyond so when does the amc actually takes the gain of the fund to give us the compounding return. CAGR is understandable but how it actually works if i have to compare it with bank fd .\"\n\u00a0\nThe best way to think about mutual fund investment is to think in terms of a real estate investment (and not FD).\nWhen you buy a house, do you get annual returns? Is there a \u2018principal\u2019 or \u2018interest\u2019?\nNo.\nThe price of the house itself goes up.\nWhen you sell the house, you can use the final price of the house, and compare it with the price you bought it at.\nUsing that, you can find the effective per annum returns of that investment.\nIt works similarly with mutual funds also.\n------------------\nIn this section, daily, we'll try to answer one burning question related to the field of personal finance education.\u00a0\nRemember, NO investment advice & ONLY personal finance education questions.\u00a0\nAsk your question here: Ask a question"
     }
   ],
   "introduction": {
-    "image": "https://cms-resources.groww.in/uploads/Jan_3_1152451055.png",
-    "content": "Fact: Nifty has risen between 0% and 1% about 501 times in the last 5 years.\nIndian markets started the day in the red on a flat note.\nIt went in the red again for an hour during the session, ending the day with a 0.2% gain.\nAlmost all the Asian markets, along with SGX Nifty, were in the red.\nIT, pharma, PSU bank, and finance stocks gained the most today. Media and metal stocks were among the top losers.\nUS markets were shut on Jan 2 for New Year's Day. There will be no updates on Dow Jones and Nasdaq."
+    "image": "https://cms-resources.groww.in/uploads/22_0e7ce00b8d.png",
+    "content": "Fact: Nifty has fallen between 1% and 2% about 109 times in the last 5 years.\nIndian markets fell almost 1% today due to fears of rising cases and fears of interest rate hikes. US Federal Reserve will be announcing its fed rate hike path for 2023.\nAsian markets gave mixed signals and SGX Nifty was negative before the markets opened today.\nAll indices ended in the red today."
   },
   "top_gainers": [
     {
+      "name": "Divi's Labs",
+      "price": 3435.55,
+      "change": {
+        "change_type": "up",
+        "perc_change": 1.25
+      }
+    },
+    {
       "name": "HDFC Life",
-      "price": 595.6,
+      "price": 598.6,
       "change": {
         "change_type": "up",
-        "perc_change": 4.44
+        "perc_change": 0.5
       }
     },
     {
-      "name": "SBI Life",
-      "price": 1268.4,
+      "name": "Maruti Suzuki",
+      "price": 8422.8,
       "change": {
         "change_type": "up",
-        "perc_change": 2.29
+        "perc_change": 0.48
       }
     },
     {
-      "name": "Axis Bank",
-      "price": 962.3,
+      "name": "Dr Reddy's",
+      "price": 4253.5,
       "change": {
         "change_type": "up",
-        "perc_change": 2.2
+        "perc_change": 0.36
       }
     },
     {
-      "name": "Titan",
-      "price": 2613.6,
+      "name": "UltraTech",
+      "price": 7005.35,
       "change": {
         "change_type": "up",
-        "perc_change": 1.86
-      }
-    },
-    {
-      "name": "TCS",
-      "price": 3311.35,
-      "change": {
-        "change_type": "up",
-        "perc_change": 1.53
+        "perc_change": 0.17
       }
     }
   ],
   "top_losers": [
     {
-      "name": "Hindalco",
-      "price": 479.9,
-      "change": {
-        "change_type": "down",
-        "perc_change": 1.47
-      }
-    },
-    {
-      "name": "Britannia",
-      "price": 4241.85,
-      "change": {
-        "change_type": "down",
-        "perc_change": 1.17
-      }
-    },
-    {
-      "name": "M&M",
-      "price": 1249.3,
-      "change": {
-        "change_type": "down",
-        "perc_change": 1.07
-      }
-    },
-    {
       "name": "JSW Steel",
-      "price": 767.9,
+      "price": 736.3,
       "change": {
         "change_type": "down",
-        "perc_change": 0.95
+        "perc_change": 4.12
       }
     },
     {
-      "name": "Grasim",
-      "price": 1717.05,
+      "name": "Hindalco",
+      "price": 461.5,
       "change": {
         "change_type": "down",
-        "perc_change": 0.82
+        "perc_change": 3.83
+      }
+    },
+    {
+      "name": "Coal India",
+      "price": 217.15,
+      "change": {
+        "change_type": "down",
+        "perc_change": 3.1
+      }
+    },
+    {
+      "name": "Tata Steel",
+      "price": 115.75,
+      "change": {
+        "change_type": "down",
+        "perc_change": 2.28
+      }
+    },
+    {
+      "name": "ONGC",
+      "price": 146.25,
+      "change": {
+        "change_type": "down",
+        "perc_change": 2.21
       }
     }
   ]
