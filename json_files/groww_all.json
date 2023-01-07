@@ -1,180 +1,180 @@
 {
-  "title": "Rise in airline passengers, record EV sales, & more",
-  "date": "2023-01-05T06:30:00.000Z",
-  "slug": "rise-in-airline-passengers-record-ev-sales-and-more",
+  "title": "Rise in fundraising, foreign universities in India, & more",
+  "date": "2023-01-06T06:30:00.000Z",
+  "slug": "rise-in-fundraising-foreign-universities-in-india-and-more",
   "is_indian_market_open": true,
   "sensex": {
-    "value": 60353.27,
+    "value": 59900.37,
     "change_type": "down",
-    "perc_change": 0.5
+    "perc_change": 0.75
   },
   "nifty": {
-    "value": 17992.15,
+    "value": 17859.45,
     "change_type": "down",
-    "perc_change": 0.28
+    "perc_change": 0.74
   },
-  "us_indices_date": "2023-01-04",
+  "us_indices_date": "2023-01-05",
   "daily_change": {
     "is_gold_market_open": true,
     "gold": {
-      "value": 55529,
+      "value": 55350,
       "change_type": "down",
-      "perc_change": 0.6
+      "perc_change": 0.32
     },
     "is_silver_market_open": true,
     "silver": {
-      "value": 68381,
-      "change_type": "down",
-      "perc_change": 2.6
+      "value": 68523,
+      "change_type": "up",
+      "perc_change": 0.21
     },
     "is_usd_inr_market_open": true,
     "usd_inr": {
-      "value": 82.55,
-      "change_type": "down",
-      "perc_change": 0.29
+      "value": 82.72,
+      "change_type": "up",
+      "perc_change": 0.19
     },
     "is_dow_jones_market_open": true,
     "dow_jones": {
-      "value": 33269.77,
-      "change_type": "up",
-      "perc_change": 0.39
+      "value": 32930.08,
+      "change_type": "down",
+      "perc_change": 1.02
     },
     "is_nasdaq_market_open": true,
     "nasdaq": {
-      "value": 10458.76,
-      "change_type": "up",
-      "perc_change": 0.68
+      "value": 10305.24,
+      "change_type": "down",
+      "perc_change": 1.47
     }
   },
   "long_term_change": {
     "sensex": {
       "value": null,
       "change_type": "up",
-      "perc_change": 15.57
+      "perc_change": 15.54
     },
     "nifty": {
       "value": null,
       "change_type": "up",
-      "perc_change": 15.07
+      "perc_change": 15.04
     },
     "dow_jones": {
       "value": null,
       "change_type": "up",
-      "perc_change": 6.87
+      "perc_change": 6.84
     },
     "nasdaq": {
       "value": null,
       "change_type": "up",
-      "perc_change": 10.46
+      "perc_change": 10.37
     }
   },
   "news": [
     {
       "title": "More...",
-      "description": "+India's monthly domestic air passenger traffic rose 15% to around 1.29 cr passengers in Dec 2022.\n+Retail sales of vehicles in India grew by 15.28% to 2.1 cr units in 2022: FADA.\n+Delhi recorded the highest-ever monthly electric vehicle sales as compared to all other states and UTs. 7,046 EVs were sold in Delhi, a growth of 86%. 2 wheelers contribute around 55% of the total sales.\n+Bengaluru-Chennai Expressway will be ready by March next year: Union Minister Nitin Gadkari. It is expected to reduce total travel time to 2 hours (5-6 hours currently).\n+ISRO and Microsoft will collaborate to support the growth of space tech startups in India."
+      "description": "+UGC has released a draft legislation that aims to facilitate entry and operation of foreign universities in India.\nFund-raising through certificates of deposit (CD) rose to a five-month high of Rs 77,357 cr in December as compared Rs 71,818 crore in November: Prime Database.\n+Delhi and Bengaluru were ranked among the 10 best-performing airports globally in 2022: analytics firm Cirium. The ranking was based on-time departure and arrivals."
     },
     {
       "title": "Stocks in the news",
-      "description": "Maruti Suzuki: completed 40 years in the Indian automobile market.\nGodrej Properties: sold 870 units for Rs 435 cr in its housing project at Ahmedabad, Gujarat.\nMahindra Finance: RBI lifted ban on the company\u2019s outsourcing loan recovery.\nBajaj Finance: assets under management (AUM) grew by 27% year-on-year to Rs 2.30 trillion as of Dec 31, 2022.\nKeystone Realtors: bagged a 4.2-acre redevelopment project in Chembur (Mumbai).\nBSNL: will launch 5G services in 2024.\nIndusInd Bank: tied up with Qatar Airways and British Airways to launch a multi-brand credit card for Indian customers.\nIRB Infra: approved 1:10 stock split."
+      "description": "Reliance Industries: Jio 5G is now available in over 72 cities. In other news, Reliance Group companies launched an open offer to acquire a 26% stake in Lotus Chocolate.\nCanara Bank: hiked repo rate linked lending rate to 9.15% from 8.80%.\nIIFL Finance: planning to raise up to Rs 1,000 cr via debentures.\nMacrotech: reported a 16% growth in its sales bookings at Rs 3,035 cr in the Dec quarter.\nAirtel: launched 5G services in Hissar, Rohtak.\nDabur: mentioned that currency movements and inflation can have an impact on its operating margin in the near term."
     },
     {
       "title": "Word of the Day",
-      "description": "Net Debt\nNet debt is the amount that is left after deducting a company\u2019s cash (liquid assets) from its borrowings.\nNet debt = borrowings - cash. \nIt is used to determine whether the company will be able to pay its borrowings in case the lenders ask for repayment immediately.\nThe lesser the net debt, the better the ability."
+      "description": "Tax Expenses\nTax expenses refer to the amount of tax that a company is liable to pay.\nIt is categorised into current tax (taxes to be paid for the current accounting period) and deferred tax (income taxes payable in future).\nIn the income statement of a company, tax expenses are deducted from the profit to calculate the net profit."
     },
     {
       "title": "6 Day Course",
-      "description": "Investment made in ELSS funds can be used to give tax benefits in the current financial year only \u2014 even though they\u2019re locked-in for 3 years.\nThis means, every new financial year, you need to make fresh investments in an ELSS fund to avail tax benefit under section 80C.\nAny extra amount invested in one year does not carry over benefits to the next year.\nOnly investments made in a financial year can be used for benefits in the same financial year.\nDo note, ELSS mutual funds\u2019 lock-in of 3 years is the shortest lock-in period among all tax-savings investments.\nOther options like tax savings FD, NPS, etc have much longer lock-in periods.\nIt goes without saying, ELSS mutual funds\u2019 returns aren\u2019t fixed or guaranteed. So far, they\u2019ve given the highest returns (over the long term) among all tax-savings investment options."
+      "description": "Theme: tax-saver mutual funds\nDay 5: Friday\nELSS funds are required to invest more than 80% of their money in equity (share markets).\nBut, there is no rule mandating the percentage of the money that needs to be invested in large-cap, mid-cap, and small-cap stocks.\nStill, most ELSS funds invest a bulk of their money in large-cap stocks. Smaller portions are invested in mid and small-cap stocks.\nThese are all actively managed funds.\nSEBI has just given the permission for passive ELSS funds. This would mean the ELSS funds invest in an index. No fund manager makes the buy/sell decision.\nRegardless, the main motive of ELSS funds remains the same: generate higher returns while saving tax."
     },
     {
       "title": "Featured Question",
-      "description": "\"What are Index Funds and how it differs from normal funds ?\"\n\u00a0\nMutual funds are active funds \u2014 meaning, the decision to buy, sell, or hold stocks is made by a fund manager and his/her team.\nThey research and choose stocks based on their investment philosophy.\nThe decision-making is active in nature.\nIndex funds on the other hand are passive. No person makes a buy or sell decision.\nIndex funds merely replicate an index.\nFor example, the index Nifty 50 is made up of the 50 biggest companies in India.\nSo a Nifty 50 index fund invests its money in the 50 biggest stocks in India maintaining weightage.\nIt also maintains the same weightage as the companies\u2019 size.\nSo, Reliance is the biggest company in India - the index fund will buy more shares of Reliance, then next, the 2nd biggest company, and so on."
+      "description": "\"Why there is share price variations in BSE & NSE?\"\nAny share\u2019s price is determined by supply and demand.\nOn both exchanges, BSE and NSE, trading is happening at the same time \u2014 causing the prices to go up and down.\nIt is possible that a stock climbs/falls more on one exchange. This happens because of a difference in supply and demand on the different exchanges.\nThere could be more buyers on one exchange and more sellers on another exchange.\nThis is why there is a difference.\nBut do note, most of the time, the prices are either the same or very similar.\nWhy?\nBecause if the stock is priced lower on one exchange, people start buying from it and selling at the exchange where the price is higher \u2014 for a profit.\nThis causes the difference in prices to become very small or vanish."
     }
   ],
   "introduction": {
-    "image": "https://cms-resources.groww.in/uploads/222_91eb2cbfbe.png",
-    "content": "Fact: Nifty has fallen between 0% and 1% about 416 times in the last 5 years."
+    "image": "https://cms-resources.groww.in/uploads/2223_7349eb4354.png",
+    "content": "Fact: Nifty has fallen between 0% and 1% about 417 times in the last 5 years."
   },
   "top_gainers": [
     {
-      "name": "Hero Moto",
-      "price": 2767.15,
+      "name": "Britannia",
+      "price": 4359.05,
       "change": {
         "change_type": "up",
-        "perc_change": 2.14
+        "perc_change": 1.06
       }
     },
     {
-      "name": "Cipla",
-      "price": 1088.35,
+      "name": "M&M",
+      "price": 1264.9,
       "change": {
         "change_type": "up",
-        "perc_change": 2.01
+        "perc_change": 0.98
       }
     },
     {
-      "name": "NTPC",
-      "price": 169.9,
+      "name": "Reliance",
+      "price": 2536.9,
       "change": {
         "change_type": "up",
-        "perc_change": 1.98
+        "perc_change": 0.91
       }
     },
     {
-      "name": "ITC",
-      "price": 333.45,
+      "name": "BPCL",
+      "price": 344.7,
       "change": {
         "change_type": "up",
-        "perc_change": 1.97
+        "perc_change": 0.69
       }
     },
     {
-      "name": "JSW Steel",
-      "price": 750.7,
+      "name": "Bajaj Auto",
+      "price": 3642.25,
       "change": {
         "change_type": "up",
-        "perc_change": 1.96
+        "perc_change": 0.58
       }
     }
   ],
   "top_losers": [
     {
-      "name": "Bajaj Finance",
-      "price": 6100.05,
+      "name": "TCS",
+      "price": 3211.55,
       "change": {
         "change_type": "down",
-        "perc_change": 7.17
+        "perc_change": 3.01
+      }
+    },
+    {
+      "name": "JSW Steel",
+      "price": 728.35,
+      "change": {
+        "change_type": "down",
+        "perc_change": 2.98
+      }
+    },
+    {
+      "name": "IndusInd Bank",
+      "price": 1181.9,
+      "change": {
+        "change_type": "down",
+        "perc_change": 2.79
       }
     },
     {
       "name": "Bajaj Finserv",
-      "price": 1468.85,
+      "price": 1430.35,
       "change": {
         "change_type": "down",
-        "perc_change": 5.1
+        "perc_change": 2.62
       }
     },
     {
-      "name": "ICICI Bank",
-      "price": 879.15,
+      "name": "Tech Mahindra",
+      "price": 986.15,
       "change": {
         "change_type": "down",
-        "perc_change": 2.22
-      }
-    },
-    {
-      "name": "Titan",
-      "price": 2562.1,
-      "change": {
-        "change_type": "down",
-        "perc_change": 1.36
-      }
-    },
-    {
-      "name": "Infosys",
-      "price": 1475.2,
-      "change": {
-        "change_type": "down",
-        "perc_change": 1.31
+        "perc_change": 2.52
       }
     }
   ]
