@@ -1,180 +1,184 @@
 {
-  "title": "Rise in fundraising, foreign universities in India, & more",
-  "date": "2023-01-06T06:30:00.000Z",
-  "slug": "rise-in-fundraising-foreign-universities-in-india-and-more",
+  "title": "TCS announces dividend, rise in India\u2019s iPhone exports, & more",
+  "date": "2023-01-09T06:30:00.000Z",
+  "slug": "tcs-announces-dividend-rise-in-india-s-i-phone-exports-and-more",
   "is_indian_market_open": true,
   "sensex": {
-    "value": 59900.37,
-    "change_type": "down",
-    "perc_change": 0.75
+    "value": 60747.31,
+    "change_type": "up",
+    "perc_change": 1.41
   },
   "nifty": {
-    "value": 17859.45,
-    "change_type": "down",
-    "perc_change": 0.74
+    "value": 18101.2,
+    "change_type": "up",
+    "perc_change": 1.35
   },
-  "us_indices_date": "2023-01-05",
+  "us_indices_date": "2023-01-06",
   "daily_change": {
     "is_gold_market_open": true,
     "gold": {
-      "value": 55350,
-      "change_type": "down",
-      "perc_change": 0.32
+      "value": 56054,
+      "change_type": "up",
+      "perc_change": 1.27
     },
     "is_silver_market_open": true,
     "silver": {
-      "value": 68523,
+      "value": 69469,
       "change_type": "up",
-      "perc_change": 0.21
+      "perc_change": 1.38
     },
     "is_usd_inr_market_open": true,
     "usd_inr": {
-      "value": 82.72,
-      "change_type": "up",
-      "perc_change": 0.19
+      "value": 82.36,
+      "change_type": "down",
+      "perc_change": 0.44
     },
     "is_dow_jones_market_open": true,
     "dow_jones": {
-      "value": 32930.08,
-      "change_type": "down",
-      "perc_change": 1.02
+      "value": 33630.61,
+      "change_type": "up",
+      "perc_change": 2.13
     },
     "is_nasdaq_market_open": true,
     "nasdaq": {
-      "value": 10305.24,
-      "change_type": "down",
-      "perc_change": 1.47
+      "value": 10569.29,
+      "change_type": "up",
+      "perc_change": 2.56
     }
   },
   "long_term_change": {
     "sensex": {
       "value": null,
       "change_type": "up",
-      "perc_change": 15.54
+      "perc_change": 15.53
     },
     "nifty": {
       "value": null,
       "change_type": "up",
-      "perc_change": 15.04
+      "perc_change": 15.05
     },
     "dow_jones": {
       "value": null,
       "change_type": "up",
-      "perc_change": 6.84
+      "perc_change": 6.95
     },
     "nasdaq": {
       "value": null,
       "change_type": "up",
-      "perc_change": 10.37
+      "perc_change": 10.51
     }
   },
   "news": [
     {
+      "title": "Quarterly Results: TCS",
+      "description": "Net profit rose 10.98% to Rs 10,883 cr during the Oct-Dec 2022 quarter compared to the same quarter in 2021.Consolidated revenue was Rs 58,229 cr, up 19.11%.The company has declared an interim dividend of Rs 8 and a special dividend of Rs 67 per share."
+    },
+    {
       "title": "More...",
-      "description": "+UGC has released a draft legislation that aims to facilitate entry and operation of foreign universities in India.\nFund-raising through certificates of deposit (CD) rose to a five-month high of Rs 77,357 cr in December as compared Rs 71,818 crore in November: Prime Database.\n+Delhi and Bengaluru were ranked among the 10 best-performing airports globally in 2022: analytics firm Cirium. The ranking was based on-time departure and arrivals."
+      "description": "+Exports of iPhones from India in April-Dec 2022 doubled to $2.5 billion compared to last year.\n+Integration of UPI and Singapore\u2019s PayNow will begin soon: Monetary Authority of Singapore. This will reduce remittance cost by up to 10%.\n+Ather Energy IPO will not take place this year: CEO Tarun Mehta."
     },
     {
       "title": "Stocks in the news",
-      "description": "Reliance Industries: Jio 5G is now available in over 72 cities. In other news, Reliance Group companies launched an open offer to acquire a 26% stake in Lotus Chocolate.\nCanara Bank: hiked repo rate linked lending rate to 9.15% from 8.80%.\nIIFL Finance: planning to raise up to Rs 1,000 cr via debentures.\nMacrotech: reported a 16% growth in its sales bookings at Rs 3,035 cr in the Dec quarter.\nAirtel: launched 5G services in Hissar, Rohtak.\nDabur: mentioned that currency movements and inflation can have an impact on its operating margin in the near term."
+      "description": "Tata Motors: retail sales of Jaguar-Land Rover rose 5.9% to 84,827 in the Oct-Dec quarter. In other news, Tata has started deliveries of its new Ace EV.\nPunjab & Sind Bank: will cross Rs 2 lakh cr business milestone soon: MD Swarup Kumar.\nPaytm: recorded a 330% jump in loan distribution business to Rs 3,665 cr in Dec 2022.\nPVR: opened new multiplexes in Jaipur, Bengaluru, and Gurugram.\nBandhan Bank: collection efficiency ratio increased to 98% at the end of Oct-Dec 2022 from 95% at the end of the July-Sep quarter.\nHDFC Capital: raised $376 mn for its affordable housing fund."
     },
     {
-      "title": "Word of the Day",
-      "description": "Tax Expenses\nTax expenses refer to the amount of tax that a company is liable to pay.\nIt is categorised into current tax (taxes to be paid for the current accounting period) and deferred tax (income taxes payable in future).\nIn the income statement of a company, tax expenses are deducted from the profit to calculate the net profit."
+      "title": "Word of the day",
+      "description": "Collection Efficiency\nCollection efficiency refers to the % of money a bank is able to get back as compared to the total loan amount.\nA higher collection efficiency ratio (above ~95%) means that the bank is able to recover most of its loans (i.e. the borrowers are paying back their loans).\nA lower ratio shows it is facing problems in getting back the money from its borrowers."
     },
     {
-      "title": "6 Day Course",
-      "description": "Theme: tax-saver mutual funds\nDay 5: Friday\nELSS funds are required to invest more than 80% of their money in equity (share markets).\nBut, there is no rule mandating the percentage of the money that needs to be invested in large-cap, mid-cap, and small-cap stocks.\nStill, most ELSS funds invest a bulk of their money in large-cap stocks. Smaller portions are invested in mid and small-cap stocks.\nThese are all actively managed funds.\nSEBI has just given the permission for passive ELSS funds. This would mean the ELSS funds invest in an index. No fund manager makes the buy/sell decision.\nRegardless, the main motive of ELSS funds remains the same: generate higher returns while saving tax."
+      "title": "6-day course",
+      "description": "Theme: tools to pick stocks\nDay 1: Monday\nThere are many tools investors use to pick stocks. In this week\u2019s course, we\u2019ll explore some of these tools.\nScreener\nScreener is a tool that helps you filter stocks based on certain criteria.\nFor example, let\u2019s say you want a few stocks that belong to the banking sector, have a market cap of greater than Rs 50,000 cr, and have a PE ratio of less than 30.\nYou can go to a stock screener and put in these conditions. The stocks that match will be displayed.\nThese are just a few examples. There are many filters in screeners \u2014 most stock investing platforms offer stock screeners.\nMany investors also use screeners to look for new investment ideas.\nMissed last week's course? You can download the course PDF - click to download."
     },
     {
-      "title": "Featured Question",
-      "description": "\"Why there is share price variations in BSE & NSE?\"\nAny share\u2019s price is determined by supply and demand.\nOn both exchanges, BSE and NSE, trading is happening at the same time \u2014 causing the prices to go up and down.\nIt is possible that a stock climbs/falls more on one exchange. This happens because of a difference in supply and demand on the different exchanges.\nThere could be more buyers on one exchange and more sellers on another exchange.\nThis is why there is a difference.\nBut do note, most of the time, the prices are either the same or very similar.\nWhy?\nBecause if the stock is priced lower on one exchange, people start buying from it and selling at the exchange where the price is higher \u2014 for a profit.\nThis causes the difference in prices to become very small or vanish."
+      "title": "Featured question",
+      "description": "\"Is large cap funds and index funds are same?\"\nThey can be similar. But they are not the same.\nAn index fund invests in an index \u2014 a list of stocks. Like, the 30 biggest companies (Sensex 30), the 50 biggest companies (Nifty 50), and so on.\nIn index funds, no fund manager makes the buy/sell/hold decision.\nThe stocks are bought and sold based on their weightage in the list (or index).\nIn case of an index fund tracking the 50 biggest stocks in India, the index fund will invest the highest in the biggest company\u2019s stock, then the 2nd biggest, and so on.\nMost index funds invest in large-cap stocks (100 biggest companies in India). But there can be an index fund investing in smaller companies also (mid-cap, small-cap, etc).\nIn large-cap mutual funds (not index funds), the decision to buy/sell/hold a stock is made by a fund manager. It is his/her wish.\nThe only rule they have to follow is that at least 80% of the money should be invested in large-cap stocks.\n------------------\nIn this section, daily, we'll try to answer one burning question related to the field of personal finance education.\u00a0\nRemember, NO investment advice & ONLY personal finance education questions.\u00a0\nAsk your question here: Ask a question"
     }
   ],
   "introduction": {
-    "image": "https://cms-resources.groww.in/uploads/2223_7349eb4354.png",
-    "content": "Fact: Nifty has fallen between 0% and 1% about 417 times in the last 5 years."
+    "image": "https://cms-resources.groww.in/uploads/Jan_9_abc37da47a.png",
+    "content": "Fact: Nifty has risen between 1% and 2% about 142 times in the last 5 years.\nThe gains mostly came from a rally in the global markets.\nUS markets gained more than 2% on Jan 6 (Friday) after reports showed that employment increased in the US.\nSome analysts expect the Fed to ease its rate hikes in 2023 after the positive employment data.\nAsian markets were also up today.\nAll sectors ended in the green."
   },
   "top_gainers": [
     {
-      "name": "Britannia",
-      "price": 4359.05,
-      "change": {
-        "change_type": "up",
-        "perc_change": 1.06
-      }
-    },
-    {
       "name": "M&M",
-      "price": 1264.9,
+      "price": 1310.35,
       "change": {
         "change_type": "up",
-        "perc_change": 0.98
+        "perc_change": 3.59
       }
     },
     {
-      "name": "Reliance",
-      "price": 2536.9,
+      "name": "TCS",
+      "price": 3319.95,
       "change": {
         "change_type": "up",
-        "perc_change": 0.91
+        "perc_change": 3.38
       }
     },
     {
-      "name": "BPCL",
-      "price": 344.7,
+      "name": "HCL Tech",
+      "price": 1067.45,
       "change": {
         "change_type": "up",
-        "perc_change": 0.69
+        "perc_change": 3.35
       }
     },
     {
-      "name": "Bajaj Auto",
-      "price": 3642.25,
+      "name": "IndusInd Bank",
+      "price": 1218.65,
       "change": {
         "change_type": "up",
-        "perc_change": 0.58
+        "perc_change": 3.11
+      }
+    },
+    {
+      "name": "Tech Mahindra",
+      "price": 1015.25,
+      "change": {
+        "change_type": "up",
+        "perc_change": 2.95
       }
     }
   ],
   "top_losers": [
     {
-      "name": "TCS",
-      "price": 3211.55,
+      "name": "Titan",
+      "price": 2484.65,
       "change": {
         "change_type": "down",
-        "perc_change": 3.01
-      }
-    },
-    {
-      "name": "JSW Steel",
-      "price": 728.35,
-      "change": {
-        "change_type": "down",
-        "perc_change": 2.98
-      }
-    },
-    {
-      "name": "IndusInd Bank",
-      "price": 1181.9,
-      "change": {
-        "change_type": "down",
-        "perc_change": 2.79
+        "perc_change": 2.11
       }
     },
     {
       "name": "Bajaj Finserv",
-      "price": 1430.35,
+      "price": 1414.0,
       "change": {
         "change_type": "down",
-        "perc_change": 2.62
+        "perc_change": 1.14
       }
     },
     {
-      "name": "Tech Mahindra",
-      "price": 986.15,
+      "name": "Bajaj Auto",
+      "price": 3620.75,
       "change": {
         "change_type": "down",
-        "perc_change": 2.52
+        "perc_change": 0.59
+      }
+    },
+    {
+      "name": "HDFC Life",
+      "price": 608.45,
+      "change": {
+        "change_type": "down",
+        "perc_change": 0.52
+      }
+    },
+    {
+      "name": "Grasim",
+      "price": 1673.6,
+      "change": {
+        "change_type": "down",
+        "perc_change": 0.42
       }
     }
   ]
