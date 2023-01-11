@@ -1,184 +1,180 @@
 {
-  "title": "TCS announces dividend, rise in India\u2019s iPhone exports, & more",
-  "date": "2023-01-09T06:30:00.000Z",
-  "slug": "tcs-announces-dividend-rise-in-india-s-i-phone-exports-and-more",
+  "title": "Equity funds record net inflow, new PLI scheme soon, & more",
+  "date": "2023-01-10T06:30:00.000Z",
+  "slug": "equity-funds-record-net-inflow-new-pli-scheme-soon-and-more",
   "is_indian_market_open": true,
   "sensex": {
-    "value": 60747.31,
-    "change_type": "up",
-    "perc_change": 1.41
+    "value": 60115.48,
+    "change_type": "down",
+    "perc_change": 1.04
   },
   "nifty": {
-    "value": 18101.2,
-    "change_type": "up",
-    "perc_change": 1.35
+    "value": 17914.15,
+    "change_type": "down",
+    "perc_change": 1.03
   },
-  "us_indices_date": "2023-01-06",
+  "us_indices_date": "2023-01-09",
   "daily_change": {
     "is_gold_market_open": true,
     "gold": {
-      "value": 56054,
-      "change_type": "up",
-      "perc_change": 1.27
+      "value": 55752,
+      "change_type": "down",
+      "perc_change": 0.54
     },
     "is_silver_market_open": true,
     "silver": {
-      "value": 69469,
-      "change_type": "up",
-      "perc_change": 1.38
+      "value": 68251,
+      "change_type": "down",
+      "perc_change": 1.75
     },
     "is_usd_inr_market_open": true,
     "usd_inr": {
-      "value": 82.36,
+      "value": 81.79,
       "change_type": "down",
-      "perc_change": 0.44
+      "perc_change": 0.7
     },
     "is_dow_jones_market_open": true,
     "dow_jones": {
-      "value": 33630.61,
-      "change_type": "up",
-      "perc_change": 2.13
+      "value": 33517.65,
+      "change_type": "down",
+      "perc_change": 0.34
     },
     "is_nasdaq_market_open": true,
     "nasdaq": {
-      "value": 10569.29,
+      "value": 10635.65,
       "change_type": "up",
-      "perc_change": 2.56
+      "perc_change": 0.63
     }
   },
   "long_term_change": {
     "sensex": {
       "value": null,
       "change_type": "up",
-      "perc_change": 15.53
+      "perc_change": 15.58
     },
     "nifty": {
       "value": null,
       "change_type": "up",
-      "perc_change": 15.05
+      "perc_change": 15.14
     },
     "dow_jones": {
       "value": null,
       "change_type": "up",
-      "perc_change": 6.95
+      "perc_change": 6.93
     },
     "nasdaq": {
       "value": null,
       "change_type": "up",
-      "perc_change": 10.51
+      "perc_change": 10.49
     }
   },
   "news": [
     {
-      "title": "Quarterly Results: TCS",
-      "description": "Net profit rose 10.98% to Rs 10,883 cr during the Oct-Dec 2022 quarter compared to the same quarter in 2021.Consolidated revenue was Rs 58,229 cr, up 19.11%.The company has declared an interim dividend of Rs 8 and a special dividend of Rs 67 per share."
-    },
-    {
       "title": "More...",
-      "description": "+Exports of iPhones from India in April-Dec 2022 doubled to $2.5 billion compared to last year.\n+Integration of UPI and Singapore\u2019s PayNow will begin soon: Monetary Authority of Singapore. This will reduce remittance cost by up to 10%.\n+Ather Energy IPO will not take place this year: CEO Tarun Mehta."
+      "description": "+Net inflow into equity funds stood at Rs 7,303.39 cr in Dec 2022. Net outflow out of debt mutual funds stood at Rs 21,946.73 cr.\n+Govt will soon launch a new PLI scheme for IT hardware: Union Minister Rajeev Chandrasekhar.\n+Cyient DLM Ltd., a subsidiary of Cyient, has filed draft papers for an IPO.\n+The Assets Under Management (AUM) of the mutual fund industry rose by 5.7% (Rs 2.2 lakh cr) to Rs 39.88 lakh cr in 2022: AMFI.\n+Carlyle Group has acquired a majority stake in VLCC for around $300 mn, as per media reports.\n+Housing sales across India\u2019s 8 major cities stood at a 9-year high of 3.13 lakh units in 2022.\n+Elon Musk now holds the world record for the largest loss of personal fortune in history. He has lost over $182 bn: Guinness World Record.\n+Remittances from overseas Indians increased by 12% to $100 bn in 2022.\n+BharatPe has received RBI's nod to become an online payment aggregator.\n+Delhi was India\u2019s most polluted city in 2022: Central Pollution Control Board.\n+India's fuel consumption rose 3.1% year-on-year in Dec to 1.96 cr tonnes."
     },
     {
       "title": "Stocks in the news",
-      "description": "Tata Motors: retail sales of Jaguar-Land Rover rose 5.9% to 84,827 in the Oct-Dec quarter. In other news, Tata has started deliveries of its new Ace EV.\nPunjab & Sind Bank: will cross Rs 2 lakh cr business milestone soon: MD Swarup Kumar.\nPaytm: recorded a 330% jump in loan distribution business to Rs 3,665 cr in Dec 2022.\nPVR: opened new multiplexes in Jaipur, Bengaluru, and Gurugram.\nBandhan Bank: collection efficiency ratio increased to 98% at the end of Oct-Dec 2022 from 95% at the end of the July-Sep quarter.\nHDFC Capital: raised $376 mn for its affordable housing fund."
+      "description": "Jindal Worldwide: has set up an electric vehicle plant in Ahmedabad.\nCoal India: subsidiary NCL will start production of manufactured sand.\nLupin: received approval from the US authority for a generic medicine to treat heart ailments.\nReliance: Jio has become the first telecom company to launch a 5G-specific recharge plan."
     },
     {
       "title": "Word of the day",
-      "description": "Collection Efficiency\nCollection efficiency refers to the % of money a bank is able to get back as compared to the total loan amount.\nA higher collection efficiency ratio (above ~95%) means that the bank is able to recover most of its loans (i.e. the borrowers are paying back their loans).\nA lower ratio shows it is facing problems in getting back the money from its borrowers."
+      "description": "Bond price-yield relationship\nBonds are issued at a coupon rate that the issuer pays to the investor.\nOnce issued, the coupon rate never changes but the \u2018yield\u2019 (% gain from rise in price of the bond) changes with a rise or fall in the bond's price.\nWith a rise in rates by central banks, the yield rise. When central banks decrease the rates, the yields fall.\nThe way bonds work is complex and interesting. Do make sure you read more on this."
     },
     {
       "title": "6-day course",
-      "description": "Theme: tools to pick stocks\nDay 1: Monday\nThere are many tools investors use to pick stocks. In this week\u2019s course, we\u2019ll explore some of these tools.\nScreener\nScreener is a tool that helps you filter stocks based on certain criteria.\nFor example, let\u2019s say you want a few stocks that belong to the banking sector, have a market cap of greater than Rs 50,000 cr, and have a PE ratio of less than 30.\nYou can go to a stock screener and put in these conditions. The stocks that match will be displayed.\nThese are just a few examples. There are many filters in screeners \u2014 most stock investing platforms offer stock screeners.\nMany investors also use screeners to look for new investment ideas.\nMissed last week's course? You can download the course PDF - click to download."
+      "description": "Theme: tools to pick stocks\nDay 2: Tuesday\nStocks graphs.\nWhether you are a long-term inventor or a short-term trader, you will end up spending time looking at and analysing graphs of the stocks.\nGraphs are the starting point of research for many.\nSay there's a sudden rise on xyz date. You can then go and check why that happened.\nLikewise, you can check how the stock price behaves on important dates like the dividend date, quarterly results date, etc.\nThis can help you understand how resilient a stock price is to certain events, which events affect that stock more, etc.\nExample, when the markets were crashing in 2020, FMCG sector stocks were shooting up unlike other stocks.\nMissed last week's course? You can download the course PDF - click to download."
     },
     {
       "title": "Featured question",
-      "description": "\"Is large cap funds and index funds are same?\"\nThey can be similar. But they are not the same.\nAn index fund invests in an index \u2014 a list of stocks. Like, the 30 biggest companies (Sensex 30), the 50 biggest companies (Nifty 50), and so on.\nIn index funds, no fund manager makes the buy/sell/hold decision.\nThe stocks are bought and sold based on their weightage in the list (or index).\nIn case of an index fund tracking the 50 biggest stocks in India, the index fund will invest the highest in the biggest company\u2019s stock, then the 2nd biggest, and so on.\nMost index funds invest in large-cap stocks (100 biggest companies in India). But there can be an index fund investing in smaller companies also (mid-cap, small-cap, etc).\nIn large-cap mutual funds (not index funds), the decision to buy/sell/hold a stock is made by a fund manager. It is his/her wish.\nThe only rule they have to follow is that at least 80% of the money should be invested in large-cap stocks.\n------------------\nIn this section, daily, we'll try to answer one burning question related to the field of personal finance education.\u00a0\nRemember, NO investment advice & ONLY personal finance education questions.\u00a0\nAsk your question here: Ask a question"
+      "description": "\"In ELSS Scheme after 3 year lock in period withdrawal amount will be taxable or not?\"\nProfits or gains from investing in ELSS funds is taxable.\nIt is paid only when you withdraw. Say you invest Rs 1.5 lakh in 2019. The lock-in ends in 2022. But you take out this money in 2025.\nSo you will have to pay a tax in 2025 only.\nAlso, it is on the gain or profit, not the entire amount.\nThere is a Rs 1 lakh exemption on gains from equity.\nSo only if your gains from equity (shares, equity mutual funds, ELSS, etc) in a given year is higher than Rs 1 lakh do you pay tax.\nOtherwise, you pay Rs 0 in taxes (you still have to show it when you file your taxes).\n------------------\nIn this section, daily, we'll try to answer one burning question related to the field of personal finance education.\u00a0\nRemember, NO investment advice & ONLY personal finance education questions.\u00a0\nAsk your question here: Ask a question"
     }
   ],
   "introduction": {
-    "image": "https://cms-resources.groww.in/uploads/Jan_9_abc37da47a.png",
-    "content": "Fact: Nifty has risen between 1% and 2% about 142 times in the last 5 years.\nThe gains mostly came from a rally in the global markets.\nUS markets gained more than 2% on Jan 6 (Friday) after reports showed that employment increased in the US.\nSome analysts expect the Fed to ease its rate hikes in 2023 after the positive employment data.\nAsian markets were also up today.\nAll sectors ended in the green."
+    "image": "https://cms-resources.groww.in/uploads/Jan_10_86d37fa347.png",
+    "content": "Fact: Nifty has fallen between 1% and 2% about 110 times in the last 5 years.\nCommodity markets ended higher on the news of China reopening its economy. This happens because China is one of India's major trade partners.\nThe US bond yields fell on expecting slower rate hikes because of which the Indian bond yields also ended lower.\nThe reason why bond yields fall on slower rate hikes is explained later in the 'Word of the Day' section.\nBoth India and the US will announce their inflation numbers coming Thursday.\nAll sectors ended in the red today. Bank stocks fell the most."
   },
   "top_gainers": [
     {
-      "name": "M&M",
-      "price": 1310.35,
+      "name": "Tata Motors",
+      "price": 412.9,
       "change": {
         "change_type": "up",
-        "perc_change": 3.59
+        "perc_change": 6.02
       }
     },
     {
-      "name": "TCS",
-      "price": 3319.95,
+      "name": "Hindalco",
+      "price": 477.55,
       "change": {
         "change_type": "up",
-        "perc_change": 3.38
+        "perc_change": 1.44
       }
     },
     {
-      "name": "HCL Tech",
-      "price": 1067.45,
+      "name": "Apollo Hospitals",
+      "price": 4466.65,
       "change": {
         "change_type": "up",
-        "perc_change": 3.35
+        "perc_change": 1.34
       }
     },
     {
-      "name": "IndusInd Bank",
-      "price": 1218.65,
+      "name": "Power Grid",
+      "price": 211.8,
       "change": {
         "change_type": "up",
-        "perc_change": 3.11
+        "perc_change": 1.29
       }
     },
     {
-      "name": "Tech Mahindra",
-      "price": 1015.25,
+      "name": "Divi's Labs",
+      "price": 3501.85,
       "change": {
         "change_type": "up",
-        "perc_change": 2.95
+        "perc_change": 1.22
       }
     }
   ],
   "top_losers": [
     {
-      "name": "Titan",
-      "price": 2484.65,
+      "name": "Adani Enterprises",
+      "price": 3646.9,
       "change": {
         "change_type": "down",
-        "perc_change": 2.11
+        "perc_change": 5.41
       }
     },
     {
-      "name": "Bajaj Finserv",
-      "price": 1414.0,
+      "name": "Airtel",
+      "price": 792.85,
       "change": {
         "change_type": "down",
-        "perc_change": 1.14
+        "perc_change": 3.24
       }
     },
     {
-      "name": "Bajaj Auto",
-      "price": 3620.75,
+      "name": "Eicher Motors",
+      "price": 3167.55,
       "change": {
         "change_type": "down",
-        "perc_change": 0.59
+        "perc_change": 2.91
       }
     },
     {
-      "name": "HDFC Life",
-      "price": 608.45,
+      "name": "Adani Ports",
+      "price": 796.4,
       "change": {
         "change_type": "down",
-        "perc_change": 0.52
+        "perc_change": 2.48
       }
     },
     {
-      "name": "Grasim",
-      "price": 1673.6,
+      "name": "SBI",
+      "price": 595.15,
       "change": {
         "change_type": "down",
-        "perc_change": 0.42
+        "perc_change": 2.07
       }
     }
   ]

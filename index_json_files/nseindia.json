@@ -1,18 +1,18 @@
 {
   "equities": {
     "previous": {
-      "volume": 2394582364,
+      "volume": 2283295618,
       "open_interest": null
     },
     "today": {
-      "volume": 2286925697,
-      "traded_value": 44759.36,
-      "trd": 17790651,
+      "volume": 2247973162,
+      "traded_value": 44347.65,
+      "trd": 16986983,
       "pre_val": 0.0,
-      "valb": 447.59,
+      "valb": 443.48,
       "pre_valb": 0.0,
       "utm": "16:00",
-      "utmAs": "Jan 09, 2023"
+      "utmAs": "Jan 10, 2023"
     },
     "mkt": "CM"
   },
@@ -22,14 +22,14 @@
       "open_interest": 354274
     },
     "today": {
-      "volume": 383414,
-      "traded_value": 37133.31,
-      "trd": 240349,
+      "volume": 373009,
+      "traded_value": 36333.27,
+      "trd": 239133,
       "pre_val": 0.0,
-      "valb": 371.33,
+      "valb": 363.33,
       "pre_valb": 0.0,
       "utm": "15:30",
-      "utmAs": "Jan 09, 2023"
+      "utmAs": "Jan 10, 2023"
     },
     "mkt": "FNOFUT"
   },
@@ -39,14 +39,14 @@
       "open_interest": 11502101
     },
     "today": {
-      "volume": 154656781,
-      "traded_value": 49692.73,
-      "trd": 55441474,
-      "pre_val": 14683340.37,
-      "valb": 496.93,
-      "pre_valb": 146833.4,
+      "volume": 252218377,
+      "traded_value": 56588.73,
+      "trd": 83061509,
+      "pre_val": 22174175.95,
+      "valb": 565.89,
+      "pre_valb": 221741.76,
       "utm": "15:30",
-      "utmAs": "Jan 09, 2023"
+      "utmAs": "Jan 10, 2023"
     },
     "mkt": "FNOOPT"
   },
@@ -73,14 +73,14 @@
       "open_interest": 2817839
     },
     "today": {
-      "volume": 745544,
-      "traded_value": 52226.99,
-      "trd": 645689,
+      "volume": 764896,
+      "traded_value": 53788.53,
+      "trd": 654649,
       "pre_val": 0.0,
-      "valb": 522.27,
+      "valb": 537.89,
       "pre_valb": 0.0,
       "utm": "15:30",
-      "utmAs": "Jan 09, 2023"
+      "utmAs": "Jan 10, 2023"
     },
     "mkt": "FNOSTKFUT"
   },
@@ -90,14 +90,14 @@
       "open_interest": 1719431
     },
     "today": {
-      "volume": 2785554,
-      "traded_value": 2876.29,
-      "trd": 2224536,
-      "pre_val": 202143.53,
-      "valb": 28.76,
-      "pre_valb": 2021.44,
+      "volume": 3019982,
+      "traded_value": 3041.52,
+      "trd": 2381247,
+      "pre_val": 221563.08,
+      "valb": 30.42,
+      "pre_valb": 2215.63,
       "utm": "15:30",
-      "utmAs": "Jan 09, 2023"
+      "utmAs": "Jan 10, 2023"
     },
     "mkt": "FNOSTKOPT"
   },
@@ -137,35 +137,35 @@
   },
   "currency_futures": {
     "previous": {
-      "volume": 4997480,
-      "open_interest": 6767039
+      "volume": 4579318,
+      "open_interest": 6450668
     },
     "today": {
-      "volume": 4579112,
-      "traded_value": 38764.05,
-      "trd": 226214,
+      "volume": 7886243,
+      "traded_value": 65465.22,
+      "trd": 289764,
       "pre_val": 0.0,
-      "valb": 387.64,
+      "valb": 654.65,
       "pre_valb": 0.0,
       "utm": "17:00",
-      "utmAs": "Jan 09, 2023"
+      "utmAs": "Jan 10, 2023"
     },
     "mkt": "FUTCUR"
   },
   "currency_options": {
     "previous": {
-      "volume": 17994970,
-      "open_interest": 8891957
+      "volume": 13570097,
+      "open_interest": 6428221
     },
     "today": {
-      "volume": 13563485,
-      "traded_value": 205.53,
-      "trd": 256762,
-      "pre_val": 112161.27,
-      "valb": 2.06,
-      "pre_valb": 1121.61,
+      "volume": 23946496,
+      "traded_value": 420.23,
+      "trd": 480504,
+      "pre_val": 197342.0,
+      "valb": 4.2,
+      "pre_valb": 1973.42,
       "utm": "17:00",
-      "utmAs": "Jan 09, 2023"
+      "utmAs": "Jan 10, 2023"
     },
     "mkt": "OPTCUR"
   },
@@ -175,14 +175,14 @@
       "open_interest": 35646
     },
     "today": {
-      "volume": 889,
-      "traded_value": 17.67,
-      "trd": 37,
+      "volume": 1248,
+      "traded_value": 24.82,
+      "trd": 22,
       "pre_val": 0.0,
-      "valb": 0.18,
+      "valb": 0.25,
       "pre_valb": 0.0,
       "utm": "17:00",
-      "utmAs": "Jan 09, 2023"
+      "utmAs": "Jan 10, 2023"
     },
     "mkt": "IRF"
   },
