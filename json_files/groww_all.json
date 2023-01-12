@@ -1,180 +1,180 @@
 {
-  "title": "Equity funds record net inflow, new PLI scheme soon, & more",
-  "date": "2023-01-10T06:30:00.000Z",
-  "slug": "equity-funds-record-net-inflow-new-pli-scheme-soon-and-more",
+  "title": "Rise in tax collection, Sah Polymers listing, & more",
+  "date": "2023-01-11T06:30:00.000Z",
+  "slug": "rise-in-tax-collection-sah-polymers-listing-and-more",
   "is_indian_market_open": true,
   "sensex": {
-    "value": 60115.48,
+    "value": 60105.5,
     "change_type": "down",
-    "perc_change": 1.04
+    "perc_change": 0.02
   },
   "nifty": {
-    "value": 17914.15,
+    "value": 17895.7,
     "change_type": "down",
-    "perc_change": 1.03
+    "perc_change": 0.1
   },
-  "us_indices_date": "2023-01-09",
+  "us_indices_date": "2023-01-10",
   "daily_change": {
     "is_gold_market_open": true,
     "gold": {
-      "value": 55752,
-      "change_type": "down",
-      "perc_change": 0.54
+      "value": 55800,
+      "change_type": "up",
+      "perc_change": 0.08
     },
     "is_silver_market_open": true,
     "silver": {
-      "value": 68251,
-      "change_type": "down",
-      "perc_change": 1.75
+      "value": 68825,
+      "change_type": "up",
+      "perc_change": 0.84
     },
     "is_usd_inr_market_open": true,
     "usd_inr": {
-      "value": 81.79,
+      "value": 81.58,
       "change_type": "down",
-      "perc_change": 0.7
+      "perc_change": 0.25
     },
     "is_dow_jones_market_open": true,
     "dow_jones": {
-      "value": 33517.65,
-      "change_type": "down",
-      "perc_change": 0.34
+      "value": 33704.1,
+      "change_type": "up",
+      "perc_change": 0.54
     },
     "is_nasdaq_market_open": true,
     "nasdaq": {
-      "value": 10635.65,
+      "value": 10742.63,
       "change_type": "up",
-      "perc_change": 0.63
+      "perc_change": 1
     }
   },
   "long_term_change": {
     "sensex": {
       "value": null,
       "change_type": "up",
-      "perc_change": 15.58
+      "perc_change": 15.56
     },
     "nifty": {
       "value": null,
       "change_type": "up",
-      "perc_change": 15.14
+      "perc_change": 15.1
     },
     "dow_jones": {
       "value": null,
       "change_type": "up",
-      "perc_change": 6.93
+      "perc_change": 6.95
     },
     "nasdaq": {
       "value": null,
       "change_type": "up",
-      "perc_change": 10.49
+      "perc_change": 10.54
     }
   },
   "news": [
     {
       "title": "More...",
-      "description": "+Net inflow into equity funds stood at Rs 7,303.39 cr in Dec 2022. Net outflow out of debt mutual funds stood at Rs 21,946.73 cr.\n+Govt will soon launch a new PLI scheme for IT hardware: Union Minister Rajeev Chandrasekhar.\n+Cyient DLM Ltd., a subsidiary of Cyient, has filed draft papers for an IPO.\n+The Assets Under Management (AUM) of the mutual fund industry rose by 5.7% (Rs 2.2 lakh cr) to Rs 39.88 lakh cr in 2022: AMFI.\n+Carlyle Group has acquired a majority stake in VLCC for around $300 mn, as per media reports.\n+Housing sales across India\u2019s 8 major cities stood at a 9-year high of 3.13 lakh units in 2022.\n+Elon Musk now holds the world record for the largest loss of personal fortune in history. He has lost over $182 bn: Guinness World Record.\n+Remittances from overseas Indians increased by 12% to $100 bn in 2022.\n+BharatPe has received RBI's nod to become an online payment aggregator.\n+Delhi was India\u2019s most polluted city in 2022: Central Pollution Control Board.\n+India's fuel consumption rose 3.1% year-on-year in Dec to 1.96 cr tonnes."
+      "description": "+India\u2019s gross direct tax collection has risen 24.58% year-on-year to Rs 14.71 lakh cr so far in this financial year.\n+Sah Polymers will make its listing debut on BSE and NSE tomorrow (12th Jan).\n+Indian startups received funding of $24 bn in 2022, a drop of 33% in comparison to 2021: PwC India.\n+The govt has approved investment of Rs 2,600 cr to promote payments using RuPay cards and UPI.\n+Private equity investment in the Indian real estate market reached $4.9 bn in 2022 - a 20% increase year-over-year: media reports.\n+Boeing received orders for 774 airplanes in 2022 - the highest in 4 years.\n+The defence ministry has cleared projects worth Rs 4,276 cr - this includes the procurement of indigenous anti-tank missiles and a new short-range air defence missile."
     },
     {
       "title": "Stocks in the news",
-      "description": "Jindal Worldwide: has set up an electric vehicle plant in Ahmedabad.\nCoal India: subsidiary NCL will start production of manufactured sand.\nLupin: received approval from the US authority for a generic medicine to treat heart ailments.\nReliance: Jio has become the first telecom company to launch a 5G-specific recharge plan."
+      "description": "Atul Auto: forayed into the electric vehicle space by launching two electric 3-wheelers.\nAirtel: Airtel 5G Plus is now live in Kochi.\nHindalco: planning to raise Rs 700 cr via a bond sale.\nEicher Motors: subsidiary VECV has launched a new intercity electric bus.\nRail Vikas Nigam: bagged Chennai Metro Rail project worth Rs 1134 cr.\nSun Pharma: launched a breast cancer medicine in India.\nPB Fintech: received in-principle approval from RBI to run account aggregator business."
     },
     {
-      "title": "Word of the day",
-      "description": "Bond price-yield relationship\nBonds are issued at a coupon rate that the issuer pays to the investor.\nOnce issued, the coupon rate never changes but the \u2018yield\u2019 (% gain from rise in price of the bond) changes with a rise or fall in the bond's price.\nWith a rise in rates by central banks, the yield rise. When central banks decrease the rates, the yields fall.\nThe way bonds work is complex and interesting. Do make sure you read more on this."
+      "title": "Word of the Day",
+      "description": "Remittance\nRemittance is the money sent by a person to his home country.\nSay Ramesh lives in the US and he sends $1,000 back to his home in India - that money will be called remittance.\nA higher remittance amount is usually a sign that many people from a country are living and earning abroad."
     },
     {
-      "title": "6-day course",
-      "description": "Theme: tools to pick stocks\nDay 2: Tuesday\nStocks graphs.\nWhether you are a long-term inventor or a short-term trader, you will end up spending time looking at and analysing graphs of the stocks.\nGraphs are the starting point of research for many.\nSay there's a sudden rise on xyz date. You can then go and check why that happened.\nLikewise, you can check how the stock price behaves on important dates like the dividend date, quarterly results date, etc.\nThis can help you understand how resilient a stock price is to certain events, which events affect that stock more, etc.\nExample, when the markets were crashing in 2020, FMCG sector stocks were shooting up unlike other stocks.\nMissed last week's course? You can download the course PDF - click to download."
+      "title": "6 Day Course",
+      "description": "Day 3: Wednesday\nBalance sheet.\nThis is one of the most important tools available to investors.\nIt contains every public information about a company including income, expenditure, and borrowing.\nIt also contains other important details relevant to a given industry like number of bank accounts in case of banks, number of users in case of telecom operators, and so on.\nEvery detail contained in the balance sheet is authentic and audited. Stating incorrect figures in this is illegal.\nThis sheet can be downloaded from the company's website as well as the exchange website.\nInvestors make themselves very familiar with reading balance sheets."
     },
     {
-      "title": "Featured question",
-      "description": "\"In ELSS Scheme after 3 year lock in period withdrawal amount will be taxable or not?\"\nProfits or gains from investing in ELSS funds is taxable.\nIt is paid only when you withdraw. Say you invest Rs 1.5 lakh in 2019. The lock-in ends in 2022. But you take out this money in 2025.\nSo you will have to pay a tax in 2025 only.\nAlso, it is on the gain or profit, not the entire amount.\nThere is a Rs 1 lakh exemption on gains from equity.\nSo only if your gains from equity (shares, equity mutual funds, ELSS, etc) in a given year is higher than Rs 1 lakh do you pay tax.\nOtherwise, you pay Rs 0 in taxes (you still have to show it when you file your taxes).\n------------------\nIn this section, daily, we'll try to answer one burning question related to the field of personal finance education.\u00a0\nRemember, NO investment advice & ONLY personal finance education questions.\u00a0\nAsk your question here: Ask a question"
+      "title": "Featured Question",
+      "description": "\"What is the cutoff time for placing a Mutual Funds order to receive the same-day NAV ???\"\n\u00a0\nA mutual fund\u2019s assets value changes every working day.\nThat is how it goes up over time (or down if it is a bad mutual fund). This change reflects in the NAV on every working day.\nThe cut-off time decides which day\u2019s NAV you get. If you invest after the cut-off time on any given day, you\u2019ll get the next day\u2019s NAV. If invested before the cut-off time, then same day\u2019s NAV.\nThis cut-off is different for different mutual funds. For most mutual funds, the cut off is 3 pm.\nMany investors obsess about this.\nThe truth is, a difference of one day in getting the NAV doesn\u2019t really make much difference in the long term.\nMost investors should not worry too much about it."
     }
   ],
   "introduction": {
-    "image": "https://cms-resources.groww.in/uploads/Jan_10_86d37fa347.png",
-    "content": "Fact: Nifty has fallen between 1% and 2% about 110 times in the last 5 years.\nCommodity markets ended higher on the news of China reopening its economy. This happens because China is one of India's major trade partners.\nThe US bond yields fell on expecting slower rate hikes because of which the Indian bond yields also ended lower.\nThe reason why bond yields fall on slower rate hikes is explained later in the 'Word of the Day' section.\nBoth India and the US will announce their inflation numbers coming Thursday.\nAll sectors ended in the red today. Bank stocks fell the most."
+    "image": "https://cms-resources.groww.in/uploads/2345_62e194277c.png",
+    "content": "Fact: Nifty has fallen between 0% and 1% about 417 times in the last 5 years."
   },
   "top_gainers": [
     {
-      "name": "Tata Motors",
-      "price": 412.9,
+      "name": "Hindalco",
+      "price": 490.95,
       "change": {
         "change_type": "up",
-        "perc_change": 6.02
+        "perc_change": 2.81
       }
     },
     {
-      "name": "Hindalco",
-      "price": 477.55,
+      "name": "Sun Pharma",
+      "price": 1028.0,
+      "change": {
+        "change_type": "up",
+        "perc_change": 1.6
+      }
+    },
+    {
+      "name": "BPCL",
+      "price": 352.5,
+      "change": {
+        "change_type": "up",
+        "perc_change": 1.48
+      }
+    },
+    {
+      "name": "UltraTech",
+      "price": 7021.95,
+      "change": {
+        "change_type": "up",
+        "perc_change": 1.47
+      }
+    },
+    {
+      "name": "HDFC Bank",
+      "price": 1590.9,
       "change": {
         "change_type": "up",
         "perc_change": 1.44
-      }
-    },
-    {
-      "name": "Apollo Hospitals",
-      "price": 4466.65,
-      "change": {
-        "change_type": "up",
-        "perc_change": 1.34
-      }
-    },
-    {
-      "name": "Power Grid",
-      "price": 211.8,
-      "change": {
-        "change_type": "up",
-        "perc_change": 1.29
-      }
-    },
-    {
-      "name": "Divi's Labs",
-      "price": 3501.85,
-      "change": {
-        "change_type": "up",
-        "perc_change": 1.22
       }
     }
   ],
   "top_losers": [
     {
-      "name": "Adani Enterprises",
-      "price": 3646.9,
-      "change": {
-        "change_type": "down",
-        "perc_change": 5.41
-      }
-    },
-    {
       "name": "Airtel",
-      "price": 792.85,
+      "price": 765.55,
       "change": {
         "change_type": "down",
-        "perc_change": 3.24
+        "perc_change": 3.44
       }
     },
     {
-      "name": "Eicher Motors",
-      "price": 3167.55,
+      "name": "Cipla",
+      "price": 1047.6,
       "change": {
         "change_type": "down",
-        "perc_change": 2.91
+        "perc_change": 2.88
       }
     },
     {
-      "name": "Adani Ports",
-      "price": 796.4,
+      "name": "Divi's Labs",
+      "price": 3411.45,
       "change": {
         "change_type": "down",
-        "perc_change": 2.48
+        "perc_change": 2.58
       }
     },
     {
-      "name": "SBI",
-      "price": 595.15,
+      "name": "Apollo Hospitals",
+      "price": 4360.6,
       "change": {
         "change_type": "down",
-        "perc_change": 2.07
+        "perc_change": 2.37
+      }
+    },
+    {
+      "name": "HUL",
+      "price": 2593.25,
+      "change": {
+        "change_type": "down",
+        "perc_change": 1.91
       }
     }
   ]
