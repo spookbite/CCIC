@@ -1,180 +1,184 @@
 {
-  "title": "Rise in tax collection, Sah Polymers listing, & more",
-  "date": "2023-01-11T06:30:00.000Z",
-  "slug": "rise-in-tax-collection-sah-polymers-listing-and-more",
+  "title": "Lower retail inflation, rise in palm oil imports, & more",
+  "date": "2023-01-12T06:30:00.000Z",
+  "slug": "lower-retail-inflation-rise-in-palm-oil-imports-and-more",
   "is_indian_market_open": true,
   "sensex": {
-    "value": 60105.5,
+    "value": 59958.03,
     "change_type": "down",
-    "perc_change": 0.02
+    "perc_change": 0.25
   },
   "nifty": {
-    "value": 17895.7,
+    "value": 17858.2,
     "change_type": "down",
-    "perc_change": 0.1
+    "perc_change": 0.21
   },
-  "us_indices_date": "2023-01-10",
+  "us_indices_date": "2023-01-11",
   "daily_change": {
     "is_gold_market_open": true,
     "gold": {
-      "value": 55800,
+      "value": 55840,
       "change_type": "up",
-      "perc_change": 0.08
+      "perc_change": 0.06
     },
     "is_silver_market_open": true,
     "silver": {
-      "value": 68825,
-      "change_type": "up",
-      "perc_change": 0.84
+      "value": 68648,
+      "change_type": "down",
+      "perc_change": 0.24
     },
     "is_usd_inr_market_open": true,
     "usd_inr": {
-      "value": 81.58,
+      "value": 81.55,
       "change_type": "down",
-      "perc_change": 0.25
+      "perc_change": 0.03
     },
     "is_dow_jones_market_open": true,
     "dow_jones": {
-      "value": 33704.1,
+      "value": 33973,
       "change_type": "up",
-      "perc_change": 0.54
+      "perc_change": 0.8
     },
     "is_nasdaq_market_open": true,
     "nasdaq": {
-      "value": 10742.63,
+      "value": 10931.67,
       "change_type": "up",
-      "perc_change": 1
+      "perc_change": 1.75
     }
   },
   "long_term_change": {
     "sensex": {
       "value": null,
       "change_type": "up",
-      "perc_change": 15.56
+      "perc_change": 15.55
     },
     "nifty": {
       "value": null,
       "change_type": "up",
-      "perc_change": 15.1
+      "perc_change": 15.09
     },
     "dow_jones": {
       "value": null,
       "change_type": "up",
-      "perc_change": 6.95
+      "perc_change": 7
     },
     "nasdaq": {
       "value": null,
       "change_type": "up",
-      "perc_change": 10.54
+      "perc_change": 10.64
     }
   },
   "news": [
     {
+      "title": "Quarterly Results: Infosys, HCL Tech",
+      "description": "Infosys\nNet profit rose 13.4% to Rs 6,586 cr.\nRevenue stood at Rs 38,318 cr - a rise of 20.2%\nAttrition rate is now at 24.3% vs 27.1% in the previous quarter.HCL Tech\nNet profit rose 19% to Rs 4,096 cr.\nRevenue stood at Rs 26,700 cr - a rise of 20%\nAttrition rate is now at 21.7% vs 23.8% in the previous quarter."
+    },
+    {
       "title": "More...",
-      "description": "+India\u2019s gross direct tax collection has risen 24.58% year-on-year to Rs 14.71 lakh cr so far in this financial year.\n+Sah Polymers will make its listing debut on BSE and NSE tomorrow (12th Jan).\n+Indian startups received funding of $24 bn in 2022, a drop of 33% in comparison to 2021: PwC India.\n+The govt has approved investment of Rs 2,600 cr to promote payments using RuPay cards and UPI.\n+Private equity investment in the Indian real estate market reached $4.9 bn in 2022 - a 20% increase year-over-year: media reports.\n+Boeing received orders for 774 airplanes in 2022 - the highest in 4 years.\n+The defence ministry has cleared projects worth Rs 4,276 cr - this includes the procurement of indigenous anti-tank missiles and a new short-range air defence missile."
+      "description": "+India's palm oil imports in Dec rose 96% year-on-year to 11 lakh tonnes: Solvent Extractors' Association of India.\n+China\u2019s BYD announced that it will launch its third electric car in India this year.\n+Sah Polymers listed on BSE and NSE at Rs 85 - a premium of 30.77%.\n+FSSAI has specified the identity standards for Basmati Rice. The rice should be free from artificial colouring, polishing agents, and artificial fragrances."
     },
     {
       "title": "Stocks in the news",
-      "description": "Atul Auto: forayed into the electric vehicle space by launching two electric 3-wheelers.\nAirtel: Airtel 5G Plus is now live in Kochi.\nHindalco: planning to raise Rs 700 cr via a bond sale.\nEicher Motors: subsidiary VECV has launched a new intercity electric bus.\nRail Vikas Nigam: bagged Chennai Metro Rail project worth Rs 1134 cr.\nSun Pharma: launched a breast cancer medicine in India.\nPB Fintech: received in-principle approval from RBI to run account aggregator business."
+      "description": "Paytm: Alibaba reportedly sold a 3.1% stake in the company today.\nPVR, Inox: PVR-Inox merger has been approved by NCLT.\nMaruti Suzuki: launched 2 new SUVs, Jimny and Fronx in India.\nRailTel: received new orders worth Rs 170.11 cr from the Puducherry Govt.\nTVS Motor: is planning to invest Rs 1,000 cr in Madhya Pradesh.\nIIFL Wealth: board will consider a stock split and bonus issue on 19 Jan.\nPunjab & Sind Bank: Bajaj Allianz Life Insurance has partnered with the bank for the distribution of insurance products."
     },
     {
       "title": "Word of the Day",
-      "description": "Remittance\nRemittance is the money sent by a person to his home country.\nSay Ramesh lives in the US and he sends $1,000 back to his home in India - that money will be called remittance.\nA higher remittance amount is usually a sign that many people from a country are living and earning abroad."
+      "description": "NCLTNational Company Law Tribunal (NCLT) deals with corporate disputes.\nIt hears cases related to oppression and mismanagement of a company, winding up of companies, and all other powers prescribed under the Companies Act 2013.\nNCLT has 16 benches across the country - including 6 in New Delhi, 2 in Ahmedabad, and 1 in Bengaluru."
     },
     {
       "title": "6 Day Course",
-      "description": "Day 3: Wednesday\nBalance sheet.\nThis is one of the most important tools available to investors.\nIt contains every public information about a company including income, expenditure, and borrowing.\nIt also contains other important details relevant to a given industry like number of bank accounts in case of banks, number of users in case of telecom operators, and so on.\nEvery detail contained in the balance sheet is authentic and audited. Stating incorrect figures in this is illegal.\nThis sheet can be downloaded from the company's website as well as the exchange website.\nInvestors make themselves very familiar with reading balance sheets."
+      "description": "Theme: tools to pick stocks\nDay 4: Thursday\nNews.\nMany people discover stocks simply because they hear about them in the news because of some positive or negative events.\nSome stocks become extremely popular in this manner and get much higher attention.\nThis can only be a way of coming across the name of a stock. \nInvestors would still need to dig deeper into the balance sheet of the stock to understand it better before investing.\nDo note, there are many good and bad stocks that don\u2019t get featured on the news simply because there isn\u2019t enough public interest in them.\nRelying only on the news to discover stocks is a bad strategy."
     },
     {
       "title": "Featured Question",
-      "description": "\"What is the cutoff time for placing a Mutual Funds order to receive the same-day NAV ???\"\n\u00a0\nA mutual fund\u2019s assets value changes every working day.\nThat is how it goes up over time (or down if it is a bad mutual fund). This change reflects in the NAV on every working day.\nThe cut-off time decides which day\u2019s NAV you get. If you invest after the cut-off time on any given day, you\u2019ll get the next day\u2019s NAV. If invested before the cut-off time, then same day\u2019s NAV.\nThis cut-off is different for different mutual funds. For most mutual funds, the cut off is 3 pm.\nMany investors obsess about this.\nThe truth is, a difference of one day in getting the NAV doesn\u2019t really make much difference in the long term.\nMost investors should not worry too much about it."
+      "description": "\"What is Systematic Withdrawal and how does compounding work in SWP?\"\nSWP is the exact opposite of an SIP.\nSIP stands for Systematic Investment Plan. \nIf you set up an SIP in a mutual fund, a fixed amount (decided by you) gets invested in a mutual fund of your choice every month.\nYou can cancel an SIP any time.\nSWP stands for Systematic Withdrawal Plan.\nLike in the case of an SIP, you can set the amount you want to withdraw every month from a mutual fund you have chosen.\nSWP is a good way to take out money from a mutual fund over a period of time instead of in one go.\nIt averages out the returns and prevents single day market ups and downs from affecting your returns."
     }
   ],
   "introduction": {
-    "image": "https://cms-resources.groww.in/uploads/2345_62e194277c.png",
-    "content": "Fact: Nifty has fallen between 0% and 1% about 417 times in the last 5 years."
+    "image": "https://cms-resources.groww.in/uploads/22_a8cf00c808.png",
+    "content": "Fact: Nifty has fallen between 0% and 1% about 418 times in the last 5 years."
   },
   "top_gainers": [
     {
-      "name": "Hindalco",
-      "price": 490.95,
+      "name": "SBI Life",
+      "price": 1315.7,
       "change": {
         "change_type": "up",
-        "perc_change": 2.81
+        "perc_change": 1.89
       }
     },
     {
-      "name": "Sun Pharma",
-      "price": 1028.0,
+      "name": "UltraTech",
+      "price": 7153.35,
+      "change": {
+        "change_type": "up",
+        "perc_change": 1.87
+      }
+    },
+    {
+      "name": "L&T",
+      "price": 2159.75,
+      "change": {
+        "change_type": "up",
+        "perc_change": 1.62
+      }
+    },
+    {
+      "name": "HCL Tech",
+      "price": 1071.65,
       "change": {
         "change_type": "up",
         "perc_change": 1.6
       }
     },
     {
-      "name": "BPCL",
-      "price": 352.5,
+      "name": "Cipla",
+      "price": 1061.15,
       "change": {
         "change_type": "up",
-        "perc_change": 1.48
-      }
-    },
-    {
-      "name": "UltraTech",
-      "price": 7021.95,
-      "change": {
-        "change_type": "up",
-        "perc_change": 1.47
-      }
-    },
-    {
-      "name": "HDFC Bank",
-      "price": 1590.9,
-      "change": {
-        "change_type": "up",
-        "perc_change": 1.44
+        "perc_change": 1.29
       }
     }
   ],
   "top_losers": [
     {
-      "name": "Airtel",
-      "price": 765.55,
-      "change": {
-        "change_type": "down",
-        "perc_change": 3.44
-      }
-    },
-    {
-      "name": "Cipla",
-      "price": 1047.6,
-      "change": {
-        "change_type": "down",
-        "perc_change": 2.88
-      }
-    },
-    {
       "name": "Divi's Labs",
-      "price": 3411.45,
+      "price": 3305.3,
       "change": {
         "change_type": "down",
-        "perc_change": 2.58
+        "perc_change": 3.11
       }
     },
     {
-      "name": "Apollo Hospitals",
-      "price": 4360.6,
+      "name": "Reliance",
+      "price": 2471.6,
       "change": {
         "change_type": "down",
-        "perc_change": 2.37
+        "perc_change": 2.16
       }
     },
     {
-      "name": "HUL",
-      "price": 2593.25,
+      "name": "BPCL",
+      "price": 345.05,
       "change": {
         "change_type": "down",
-        "perc_change": 1.91
+        "perc_change": 2.11
+      }
+    },
+    {
+      "name": "Axis Bank",
+      "price": 935.55,
+      "change": {
+        "change_type": "down",
+        "perc_change": 1.5
+      }
+    },
+    {
+      "name": "Tata Motors",
+      "price": 412.25,
+      "change": {
+        "change_type": "down",
+        "perc_change": 1.42
       }
     }
   ]
