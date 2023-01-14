@@ -1,184 +1,184 @@
 {
-  "title": "Lower retail inflation, rise in palm oil imports, & more",
-  "date": "2023-01-12T06:30:00.000Z",
-  "slug": "lower-retail-inflation-rise-in-palm-oil-imports-and-more",
+  "title": "Rise in factory output, Budget Session to start soon, & more",
+  "date": "2023-01-13T06:30:00.000Z",
+  "slug": "rise-in-factory-output-budget-session-to-start-soon-and-more",
   "is_indian_market_open": true,
   "sensex": {
-    "value": 59958.03,
-    "change_type": "down",
-    "perc_change": 0.25
+    "value": 60261.18,
+    "change_type": "up",
+    "perc_change": 0.51
   },
   "nifty": {
-    "value": 17858.2,
-    "change_type": "down",
-    "perc_change": 0.21
+    "value": 17956.6,
+    "change_type": "up",
+    "perc_change": 0.55
   },
-  "us_indices_date": "2023-01-11",
+  "us_indices_date": "2023-01-12",
   "daily_change": {
     "is_gold_market_open": true,
     "gold": {
-      "value": 55840,
+      "value": 55963,
       "change_type": "up",
-      "perc_change": 0.06
+      "perc_change": 0.21
     },
     "is_silver_market_open": true,
     "silver": {
-      "value": 68648,
+      "value": 68195.99,
       "change_type": "down",
-      "perc_change": 0.24
+      "perc_change": 0.64
     },
     "is_usd_inr_market_open": true,
     "usd_inr": {
-      "value": 81.55,
+      "value": 81.33,
       "change_type": "down",
-      "perc_change": 0.03
+      "perc_change": 0.28
     },
     "is_dow_jones_market_open": true,
     "dow_jones": {
-      "value": 33973,
+      "value": 34189.97,
       "change_type": "up",
-      "perc_change": 0.8
+      "perc_change": 0.62
     },
     "is_nasdaq_market_open": true,
     "nasdaq": {
-      "value": 10931.67,
+      "value": 11001.09,
       "change_type": "up",
-      "perc_change": 1.75
+      "perc_change": 0.63
     }
   },
   "long_term_change": {
     "sensex": {
       "value": null,
       "change_type": "up",
-      "perc_change": 15.55
+      "perc_change": 15.58
     },
     "nifty": {
       "value": null,
       "change_type": "up",
-      "perc_change": 15.09
+      "perc_change": 15.12
     },
     "dow_jones": {
       "value": null,
       "change_type": "up",
-      "perc_change": 7
+      "perc_change": 7.03
     },
     "nasdaq": {
       "value": null,
       "change_type": "up",
-      "perc_change": 10.64
+      "perc_change": 10.68
     }
   },
   "news": [
     {
-      "title": "Quarterly Results: Infosys, HCL Tech",
-      "description": "Infosys\nNet profit rose 13.4% to Rs 6,586 cr.\nRevenue stood at Rs 38,318 cr - a rise of 20.2%\nAttrition rate is now at 24.3% vs 27.1% in the previous quarter.HCL Tech\nNet profit rose 19% to Rs 4,096 cr.\nRevenue stood at Rs 26,700 cr - a rise of 20%\nAttrition rate is now at 21.7% vs 23.8% in the previous quarter."
+      "title": "Quarterly Results: Wipro",
+      "description": "Net profit rose 2.8% to Rs 3,053 cr.\nRevenue stood at Rs 23,299 cr - a rise of 14.3%\nAttrition rate is now at 21.2%."
     },
     {
       "title": "More...",
-      "description": "+India's palm oil imports in Dec rose 96% year-on-year to 11 lakh tonnes: Solvent Extractors' Association of India.\n+China\u2019s BYD announced that it will launch its third electric car in India this year.\n+Sah Polymers listed on BSE and NSE at Rs 85 - a premium of 30.77%.\n+FSSAI has specified the identity standards for Basmati Rice. The rice should be free from artificial colouring, polishing agents, and artificial fragrances."
+      "description": "+India's factory output (IIP) grew 7.1% year-on-year in Nov. It had contracted by 4% in Oct.\n+Parliament's Budget Session will begin from Jan 31.\n+UK GDP rose by 0.1% in Nov vs 0.5% in Oct.\n+Inflation in US stood at 6.5% - lowest in an year.\n+Non-Residential Indians (NRIs) from 10 countries including USA and UAE will now be able to make UPI payments: NPCI.\n+Wakefit raised $40 million in its Series D round."
     },
     {
       "title": "Stocks in the news",
-      "description": "Paytm: Alibaba reportedly sold a 3.1% stake in the company today.\nPVR, Inox: PVR-Inox merger has been approved by NCLT.\nMaruti Suzuki: launched 2 new SUVs, Jimny and Fronx in India.\nRailTel: received new orders worth Rs 170.11 cr from the Puducherry Govt.\nTVS Motor: is planning to invest Rs 1,000 cr in Madhya Pradesh.\nIIFL Wealth: board will consider a stock split and bonus issue on 19 Jan.\nPunjab & Sind Bank: Bajaj Allianz Life Insurance has partnered with the bank for the distribution of insurance products."
+      "description": "L&T: signed a pact with Norway-based H2Carrier (H2C) to develop floating green ammonia projects.\nJet Airways: NCLT has allowed the Jalan-Kalrock group 6 more months to make payment and take effective control of Jet Airways.\nTata Group: will set up 25,000 electric vehicle charging points across India.\nBCL Industries: approved raising Rs 201 cr via issue of warrants."
     },
     {
       "title": "Word of the Day",
-      "description": "NCLTNational Company Law Tribunal (NCLT) deals with corporate disputes.\nIt hears cases related to oppression and mismanagement of a company, winding up of companies, and all other powers prescribed under the Companies Act 2013.\nNCLT has 16 benches across the country - including 6 in New Delhi, 2 in Ahmedabad, and 1 in Bengaluru."
+      "description": "NPCINational Payments Corporation of India (NPCI) is a not-for-profit Indian company.\nIt was founded by the RBI and Indian Banks\u2019 Association in 2008 with the goal of creating a robust payment & settlement infra.\nNPCI launched UPI, IMPS, and RuPay in India."
     },
     {
       "title": "6 Day Course",
-      "description": "Theme: tools to pick stocks\nDay 4: Thursday\nNews.\nMany people discover stocks simply because they hear about them in the news because of some positive or negative events.\nSome stocks become extremely popular in this manner and get much higher attention.\nThis can only be a way of coming across the name of a stock. \nInvestors would still need to dig deeper into the balance sheet of the stock to understand it better before investing.\nDo note, there are many good and bad stocks that don\u2019t get featured on the news simply because there isn\u2019t enough public interest in them.\nRelying only on the news to discover stocks is a bad strategy."
+      "description": "Theme: tools to pick stocks\nDay 5: Friday\nPsychological tools.\nMany times, we lose sight of the larger picture when we\u2019re too engrossed in one kind of activity.\nInvestors can make use of various mental models to look for and choose good stocks.\nCommonly used mental models are: first principles thinking, circle of competence, inversion, etc. Do search them online and read more about them.\nWhile picking stocks, it is easy for an investor to make errors because of psychological biases.\nSimilarly, investors must make active efforts to combat their own biases.\nCommon psychological biases affecting investors are hindsight bias, confirmation bias, recency bias, etc.\nThere are many tools investors can use. The ones discussed in this course so far are just a few examples."
     },
     {
       "title": "Featured Question",
-      "description": "\"What is Systematic Withdrawal and how does compounding work in SWP?\"\nSWP is the exact opposite of an SIP.\nSIP stands for Systematic Investment Plan. \nIf you set up an SIP in a mutual fund, a fixed amount (decided by you) gets invested in a mutual fund of your choice every month.\nYou can cancel an SIP any time.\nSWP stands for Systematic Withdrawal Plan.\nLike in the case of an SIP, you can set the amount you want to withdraw every month from a mutual fund you have chosen.\nSWP is a good way to take out money from a mutual fund over a period of time instead of in one go.\nIt averages out the returns and prevents single day market ups and downs from affecting your returns."
+      "description": "\"I am well aware that money invested in the ELSS mutual funds have lock-in periods, let's say 3 years, then the principal amount invested is redeemable only after three years. But what about the profits/losses? Are they returned yearly?\"\n\u00a0\nDon\u2019t think of mutual funds like FD. Forget the concept of principal amount and interest.\nOnce you invest, that investment is locked for 3 years.\nIf the value of your investment rises, it is still counted as the same investment. So the amount and its profits/losses are locked for 3 years.\nAfter 3 years, you can withdraw anytime or let it continue to remain invested."
     }
   ],
   "introduction": {
-    "image": "https://cms-resources.groww.in/uploads/22_a8cf00c808.png",
-    "content": "Fact: Nifty has fallen between 0% and 1% about 418 times in the last 5 years."
+    "image": "https://cms-resources.groww.in/uploads/Jan_13_2779cfee47.png",
+    "content": "Fact: Nifty has risen between 0% and 1% about 495 times in the last 5 years."
   },
   "top_gainers": [
     {
-      "name": "SBI Life",
-      "price": 1315.7,
+      "name": "IndusInd Bank",
+      "price": 1234.4,
+      "change": {
+        "change_type": "up",
+        "perc_change": 2.09
+      }
+    },
+    {
+      "name": "Adani Enterprises",
+      "price": 3721.15,
+      "change": {
+        "change_type": "up",
+        "perc_change": 2.03
+      }
+    },
+    {
+      "name": "Tata Steel",
+      "price": 120.45,
+      "change": {
+        "change_type": "up",
+        "perc_change": 1.99
+      }
+    },
+    {
+      "name": "Eicher Motors",
+      "price": 3162.05,
       "change": {
         "change_type": "up",
         "perc_change": 1.89
       }
     },
     {
-      "name": "UltraTech",
-      "price": 7153.35,
+      "name": "Infosys",
+      "price": 1503.65,
       "change": {
         "change_type": "up",
-        "perc_change": 1.87
-      }
-    },
-    {
-      "name": "L&T",
-      "price": 2159.75,
-      "change": {
-        "change_type": "up",
-        "perc_change": 1.62
-      }
-    },
-    {
-      "name": "HCL Tech",
-      "price": 1071.65,
-      "change": {
-        "change_type": "up",
-        "perc_change": 1.6
-      }
-    },
-    {
-      "name": "Cipla",
-      "price": 1061.15,
-      "change": {
-        "change_type": "up",
-        "perc_change": 1.29
+        "perc_change": 1.56
       }
     }
   ],
   "top_losers": [
     {
-      "name": "Divi's Labs",
-      "price": 3305.3,
+      "name": "Titan",
+      "price": 2417.2,
       "change": {
         "change_type": "down",
-        "perc_change": 3.11
+        "perc_change": 1.2
       }
     },
     {
-      "name": "Reliance",
-      "price": 2471.6,
+      "name": "Apollo Hospitals",
+      "price": 4335.55,
       "change": {
         "change_type": "down",
-        "perc_change": 2.16
+        "perc_change": 0.56
       }
     },
     {
-      "name": "BPCL",
-      "price": 345.05,
+      "name": "Nestle",
+      "price": 19784.35,
       "change": {
         "change_type": "down",
-        "perc_change": 2.11
+        "perc_change": 0.45
       }
     },
     {
-      "name": "Axis Bank",
-      "price": 935.55,
+      "name": "ITC",
+      "price": 328.75,
       "change": {
         "change_type": "down",
-        "perc_change": 1.5
+        "perc_change": 0.33
       }
     },
     {
-      "name": "Tata Motors",
-      "price": 412.25,
+      "name": "L&T",
+      "price": 2153.4,
       "change": {
         "change_type": "down",
-        "perc_change": 1.42
+        "perc_change": 0.29
       }
     }
   ]

@@ -4,11 +4,11 @@
                                     
                                        Nifty January futures trade at premium
                                     
-                                    Jan 12, 2023 04:09 PM | Source: capitalmarket.com
+                                    Jan 13, 2023 05:07 PM | Source: capitalmarket.com
                                         
                                     
                                         
-                                         Reliance Industries (RIL), Infosys and ICICI Bank were the top traded contracts.
+                                         NSE India VIX tumbled 5.33% as shares rallied.
                                     
                                    
                                 
@@ -17,15 +17,15 @@
                                 
                                 
                                 
-The Nifty January 2023 futures closed at 17,924.50, a premium of 66.3 points compared with the Nifty's closing of 17,858.20 in the cash market.
+The Nifty January 2023 futures closed at 18,022, a premium of 65.4 points compared with the Nifty's closing of 17,956.60 in the cash market.
 
-Turnover on the National Stock Exchange's futures & options (F&O) segment was Rs 394.01 lakh crore compared with Rs 202.96 lakh crore reported in the previous session.
+Turnover on the National Stock Exchange's futures & options (F&O) segment was Rs 112.20 lakh crore compared with Rs 394.01 lakh crore reported in the previous session.
 <style='margin-top:96px;'></style>
-In the cash market, the Nifty 50 lost 37.50 points or 0.21% to settle at 17,858.20.
+In the cash market, the Nifty 50 gained 98.40 points or 0.55% to settle at 17,956.60.
 
-The NSE's India VIX, a gauge of market's expectation of volatility over the near term, declined 1.03% to 15.28.
+The NSE's India VIX, a gauge of market's expectation of volatility over the near term, dropped 5.33% to 14.46.	
 
-RIL, Infosys and ICICI Bank were the top traded individual stock futures contracts in F&O segment of NSE.
+Reliance Industries (RIL), Infosys and ICICI Bank were the top traded individual stock futures contracts in F&O segment of NSE.
 
 The January 2023 F&O contracts will expire on 25 January 2023.
  
