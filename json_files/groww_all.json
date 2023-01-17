@@ -1,184 +1,180 @@
 {
-  "title": "Rise in factory output, Budget Session to start soon, & more",
-  "date": "2023-01-13T06:30:00.000Z",
-  "slug": "rise-in-factory-output-budget-session-to-start-soon-and-more",
+  "title": "Wholesale inflation at record low, fall in exports, & more ",
+  "date": "2023-01-16T06:30:00.000Z",
+  "slug": "wholesale-inflation-at-record-low-fall-in-exports-and-more",
   "is_indian_market_open": true,
   "sensex": {
-    "value": 60261.18,
-    "change_type": "up",
-    "perc_change": 0.51
+    "value": 60092.97,
+    "change_type": "down",
+    "perc_change": 0.28
   },
   "nifty": {
-    "value": 17956.6,
-    "change_type": "up",
-    "perc_change": 0.55
+    "value": 17894.85,
+    "change_type": "down",
+    "perc_change": 0.34
   },
-  "us_indices_date": "2023-01-12",
+  "us_indices_date": "2023-01-13",
   "daily_change": {
     "is_gold_market_open": true,
     "gold": {
-      "value": 55963,
+      "value": 56490,
       "change_type": "up",
-      "perc_change": 0.21
+      "perc_change": 0.93
     },
     "is_silver_market_open": true,
     "silver": {
-      "value": 68195.99,
-      "change_type": "down",
-      "perc_change": 0.64
+      "value": 69633,
+      "change_type": "up",
+      "perc_change": 2.1
     },
     "is_usd_inr_market_open": true,
     "usd_inr": {
-      "value": 81.33,
-      "change_type": "down",
-      "perc_change": 0.28
+      "value": 81.61,
+      "change_type": "up",
+      "perc_change": 0.35
     },
     "is_dow_jones_market_open": true,
     "dow_jones": {
-      "value": 34189.97,
+      "value": 34302.61,
       "change_type": "up",
-      "perc_change": 0.62
+      "perc_change": 0.31
     },
     "is_nasdaq_market_open": true,
     "nasdaq": {
-      "value": 11001.09,
+      "value": 11079.16,
       "change_type": "up",
-      "perc_change": 0.63
+      "perc_change": 0.71
     }
   },
   "long_term_change": {
     "sensex": {
       "value": null,
       "change_type": "up",
-      "perc_change": 15.58
+      "perc_change": 15.48
     },
     "nifty": {
       "value": null,
       "change_type": "up",
-      "perc_change": 15.12
+      "perc_change": 15.01
     },
     "dow_jones": {
       "value": null,
       "change_type": "up",
-      "perc_change": 7.03
+      "perc_change": 7.04
     },
     "nasdaq": {
       "value": null,
       "change_type": "up",
-      "perc_change": 10.68
+      "perc_change": 10.72
     }
   },
   "news": [
     {
-      "title": "Quarterly Results: Wipro",
-      "description": "Net profit rose 2.8% to Rs 3,053 cr.\nRevenue stood at Rs 23,299 cr - a rise of 14.3%\nAttrition rate is now at 21.2%."
-    },
-    {
       "title": "More...",
-      "description": "+India's factory output (IIP) grew 7.1% year-on-year in Nov. It had contracted by 4% in Oct.\n+Parliament's Budget Session will begin from Jan 31.\n+UK GDP rose by 0.1% in Nov vs 0.5% in Oct.\n+Inflation in US stood at 6.5% - lowest in an year.\n+Non-Residential Indians (NRIs) from 10 countries including USA and UAE will now be able to make UPI payments: NPCI.\n+Wakefit raised $40 million in its Series D round."
+      "description": "+Wholesale inflation (WPI) fell to 4.95% in Dec (22-month low) from 5.85% in the previous month.\n+India's exports declined around 12% year-on-year to $34.48 billion in Dec 2022.\n+Viacom18 has bagged media rights for women's IPL for Rs 951 cr for the next 5 years.\n+Japan and India have started their first joint fighter jet drill.\n+Global employment will grow by 1% in 2023: International Labour Organization."
     },
     {
       "title": "Stocks in the news",
-      "description": "L&T: signed a pact with Norway-based H2Carrier (H2C) to develop floating green ammonia projects.\nJet Airways: NCLT has allowed the Jalan-Kalrock group 6 more months to make payment and take effective control of Jet Airways.\nTata Group: will set up 25,000 electric vehicle charging points across India.\nBCL Industries: approved raising Rs 201 cr via issue of warrants."
+      "description": "Lupin: received approval from USFDA to market its generic medicines that are used to treat HIV.\nJustdial: posted a 39.3% year-on-year growth in revenues.\nMaruti Suzuki: hiked vehicle prices by around 1.1% across models.\nReliance: has suspended a planned auction for the sale of natural gas from their eastern offshore KG-D6 block.\nM&M: NCLT has approved Mahindra Electric\u2019s merger with M&M.\nCanara Bank: has hiked its service charge for different types of debit cards."
     },
     {
       "title": "Word of the Day",
-      "description": "NPCINational Payments Corporation of India (NPCI) is a not-for-profit Indian company.\nIt was founded by the RBI and Indian Banks\u2019 Association in 2008 with the goal of creating a robust payment & settlement infra.\nNPCI launched UPI, IMPS, and RuPay in India."
+      "description": "Capital Adequacy Ratio\nCapital adequacy ratio shows the ability of a bank to face risks and pay back liabilities.\nIt is calculated by dividing the bank\u2019s capital by risk-weighted assets (assets weighted on the basis of how much loss they will potentially face in the future).\nFor example, assets such as debentures and bonds can lose significant value in cases of negative sentiments in the debt market."
     },
     {
       "title": "6 Day Course",
-      "description": "Theme: tools to pick stocks\nDay 5: Friday\nPsychological tools.\nMany times, we lose sight of the larger picture when we\u2019re too engrossed in one kind of activity.\nInvestors can make use of various mental models to look for and choose good stocks.\nCommonly used mental models are: first principles thinking, circle of competence, inversion, etc. Do search them online and read more about them.\nWhile picking stocks, it is easy for an investor to make errors because of psychological biases.\nSimilarly, investors must make active efforts to combat their own biases.\nCommon psychological biases affecting investors are hindsight bias, confirmation bias, recency bias, etc.\nThere are many tools investors can use. The ones discussed in this course so far are just a few examples."
+      "description": "Day 1: Monday\nWhen investing in the stock markets, seeing ups and downs is normal.\nVarious terms are used when the markets are red. This week, we\u2019ll discuss some of these terms.\nPullback.\nA pullback is a short period of a stock price or markets falling \u2014 maybe a few days \u2014 after it had risen.\nUsually, it is seen as an opportunity to buy. The downward movement is viewed as a temporary negative movement.\nPullback happens from a recent high or peak. A stock or index that is already moving down and continues falling is not said to be a case of a pullback.\nPullbacks are extremely common in the markets."
     },
     {
       "title": "Featured Question",
-      "description": "\"I am well aware that money invested in the ELSS mutual funds have lock-in periods, let's say 3 years, then the principal amount invested is redeemable only after three years. But what about the profits/losses? Are they returned yearly?\"\n\u00a0\nDon\u2019t think of mutual funds like FD. Forget the concept of principal amount and interest.\nOnce you invest, that investment is locked for 3 years.\nIf the value of your investment rises, it is still counted as the same investment. So the amount and its profits/losses are locked for 3 years.\nAfter 3 years, you can withdraw anytime or let it continue to remain invested."
+      "description": "\"Why some companies have very high PE, but still continues to hold the higher PE ratio even though the market sentiment is negative?\"\n\u00a0\nMany times, some companies have high PE ratios (price-to-earnings ratio) because investors expect the company to do well in the future.\nSo they buy more, causing the price to go up while the earnings haven\u2019t increased yet.\nMany times, when the market sentiment is negative, investors fear most stocks will perform poorly.\nIn such cases, they feel comfortable putting their money into stocks that they think are stable and reliable.\nTherefore, when most stocks are negative, some stocks can attract a lot of attention and investment from others \u2014 causing their share price and PE ratio to go up."
     }
   ],
   "introduction": {
-    "image": "https://cms-resources.groww.in/uploads/Jan_13_2779cfee47.png",
-    "content": "Fact: Nifty has risen between 0% and 1% about 495 times in the last 5 years."
+    "image": "https://cms-resources.groww.in/uploads/2345_76b4053df0.png",
+    "content": "Fact: Nifty has fallen between 0% and 1% about 418 times in the last 5 years."
   },
   "top_gainers": [
     {
-      "name": "IndusInd Bank",
-      "price": 1234.4,
+      "name": "Tech Mahindra",
+      "price": 1034.45,
       "change": {
         "change_type": "up",
-        "perc_change": 2.09
+        "perc_change": 3.12
       }
     },
     {
-      "name": "Adani Enterprises",
-      "price": 3721.15,
+      "name": "HCL Tech",
+      "price": 1093.7,
       "change": {
         "change_type": "up",
-        "perc_change": 2.03
-      }
-    },
-    {
-      "name": "Tata Steel",
-      "price": 120.45,
-      "change": {
-        "change_type": "up",
-        "perc_change": 1.99
-      }
-    },
-    {
-      "name": "Eicher Motors",
-      "price": 3162.05,
-      "change": {
-        "change_type": "up",
-        "perc_change": 1.89
+        "perc_change": 1.48
       }
     },
     {
       "name": "Infosys",
-      "price": 1503.65,
+      "price": 1525.5,
       "change": {
         "change_type": "up",
-        "perc_change": 1.56
+        "perc_change": 1.45
+      }
+    },
+    {
+      "name": "Wipro",
+      "price": 398.6,
+      "change": {
+        "change_type": "up",
+        "perc_change": 1.19
+      }
+    },
+    {
+      "name": "Hero Motocorp",
+      "price": 2758.6,
+      "change": {
+        "change_type": "up",
+        "perc_change": 1.11
       }
     }
   ],
   "top_losers": [
     {
-      "name": "Titan",
-      "price": 2417.2,
+      "name": "Adani Enterprises",
+      "price": 3619.8,
+      "change": {
+        "change_type": "down",
+        "perc_change": 2.72
+      }
+    },
+    {
+      "name": "Axis Bank",
+      "price": 913.15,
+      "change": {
+        "change_type": "down",
+        "perc_change": 2.25
+      }
+    },
+    {
+      "name": "JSW Steel",
+      "price": 759.2,
+      "change": {
+        "change_type": "down",
+        "perc_change": 1.21
+      }
+    },
+    {
+      "name": "TCS",
+      "price": 3334.05,
       "change": {
         "change_type": "down",
         "perc_change": 1.2
       }
     },
     {
-      "name": "Apollo Hospitals",
-      "price": 4335.55,
+      "name": "Hindalco",
+      "price": 483.05,
       "change": {
         "change_type": "down",
-        "perc_change": 0.56
-      }
-    },
-    {
-      "name": "Nestle",
-      "price": 19784.35,
-      "change": {
-        "change_type": "down",
-        "perc_change": 0.45
-      }
-    },
-    {
-      "name": "ITC",
-      "price": 328.75,
-      "change": {
-        "change_type": "down",
-        "perc_change": 0.33
-      }
-    },
-    {
-      "name": "L&T",
-      "price": 2153.4,
-      "change": {
-        "change_type": "down",
-        "perc_change": 0.29
+        "perc_change": 1.12
       }
     }
   ]

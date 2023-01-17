@@ -2,6 +2,30 @@
   "index_future": {
     "data": [
       {
+        "date": "2023-01-16",
+        "participant": "Client",
+        "long": 2217,
+        "short": 140
+      },
+      {
+        "date": "2023-01-16",
+        "participant": "DII",
+        "long": 0,
+        "short": -2000
+      },
+      {
+        "date": "2023-01-16",
+        "participant": "FII",
+        "long": -2585,
+        "short": 10043
+      },
+      {
+        "date": "2023-01-16",
+        "participant": "Pro",
+        "long": 1213,
+        "short": -7338
+      },
+      {
         "date": "2023-01-13",
         "participant": "Client",
         "long": 3410,
@@ -24,35 +48,35 @@
         "participant": "Pro",
         "long": 1684,
         "short": 11480
-      },
-      {
-        "date": "2023-01-12",
-        "participant": "Client",
-        "long": 7964,
-        "short": 5305
-      },
-      {
-        "date": "2023-01-12",
-        "participant": "DII",
-        "long": 1100,
-        "short": -71
-      },
-      {
-        "date": "2023-01-12",
-        "participant": "FII",
-        "long": -2669,
-        "short": 3078
-      },
-      {
-        "date": "2023-01-12",
-        "participant": "Pro",
-        "long": -46,
-        "short": -1963
       }
     ]
   },
   "index_call": {
     "data": [
+      {
+        "date": "2023-01-16",
+        "participant": "Client",
+        "long": 1759959,
+        "short": 1366634
+      },
+      {
+        "date": "2023-01-16",
+        "participant": "DII",
+        "long": 0,
+        "short": 0
+      },
+      {
+        "date": "2023-01-16",
+        "participant": "FII",
+        "long": 35769,
+        "short": 138345
+      },
+      {
+        "date": "2023-01-16",
+        "participant": "Pro",
+        "long": 325398,
+        "short": 616147
+      },
       {
         "date": "2023-01-13",
         "participant": "Client",
@@ -76,35 +100,35 @@
         "participant": "Pro",
         "long": 138014,
         "short": 62563
-      },
-      {
-        "date": "2023-01-12",
-        "participant": "Client",
-        "long": -2690814,
-        "short": -2520798
-      },
-      {
-        "date": "2023-01-12",
-        "participant": "DII",
-        "long": 0,
-        "short": 0
-      },
-      {
-        "date": "2023-01-12",
-        "participant": "FII",
-        "long": -247091,
-        "short": -251113
-      },
-      {
-        "date": "2023-01-12",
-        "participant": "Pro",
-        "long": -450114,
-        "short": -616108
       }
     ]
   },
   "index_put": {
     "data": [
+      {
+        "date": "2023-01-16",
+        "participant": "Client",
+        "long": 209742,
+        "short": 308071
+      },
+      {
+        "date": "2023-01-16",
+        "participant": "DII",
+        "long": 0,
+        "short": 0
+      },
+      {
+        "date": "2023-01-16",
+        "participant": "FII",
+        "long": 75623,
+        "short": 8087
+      },
+      {
+        "date": "2023-01-16",
+        "participant": "Pro",
+        "long": 132923,
+        "short": 102130
+      },
       {
         "date": "2023-01-13",
         "participant": "Client",
@@ -128,35 +152,39 @@
         "participant": "Pro",
         "long": 232184,
         "short": 330788
-      },
-      {
-        "date": "2023-01-12",
-        "participant": "Client",
-        "long": -1795421,
-        "short": -1696353
-      },
-      {
-        "date": "2023-01-12",
-        "participant": "DII",
-        "long": 0,
-        "short": 0
-      },
-      {
-        "date": "2023-01-12",
-        "participant": "FII",
-        "long": -237772,
-        "short": -176636
-      },
-      {
-        "date": "2023-01-12",
-        "participant": "Pro",
-        "long": -322340,
-        "short": -482544
       }
     ]
   },
   "index_future_increases": {
     "data": [
+      {
+        "date": "16/01/2023",
+        "symbol": "BANKNIFTY",
+        "expiry": "23/02/2023",
+        "price": 42495.0,
+        "chg_oi": 1434
+      },
+      {
+        "date": "16/01/2023",
+        "symbol": "NIFTY",
+        "expiry": "23/02/2023",
+        "price": 18015.5,
+        "chg_oi": 1102
+      },
+      {
+        "date": "16/01/2023",
+        "symbol": "NIFTY",
+        "expiry": "29/03/2023",
+        "price": 18090.45,
+        "chg_oi": 464
+      },
+      {
+        "date": "16/01/2023",
+        "symbol": "FINNIFTY",
+        "expiry": "31/01/2023",
+        "price": 18633.55,
+        "chg_oi": 96
+      },
       {
         "date": "13/01/2023",
         "symbol": "BANKNIFTY",
@@ -184,39 +212,32 @@
         "expiry": "23/02/2023",
         "price": 18097.6,
         "chg_oi": 621
-      },
-      {
-        "date": "12/01/2023",
-        "symbol": "NIFTY",
-        "expiry": "25/01/2023",
-        "price": 17918.65,
-        "chg_oi": 2175
-      },
-      {
-        "date": "12/01/2023",
-        "symbol": "BANKNIFTY",
-        "expiry": "23/02/2023",
-        "price": 42377.95,
-        "chg_oi": 839
-      },
-      {
-        "date": "12/01/2023",
-        "symbol": "BANKNIFTY",
-        "expiry": "25/01/2023",
-        "price": 42212.95,
-        "chg_oi": 687
-      },
-      {
-        "date": "12/01/2023",
-        "symbol": "NIFTY",
-        "expiry": "23/02/2023",
-        "price": 17991.25,
-        "chg_oi": 671
       }
     ]
   },
   "index_future_decreases": {
     "data": [
+      {
+        "date": "16/01/2023",
+        "symbol": "NIFTY",
+        "expiry": "25/01/2023",
+        "price": 17941.75,
+        "chg_oi": -1464
+      },
+      {
+        "date": "16/01/2023",
+        "symbol": "BANKNIFTY",
+        "expiry": "25/01/2023",
+        "price": 42301.25,
+        "chg_oi": -856
+      },
+      {
+        "date": "16/01/2023",
+        "symbol": "FINNIFTY",
+        "expiry": "28/02/2023",
+        "price": 18619.5,
+        "chg_oi": -3
+      },
       {
         "date": "13/01/2023",
         "symbol": "NIFTY",
@@ -230,18 +251,51 @@
         "expiry": "31/01/2023",
         "price": 18741.95,
         "chg_oi": -20
-      },
-      {
-        "date": "12/01/2023",
-        "symbol": "FINNIFTY",
-        "expiry": "31/01/2023",
-        "price": 18621.15,
-        "chg_oi": -73
       }
     ]
   },
   "index_call_increases": {
     "data": [
+      {
+        "date": "2023-01-16",
+        "symbol": "FINNIFTY",
+        "expiry": "2023-01-17",
+        "strike": 18600,
+        "premium": 22.9,
+        "chg_oi": 82076
+      },
+      {
+        "date": "2023-01-16",
+        "symbol": "FINNIFTY",
+        "expiry": "2023-01-17",
+        "strike": 18800,
+        "premium": 3.1,
+        "chg_oi": 68224
+      },
+      {
+        "date": "2023-01-16",
+        "symbol": "FINNIFTY",
+        "expiry": "2023-01-17",
+        "strike": 18700,
+        "premium": 7.2,
+        "chg_oi": 67683
+      },
+      {
+        "date": "2023-01-16",
+        "symbol": "NIFTY",
+        "expiry": "2023-01-19",
+        "strike": 18000,
+        "premium": 55.75,
+        "chg_oi": 66446
+      },
+      {
+        "date": "2023-01-16",
+        "symbol": "BANKNIFTY",
+        "expiry": "2023-01-19",
+        "strike": 42500,
+        "premium": 159.55,
+        "chg_oi": 59930
+      },
       {
         "date": "2023-01-13",
         "symbol": "BANKNIFTY",
@@ -281,51 +335,51 @@
         "strike": 42400,
         "premium": 324.85,
         "chg_oi": 23034
-      },
-      {
-        "date": "2023-01-12",
-        "symbol": "BANKNIFTY",
-        "expiry": "2023-01-12",
-        "strike": 42100,
-        "premium": 42082.25,
-        "chg_oi": 196653
-      },
-      {
-        "date": "2023-01-12",
-        "symbol": "NIFTY",
-        "expiry": "2023-01-19",
-        "strike": 19000,
-        "premium": 2.3,
-        "chg_oi": 63674
-      },
-      {
-        "date": "2023-01-12",
-        "symbol": "BANKNIFTY",
-        "expiry": "2023-01-12",
-        "strike": 42200,
-        "premium": 42082.25,
-        "chg_oi": 55652
-      },
-      {
-        "date": "2023-01-12",
-        "symbol": "NIFTY",
-        "expiry": "2023-01-19",
-        "strike": 17900,
-        "premium": 128.6,
-        "chg_oi": 52284
-      },
-      {
-        "date": "2023-01-12",
-        "symbol": "BANKNIFTY",
-        "expiry": "2023-01-19",
-        "strike": 42000,
-        "premium": 444.2,
-        "chg_oi": 47429
       }
     ]
   },
   "index_call_decreases": {
     "data": [
+      {
+        "date": "2023-01-16",
+        "symbol": "NIFTY",
+        "expiry": "2023-01-19",
+        "strike": 18700,
+        "premium": 1.95,
+        "chg_oi": -10023
+      },
+      {
+        "date": "2023-01-16",
+        "symbol": "NIFTY",
+        "expiry": "2023-01-19",
+        "strike": 18800,
+        "premium": 1.75,
+        "chg_oi": -3457
+      },
+      {
+        "date": "2023-01-16",
+        "symbol": "BANKNIFTY",
+        "expiry": "2023-01-19",
+        "strike": 41900,
+        "premium": 468.25,
+        "chg_oi": -3227
+      },
+      {
+        "date": "2023-01-16",
+        "symbol": "BANKNIFTY",
+        "expiry": "2023-01-25",
+        "strike": 42000,
+        "premium": 612.0,
+        "chg_oi": -3160
+      },
+      {
+        "date": "2023-01-16",
+        "symbol": "BANKNIFTY",
+        "expiry": "2023-01-19",
+        "strike": 47000,
+        "premium": 4.2,
+        "chg_oi": -1919
+      },
       {
         "date": "2023-01-13",
         "symbol": "NIFTY",
@@ -365,51 +419,51 @@
         "strike": 43500,
         "premium": 120.1,
         "chg_oi": -1979
-      },
-      {
-        "date": "2023-01-12",
-        "symbol": "NIFTY",
-        "expiry": "2023-01-12",
-        "strike": 18100,
-        "premium": 17858.2,
-        "chg_oi": -87605
-      },
-      {
-        "date": "2023-01-12",
-        "symbol": "NIFTY",
-        "expiry": "2023-01-12",
-        "strike": 18000,
-        "premium": 17858.2,
-        "chg_oi": -87477
-      },
-      {
-        "date": "2023-01-12",
-        "symbol": "NIFTY",
-        "expiry": "2023-01-12",
-        "strike": 18200,
-        "premium": 17858.2,
-        "chg_oi": -62835
-      },
-      {
-        "date": "2023-01-12",
-        "symbol": "NIFTY",
-        "expiry": "2023-01-12",
-        "strike": 18150,
-        "premium": 17858.2,
-        "chg_oi": -60008
-      },
-      {
-        "date": "2023-01-12",
-        "symbol": "BANKNIFTY",
-        "expiry": "2023-01-12",
-        "strike": 43000,
-        "premium": 42082.25,
-        "chg_oi": -51695
       }
     ]
   },
   "index_put_increases": {
     "data": [
+      {
+        "date": "2023-01-16",
+        "symbol": "FINNIFTY",
+        "expiry": "2023-01-17",
+        "strike": 18200,
+        "premium": 3.35,
+        "chg_oi": 36055
+      },
+      {
+        "date": "2023-01-16",
+        "symbol": "BANKNIFTY",
+        "expiry": "2023-01-19",
+        "strike": 40000,
+        "premium": 6.8,
+        "chg_oi": 27359
+      },
+      {
+        "date": "2023-01-16",
+        "symbol": "FINNIFTY",
+        "expiry": "2023-01-17",
+        "strike": 18300,
+        "premium": 7.35,
+        "chg_oi": 23922
+      },
+      {
+        "date": "2023-01-16",
+        "symbol": "FINNIFTY",
+        "expiry": "2023-01-17",
+        "strike": 18500,
+        "premium": 47.75,
+        "chg_oi": 23510
+      },
+      {
+        "date": "2023-01-16",
+        "symbol": "FINNIFTY",
+        "expiry": "2023-01-17",
+        "strike": 18400,
+        "premium": 19.0,
+        "chg_oi": 21514
+      },
       {
         "date": "2023-01-13",
         "symbol": "BANKNIFTY",
@@ -449,51 +503,51 @@
         "strike": 39500,
         "premium": 7.8,
         "chg_oi": 36589
-      },
-      {
-        "date": "2023-01-12",
-        "symbol": "NIFTY",
-        "expiry": "2023-01-19",
-        "strike": 17900,
-        "premium": 147.75,
-        "chg_oi": 42390
-      },
-      {
-        "date": "2023-01-12",
-        "symbol": "NIFTY",
-        "expiry": "2023-01-12",
-        "strike": 17850,
-        "premium": 17858.2,
-        "chg_oi": 38472
-      },
-      {
-        "date": "2023-01-12",
-        "symbol": "BANKNIFTY",
-        "expiry": "2023-01-19",
-        "strike": 42000,
-        "premium": 316.35,
-        "chg_oi": 33916
-      },
-      {
-        "date": "2023-01-12",
-        "symbol": "NIFTY",
-        "expiry": "2023-01-19",
-        "strike": 16500,
-        "premium": 1.85,
-        "chg_oi": 26957
-      },
-      {
-        "date": "2023-01-12",
-        "symbol": "BANKNIFTY",
-        "expiry": "2023-01-12",
-        "strike": 42100,
-        "premium": 42082.25,
-        "chg_oi": 23620
       }
     ]
   },
   "index_put_decreases": {
     "data": [
+      {
+        "date": "2023-01-16",
+        "symbol": "NIFTY",
+        "expiry": "2023-01-19",
+        "strike": 17200,
+        "premium": 1.7,
+        "chg_oi": -21279
+      },
+      {
+        "date": "2023-01-16",
+        "symbol": "BANKNIFTY",
+        "expiry": "2023-01-25",
+        "strike": 40000,
+        "premium": 27.2,
+        "chg_oi": -13579
+      },
+      {
+        "date": "2023-01-16",
+        "symbol": "NIFTY",
+        "expiry": "2023-01-19",
+        "strike": 17900,
+        "premium": 88.1,
+        "chg_oi": -13012
+      },
+      {
+        "date": "2023-01-16",
+        "symbol": "BANKNIFTY",
+        "expiry": "2023-01-19",
+        "strike": 41100,
+        "premium": 25.15,
+        "chg_oi": -9310
+      },
+      {
+        "date": "2023-01-16",
+        "symbol": "BANKNIFTY",
+        "expiry": "2023-01-19",
+        "strike": 42400,
+        "premium": 375.6,
+        "chg_oi": -8378
+      },
       {
         "date": "2023-01-13",
         "symbol": "BANKNIFTY",
@@ -533,46 +587,6 @@
         "strike": 18200,
         "premium": 265.0,
         "chg_oi": -672
-      },
-      {
-        "date": "2023-01-12",
-        "symbol": "NIFTY",
-        "expiry": "2023-01-12",
-        "strike": 17900,
-        "premium": 17858.2,
-        "chg_oi": -57008
-      },
-      {
-        "date": "2023-01-12",
-        "symbol": "BANKNIFTY",
-        "expiry": "2023-01-12",
-        "strike": 42200,
-        "premium": 42082.25,
-        "chg_oi": -44122
-      },
-      {
-        "date": "2023-01-12",
-        "symbol": "NIFTY",
-        "expiry": "2023-01-12",
-        "strike": 18000,
-        "premium": 17858.2,
-        "chg_oi": -42915
-      },
-      {
-        "date": "2023-01-12",
-        "symbol": "BANKNIFTY",
-        "expiry": "2023-01-12",
-        "strike": 40000,
-        "premium": 42082.25,
-        "chg_oi": -41792
-      },
-      {
-        "date": "2023-01-12",
-        "symbol": "BANKNIFTY",
-        "expiry": "2023-01-12",
-        "strike": 39500,
-        "premium": 42082.25,
-        "chg_oi": -29412
       }
     ]
   }
