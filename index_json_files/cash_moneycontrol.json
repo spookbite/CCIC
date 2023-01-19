@@ -1,17 +1,30 @@
 {
   "total": {
     "fii": {
-      "gross_purchase": 74727.4,
-      "gross_sales": 92686.01,
-      "net_purchase_sales": -17958.61
+      "gross_purchase": 83114.04,
+      "gross_sales": 101391.88,
+      "net_purchase_sales": -18277.84
     },
     "dii": {
-      "gross_purchase": 71184.59,
-      "gross_sales": 57609.16,
-      "net_purchase_sales": 13575.43
+      "gross_purchase": 78057.74,
+      "gross_sales": 63256.35,
+      "net_purchase_sales": 14801.39
     }
   },
   "dates": [
+    {
+      "date": "18-Jan-2023",
+      "fii": {
+        "gross_purchase": 8386.64,
+        "gross_sales": 8705.87,
+        "net_purchase_sales": -319.23
+      },
+      "dii": {
+        "gross_purchase": 6873.15,
+        "gross_sales": 5647.19,
+        "net_purchase_sales": 1225.96
+      }
+    },
     {
       "date": "17-Jan-2023",
       "fii": {

@@ -1,180 +1,184 @@
 {
-  "title": "Reduction in diesel export tax, China\u2019s population declines, & more",
-  "date": "2023-01-17T06:30:00.000Z",
-  "slug": "reduction-in-diesel-export-tax-china-s-population-declines-and-more",
+  "title": "IndusInd Bank records profit growth, lower inflation in UK, & more",
+  "date": "2023-01-18T13:00:00.000Z",
+  "slug": "indus-ind-bank-records-profit-growth-lower-inflation-in-uk-and-more",
   "is_indian_market_open": true,
   "sensex": {
-    "value": 60655.72,
+    "value": 61045.74,
     "change_type": "up",
-    "perc_change": 0.94
+    "perc_change": 0.64
   },
   "nifty": {
-    "value": 18053.3,
+    "value": 18165.35,
     "change_type": "up",
-    "perc_change": 0.89
+    "perc_change": 0.62
   },
-  "us_indices_date": "2023-01-16",
+  "us_indices_date": "2023-01-17",
   "daily_change": {
     "is_gold_market_open": true,
     "gold": {
-      "value": 56420,
-      "change_type": "down",
-      "perc_change": 0.12
+      "value": 56451,
+      "change_type": "up",
+      "perc_change": 0.05
     },
     "is_silver_market_open": true,
     "silver": {
-      "value": 69540.99,
+      "value": 69511,
       "change_type": "down",
-      "perc_change": 0.12
+      "perc_change": 0.04
     },
     "is_usd_inr_market_open": true,
     "usd_inr": {
-      "value": 81.76,
-      "change_type": "up",
-      "perc_change": 0.18
+      "value": 81.24,
+      "change_type": "down",
+      "perc_change": 0.64
     },
-    "is_dow_jones_market_open": false,
+    "is_dow_jones_market_open": true,
     "dow_jones": {
-      "value": null,
-      "change_type": "up",
-      "perc_change": null
+      "value": 33910.85,
+      "change_type": "down",
+      "perc_change": 1.14
     },
-    "is_nasdaq_market_open": false,
+    "is_nasdaq_market_open": true,
     "nasdaq": {
-      "value": null,
+      "value": 11095.11,
       "change_type": "up",
-      "perc_change": null
+      "perc_change": 0.14
     }
   },
   "long_term_change": {
     "sensex": {
       "value": null,
       "change_type": "up",
-      "perc_change": 15.53
+      "perc_change": 15.57
     },
     "nifty": {
       "value": null,
       "change_type": "up",
-      "perc_change": 15.07
+      "perc_change": 15.18
     },
     "dow_jones": {
       "value": null,
       "change_type": "up",
-      "perc_change": null
+      "perc_change": 7.11
     },
     "nasdaq": {
       "value": null,
       "change_type": "up",
-      "perc_change": null
+      "perc_change": 11
     }
   },
   "news": [
     {
+      "title": "Quarterly Results: IndusInd Bank",
+      "description": "Reported a 69% year-on-year rise in net profit to Rs 1,959 cr.\n\n\n\n\n\n\n\n\n\n\n\n\n\nNet interest income (revenue) rose 19% to Rs 4,495 cr.\nGross non-performing assets (% loans that are not being repaid) was down to 2.06% from 2.48% a year ago."
+    },
+    {
       "title": "More...",
-      "description": "+The govt has reduced the tax on diesel export to Rs 5 per litre from Rs 6.5. Levy on crude oil produced by domestic companies has been cut to Rs 1,900/tonne from Rs 2,100/tonne.\n+China\u2019s population started shrinking in 2022 for the first time in 60 years - it had 141 cr people at the end of 2020, 8.50 lakh lesser than the end of 2021.\n+6.86 lakh Indians travelled to Singapore in 2022 - making India the second-largest tourist market for Singapore behind Indonesia.\n+2022 was the fifth warmest year on record: NASA."
+      "description": "+Inflation in the UK stood at 10.5% in Dec, down from 10.7% in the previous month.\n+OYO will reportedly resubmit its draft IPO papers with SEBI in Feb. SEBI had earlier asked the company to make some edits in its papers and resubmit them.\n+China\u2019s GDP grew by 3% in 2022 - lower than their target of 5.5%. This was amongst the lowest GDP growth the country has recorded in recent years.\n+South Korea\u2019s Lotte Confectionery announced that it will invest Rs 450 cr in its Indian subsidiary Havmor Ice Cream in the next 5 years."
     },
     {
       "title": "Stocks in the news",
-      "description": "PNB Housing Finance: board will meet on 24 Jan to consider raising Rs 2,000 cr by issuing debentures.\nMaruti Suzuki: transported record 3.2 lakh vehicles via railways in 2022. The company had obtained a licence in 2013 that allows it to operate high-speed auto-wagon rakes on the Indian Railways network.\nGlenmark Pharma: launched a new medicine in India to treat heart failure\nKotak Mahindra Bank: increased lending rate by 0.10 to 0.30%."
+      "description": "Cipla: has launched a testing device for non-communicable and infectious diseases.\n\n\n\n\n\n\n\n\n\nHindustan Zinc: board will meet on Thursday (19th Jan) to consider interim dividend.\nAdani Green: will acquire 50% stake in Essel Saurya Urja Company.\nTata Motors: has reduced the price of Nexon EV by up to Rs 85,000.\nAshok Leyland: will supply 500 buses to Sri Lanka Transport Board.\nMaruti Suzuki: recalled 17,362 vehicles due to faulty airbags."
     },
     {
       "title": "Word of the Day",
-      "description": "Settlement Cycle\nSettlement cycle refers to the amount of times it takes for a buy or sell order to settle.\nSay you sell stock X on Monday. Currently there is a T+2 settlement cycle which means you\u2019ll get the full money for your sale after 2 days - on Wednesday.\nFrom Jan 27, all Indian stocks will move to a T+1 settlement cycle."
+      "description": "Capex\nCapital Expenditure (Capex) is the money spent on buying or building fixed assets.\nExample: factories, machinery, or other heavy equipment.\nSince these involve a large outlay of money in one go, capex forms a large part of expenses for many companies."
     },
     {
       "title": "6 Day Course",
-      "description": "Theme: terms used to describe market downs\nDay 2: Tuesday\nCorrection.\nA correction is when there is a fall of more than 10% \u2014 with reference to the most recent high.\nThis could be anything: a share price, an index or markets as a whole, real estate prices, etc.\nIn corrections, this >10% fall can occur over a few days to a few months.\nCorrections in stock prices and even entire markets are common.\nRecent example: the markets fell more than 10% from April 2022 to June 2022 because of the Ukraine war.\n\u2018Correction\u2019 is often confused with \u2018crash\u2019.\nThere is no real definition of crash. It is a loosely used word. When a stock or markets fall suddenly, it is called a crash."
+      "description": "Theme: terms used to describe market downs\nDay 3: Wednesday\nRecession.\nA recession occurs when the economic activity falls for 2 quarters or 6 months.\nDo note, the terms we\u2019ve discussed so far are applicable to individuals stocks as well as markets.\nBut recession is used to describe only the economic activity as a whole. Usually, if the GDP of a country falls for 2 quarters, the country is said to be in a recession.\nA recession can last relatively longer \u2014 anywhere from 6 months to a few years.\nA recession is also said to be temporary in nature \u2014 recovery from a recession is expected.\nThis definition is not fixed.\nRecently, the USA\u2019s economy contracted for 2 quarters but the US government did not call it a recession citing other positive economic indicators.\nSome agreed with them. Some criticised them for not declaring a recession.\nMissed last week's course? You can download the course PDF - click to download."
     },
     {
       "title": "Featured Question",
-      "description": "\"Who guides the operations of that company which have ZERO Promoter holding ,like ITC ?\"\n\nThere are many companies which are majorly owned by the public.\nCompanies like ICICI Bank, ITC, and L&T are majorly owned by shareholders of different kinds like individual investors, mutual funds, domestic and foreign institutional investors, and so on.\nThere is a board in place that is constituted to benefit shareholders. This board appoints the CEO. The CEO is responsible for running the company in a manner that is best for the shareholders.\nIf the CEO doesn\u2019t perform, he/she can removed by the board.\nEven the world\u2019s largest company, Apple, does not have any promotor shareholding.\nTim Cook is the CEO appointed by Apple\u2019s board. Steve Job\u2019s family doesn\u2019t hold any significant stocks in the company."
+      "description": "\"When prices of shares follow the usual demand and supply rule and vary accordingly, why is the company's performance even relevant? Theoretically, even if a company is performing poorly but people are buying its shares then the price should always go up. So shouldn't people buying/trading the stocks keep the share price at par? Why do people consider the performance of companies?\"\n\u00a0\nIf a company makes good profits, you get more profits \u2014 in the form of dividend (or share buybacks).\nSo, when a company\u2019s profits go up, it becomes more attractive to investors. They\u2019re willing to pay a higher price for the stock.\nIf more people are willing to pay a higher price for a stock, the stock price rises.\nIn short, the price is linked to the demand and supply for a stock \u2014 but the demand and supply for a stock is linked to the company\u2019s performance (income, revenue, etc).\nIt must be noted here, not all companies give dividends or do buybacks. These companies are reinvesting their earnings back into the business to grow it further.\nEven these companies are expected to give dividends or do share buybacks at some point in the future when they\u2019re done aggressively growing."
     }
   ],
   "introduction": {
-    "image": "https://cms-resources.groww.in/uploads/23423425_8c821b11be.png",
-    "content": "Fact: Nifty has risen between 0% and 1% about 495 times in the last 5 years."
+    "image": "https://cms-resources.groww.in/uploads/Screenshot_2023_01_18_at_4_15_36_PM_27b0003d63.png",
+    "content": "Fact: Nifty has risen between 0% and 1% about 495 times in the last 5 years.\nIndian markets stayed in the green for the whole day.\nThere has been a marginal improvement in Foreign Institutional Investors (FII) flows as well. Daily FII flows turned positive on Jan 17 for the first time this month.\nAsian indices were also in the green.\nEnergy, PSU banks, and auto stocks ended in the red today. All other sectors ended in the green."
   },
   "top_gainers": [
     {
-      "name": "L&T",
-      "price": 2213.1,
+      "name": "Hindalco",
+      "price": 502.95,
       "change": {
         "change_type": "up",
-        "perc_change": 3.55
+        "perc_change": 3.08
       }
     },
     {
-      "name": "HUL",
-      "price": 2667.55,
+      "name": "Tata Steel",
+      "price": 122.45,
       "change": {
         "change_type": "up",
-        "perc_change": 2.71
+        "perc_change": 2.6
+      }
+    },
+    {
+      "name": "L&T",
+      "price": 2266.5,
+      "change": {
+        "change_type": "up",
+        "perc_change": 2.41
+      }
+    },
+    {
+      "name": "UPL",
+      "price": 732.35,
+      "change": {
+        "change_type": "up",
+        "perc_change": 1.83
       }
     },
     {
       "name": "HDFC",
-      "price": 2640.65,
+      "price": 2687.65,
       "change": {
         "change_type": "up",
-        "perc_change": 1.77
-      }
-    },
-    {
-      "name": "HCL Tech",
-      "price": 1111.05,
-      "change": {
-        "change_type": "up",
-        "perc_change": 1.59
-      }
-    },
-    {
-      "name": "HDFC Bank",
-      "price": 1608.9,
-      "change": {
-        "change_type": "up",
-        "perc_change": 1.49
+        "perc_change": 1.78
       }
     }
   ],
   "top_losers": [
     {
-      "name": "SBI",
-      "price": 592.95,
+      "name": "Tata Motors",
+      "price": 408.4,
       "change": {
         "change_type": "down",
-        "perc_change": 1.67
+        "perc_change": 1.66
       }
     },
     {
-      "name": "Bajaj Finserv",
-      "price": 1372.9,
+      "name": "HDFC Life",
+      "price": 601.05,
       "change": {
         "change_type": "down",
-        "perc_change": 0.79
+        "perc_change": 1.38
       }
     },
     {
-      "name": "IndusInd Bank",
-      "price": 1230.35,
+      "name": "UltraTech",
+      "price": 7283.45,
       "change": {
         "change_type": "down",
-        "perc_change": 0.72
+        "perc_change": 1.28
       }
     },
     {
-      "name": "Wipro",
-      "price": 396.35,
+      "name": "Adani Enterprises",
+      "price": 3596.7,
       "change": {
         "change_type": "down",
-        "perc_change": 0.56
+        "perc_change": 1.17
       }
     },
     {
-      "name": "Tata Steel",
-      "price": 119.35,
+      "name": "BPCL",
+      "price": 346.05,
       "change": {
         "change_type": "down",
-        "perc_change": 0.5
+        "perc_change": 0.67
       }
     }
   ]
