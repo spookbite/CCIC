@@ -1,184 +1,184 @@
 {
-  "title": "IndusInd Bank records profit growth, lower inflation in UK, & more",
-  "date": "2023-01-18T13:00:00.000Z",
-  "slug": "indus-ind-bank-records-profit-growth-lower-inflation-in-uk-and-more",
+  "title": "Reliance Q2, Rise in forex, & more",
+  "date": "2023-01-20T06:30:00.000Z",
+  "slug": "reliance-q2-rise-in-forex-and-more",
   "is_indian_market_open": true,
   "sensex": {
-    "value": 61045.74,
-    "change_type": "up",
-    "perc_change": 0.64
+    "value": 60621.77,
+    "change_type": "down",
+    "perc_change": 0.39
   },
   "nifty": {
-    "value": 18165.35,
+    "value": 18027.65,
     "change_type": "up",
-    "perc_change": 0.62
+    "perc_change": 0.44
   },
-  "us_indices_date": "2023-01-17",
+  "us_indices_date": "2023-01-19",
   "daily_change": {
     "is_gold_market_open": true,
     "gold": {
-      "value": 56451,
+      "value": 56730,
       "change_type": "up",
-      "perc_change": 0.05
+      "perc_change": 0.65
     },
     "is_silver_market_open": true,
     "silver": {
-      "value": 69511,
-      "change_type": "down",
-      "perc_change": 0.04
+      "value": 68830,
+      "change_type": "up",
+      "perc_change": 1.38
     },
     "is_usd_inr_market_open": true,
     "usd_inr": {
-      "value": 81.24,
+      "value": 81.12,
       "change_type": "down",
-      "perc_change": 0.64
+      "perc_change": 0.29
     },
     "is_dow_jones_market_open": true,
     "dow_jones": {
-      "value": 33910.85,
+      "value": 33044.56,
       "change_type": "down",
-      "perc_change": 1.14
+      "perc_change": 0.76
     },
     "is_nasdaq_market_open": true,
     "nasdaq": {
-      "value": 11095.11,
-      "change_type": "up",
-      "perc_change": 0.14
+      "value": 10852.27,
+      "change_type": "down",
+      "perc_change": 0.96
     }
   },
   "long_term_change": {
     "sensex": {
       "value": null,
       "change_type": "up",
-      "perc_change": 15.57
+      "perc_change": 15.53
     },
     "nifty": {
       "value": null,
       "change_type": "up",
-      "perc_change": 15.18
+      "perc_change": 15.13
     },
     "dow_jones": {
       "value": null,
       "change_type": "up",
-      "perc_change": 7.11
+      "perc_change": 7.06
     },
     "nasdaq": {
       "value": null,
       "change_type": "up",
-      "perc_change": 11
+      "perc_change": 10.93
     }
   },
   "news": [
     {
-      "title": "Quarterly Results: IndusInd Bank",
-      "description": "Reported a 69% year-on-year rise in net profit to Rs 1,959 cr.\n\n\n\n\n\n\n\n\n\n\n\n\n\nNet interest income (revenue) rose 19% to Rs 4,495 cr.\nGross non-performing assets (% loans that are not being repaid) was down to 2.06% from 2.48% a year ago."
+      "title": "Quarterly Results",
+      "description": "Reliance Industries\nNet profit stood at Rs 17,806 cr vs Rs 20,539 cr in the year-ago period.\nRevenue rose to Rs 2.21 lakh cr as compared to Rs 1.91 lakh cr.\nJio\u2019s net profit rose 28.3% to Rs 4,638 cr.\nJSW Steel\nReported an 89% fall in net profit at Rs 490 cr.\nRevenue from operations grew 2% to Rs 39,134 cr."
     },
     {
       "title": "More...",
-      "description": "+Inflation in the UK stood at 10.5% in Dec, down from 10.7% in the previous month.\n+OYO will reportedly resubmit its draft IPO papers with SEBI in Feb. SEBI had earlier asked the company to make some edits in its papers and resubmit them.\n+China\u2019s GDP grew by 3% in 2022 - lower than their target of 5.5%. This was amongst the lowest GDP growth the country has recorded in recent years.\n+South Korea\u2019s Lotte Confectionery announced that it will invest Rs 450 cr in its Indian subsidiary Havmor Ice Cream in the next 5 years."
+      "description": "+India's foreign exchange reserves rose to $572 billion in the week ended Jan 13 - highest in 5 months.\n\n\n\n\n\n\n\n\n\n\n\n\n\n+Indian Railways has earned Rs 1.91 lakh cr in this financial year so far compared to Rs 1.49 lakh cr in the year-ago period.\n+Google's parent Alphabet Inc announced it will lay off about 12,000 jobs, or 6% of its global workforce."
     },
     {
       "title": "Stocks in the news",
-      "description": "Cipla: has launched a testing device for non-communicable and infectious diseases.\n\n\n\n\n\n\n\n\n\nHindustan Zinc: board will meet on Thursday (19th Jan) to consider interim dividend.\nAdani Green: will acquire 50% stake in Essel Saurya Urja Company.\nTata Motors: has reduced the price of Nexon EV by up to Rs 85,000.\nAshok Leyland: will supply 500 buses to Sri Lanka Transport Board.\nMaruti Suzuki: recalled 17,362 vehicles due to faulty airbags."
+      "description": "Vedanta: will sell Zinc International assets to Hindustan Zinc for $2,981 million.\nUnion Bank: reported a 106.8% year-on-year rise in net profit to Rs 2,245 cr.\nLTIMindtree: reported a 4.7% increase in net profit at Rs 1,000 cr. Announced Rs 20/share dividend."
     },
     {
       "title": "Word of the Day",
-      "description": "Capex\nCapital Expenditure (Capex) is the money spent on buying or building fixed assets.\nExample: factories, machinery, or other heavy equipment.\nSince these involve a large outlay of money in one go, capex forms a large part of expenses for many companies."
+      "description": "Operational Costs\nOperational costs are the expense that a company incurs for its day-to-day operations.\nThis includes raw material expenses as well as selling and administrative expenses like rent and employee salaries.\nThese can be different for different sectors.\nFor FMCG, raw material costs can be the primary operational expenses, for service-based companies, rent and salaries can be the significant operating costs."
     },
     {
       "title": "6 Day Course",
-      "description": "Theme: terms used to describe market downs\nDay 3: Wednesday\nRecession.\nA recession occurs when the economic activity falls for 2 quarters or 6 months.\nDo note, the terms we\u2019ve discussed so far are applicable to individuals stocks as well as markets.\nBut recession is used to describe only the economic activity as a whole. Usually, if the GDP of a country falls for 2 quarters, the country is said to be in a recession.\nA recession can last relatively longer \u2014 anywhere from 6 months to a few years.\nA recession is also said to be temporary in nature \u2014 recovery from a recession is expected.\nThis definition is not fixed.\nRecently, the USA\u2019s economy contracted for 2 quarters but the US government did not call it a recession citing other positive economic indicators.\nSome agreed with them. Some criticised them for not declaring a recession.\nMissed last week's course? You can download the course PDF - click to download."
+      "description": "Theme: terms used to describe market downs\nDay 5: Friday\nThere are many other terms that are loosely used to describe different types of downs.\nMost of them do not have a clear definition \u2014 they are casually used by investors and the media.\nWe\u2019ve spoken of \u2018crash\u2019 earlier in this course. Likewise, there are other scarier terms like \u2018market rout\u2019, \u2018bloodbath\u2019, and a few others.\nNewer words are coined on social media every now and then \u2014 almost none of them have a clear definition.\nInvestors must understand that when viewing a stock\u2019s falling price or a market\u2019s falling index, such terms are not of much use.\nInvestors must also observe the percentage by which the fall has occurred more than anything else and decide for themselves.\nMissed last week's course? You can download the course PDF - click to download."
     },
     {
       "title": "Featured Question",
-      "description": "\"When prices of shares follow the usual demand and supply rule and vary accordingly, why is the company's performance even relevant? Theoretically, even if a company is performing poorly but people are buying its shares then the price should always go up. So shouldn't people buying/trading the stocks keep the share price at par? Why do people consider the performance of companies?\"\n\u00a0\nIf a company makes good profits, you get more profits \u2014 in the form of dividend (or share buybacks).\nSo, when a company\u2019s profits go up, it becomes more attractive to investors. They\u2019re willing to pay a higher price for the stock.\nIf more people are willing to pay a higher price for a stock, the stock price rises.\nIn short, the price is linked to the demand and supply for a stock \u2014 but the demand and supply for a stock is linked to the company\u2019s performance (income, revenue, etc).\nIt must be noted here, not all companies give dividends or do buybacks. These companies are reinvesting their earnings back into the business to grow it further.\nEven these companies are expected to give dividends or do share buybacks at some point in the future when they\u2019re done aggressively growing."
+      "description": "\"Why SIP in Mutual Funds is being encouraged so often?\"\nThere are many reasons why. Some main reasons are:\n-Investing every month. This sounds simple but is a surprisingly big problem. Investors tend to forget or skip investing often. With SIP, the investment automatically happens every month.\nEven though the investor can cancel the SIP at any time, many don\u2019t cancel.\n-Another reason is that it averages investments going into the mutual fund. When you invest regularly via SIP, on some days, the markets will be high and on some days, it will be low.\nThus, by starting an SIP, an investor reduces the risk of getting into the market at the wrong time with his/her entire investment amount."
     }
   ],
   "introduction": {
-    "image": "https://cms-resources.groww.in/uploads/Screenshot_2023_01_18_at_4_15_36_PM_27b0003d63.png",
-    "content": "Fact: Nifty has risen between 0% and 1% about 495 times in the last 5 years.\nIndian markets stayed in the green for the whole day.\nThere has been a marginal improvement in Foreign Institutional Investors (FII) flows as well. Daily FII flows turned positive on Jan 17 for the first time this month.\nAsian indices were also in the green.\nEnergy, PSU banks, and auto stocks ended in the red today. All other sectors ended in the green."
+    "image": "https://cms-resources.groww.in/uploads/Screenshot_2023_01_20_at_6_14_03_PM_bdbc272d53.png",
+    "content": "Fact: Nifty has fallen between 0% and 1% about 420 times in the last 5 years.\nMarkets continued to end in the red on Friday. No new event triggered the fall today.\nSensex and Nifty underperformed when compared to Asian markets.\nPublic sector enterprises, bank, and finance stocks ended in the green. Almost all other sectors fell."
   },
   "top_gainers": [
     {
-      "name": "Hindalco",
-      "price": 502.95,
+      "name": "Coal India",
+      "price": 227.0,
       "change": {
         "change_type": "up",
-        "perc_change": 3.08
+        "perc_change": 1.36
       }
     },
     {
-      "name": "Tata Steel",
-      "price": 122.45,
+      "name": "Power Grid",
+      "price": 223.25,
       "change": {
         "change_type": "up",
-        "perc_change": 2.6
+        "perc_change": 1.13
       }
     },
     {
-      "name": "L&T",
-      "price": 2266.5,
+      "name": "HDFC Bank",
+      "price": 1660.95,
       "change": {
         "change_type": "up",
-        "perc_change": 2.41
-      }
-    },
-    {
-      "name": "UPL",
-      "price": 732.35,
-      "change": {
-        "change_type": "up",
-        "perc_change": 1.83
+        "perc_change": 1.02
       }
     },
     {
       "name": "HDFC",
-      "price": 2687.65,
+      "price": 2715.95,
       "change": {
         "change_type": "up",
-        "perc_change": 1.78
+        "perc_change": 0.9
+      }
+    },
+    {
+      "name": "ITC",
+      "price": 334.6,
+      "change": {
+        "change_type": "up",
+        "perc_change": 0.74
       }
     }
   ],
   "top_losers": [
     {
-      "name": "Tata Motors",
-      "price": 408.4,
+      "name": "HUL",
+      "price": 2548.75,
       "change": {
         "change_type": "down",
-        "perc_change": 1.66
+        "perc_change": 3.81
       }
     },
     {
-      "name": "HDFC Life",
-      "price": 601.05,
+      "name": "Asian Paints",
+      "price": 2787.8,
       "change": {
         "change_type": "down",
-        "perc_change": 1.38
+        "perc_change": 2.73
       }
     },
     {
-      "name": "UltraTech",
-      "price": 7283.45,
+      "name": "Bajaj Finance",
+      "price": 5860.4,
       "change": {
         "change_type": "down",
-        "perc_change": 1.28
+        "perc_change": 2.53
       }
     },
     {
-      "name": "Adani Enterprises",
-      "price": 3596.7,
+      "name": "JSW Steel",
+      "price": 741.45,
       "change": {
         "change_type": "down",
-        "perc_change": 1.17
+        "perc_change": 2.45
       }
     },
     {
-      "name": "BPCL",
-      "price": 346.05,
+      "name": "Nestle",
+      "price": 19200.05,
       "change": {
         "change_type": "down",
-        "perc_change": 0.67
+        "perc_change": 2.44
       }
     }
   ]
