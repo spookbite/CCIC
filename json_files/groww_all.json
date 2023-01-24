@@ -1,184 +1,184 @@
 {
-  "title": "Reliance Q2, Rise in forex, & more",
-  "date": "2023-01-20T06:30:00.000Z",
-  "slug": "reliance-q2-rise-in-forex-and-more",
+  "title": "Made in India 5G tech, Vistara records profit, & more",
+  "date": "2023-01-23T06:30:00.000Z",
+  "slug": "made-in-india-5-g-tech-vistara-records-profit-and-more",
   "is_indian_market_open": true,
   "sensex": {
-    "value": 60621.77,
-    "change_type": "down",
-    "perc_change": 0.39
+    "value": 60941.67,
+    "change_type": "up",
+    "perc_change": 0.53
   },
   "nifty": {
-    "value": 18027.65,
+    "value": 18118.55,
     "change_type": "up",
-    "perc_change": 0.44
+    "perc_change": 0.5
   },
-  "us_indices_date": "2023-01-19",
+  "us_indices_date": "2023-01-20",
   "daily_change": {
     "is_gold_market_open": true,
     "gold": {
-      "value": 56730,
+      "value": 56731,
       "change_type": "up",
-      "perc_change": 0.65
+      "perc_change": 0.01
     },
     "is_silver_market_open": true,
     "silver": {
-      "value": 68830,
-      "change_type": "up",
-      "perc_change": 1.38
+      "value": 68560,
+      "change_type": "down",
+      "perc_change": 0.39
     },
     "is_usd_inr_market_open": true,
     "usd_inr": {
-      "value": 81.12,
-      "change_type": "down",
-      "perc_change": 0.29
+      "value": 81.39,
+      "change_type": "up",
+      "perc_change": 0.33
     },
     "is_dow_jones_market_open": true,
     "dow_jones": {
-      "value": 33044.56,
-      "change_type": "down",
-      "perc_change": 0.76
+      "value": 33375.49,
+      "change_type": "up",
+      "perc_change": 1
     },
     "is_nasdaq_market_open": true,
     "nasdaq": {
-      "value": 10852.27,
-      "change_type": "down",
-      "perc_change": 0.96
+      "value": 11140.43,
+      "change_type": "up",
+      "perc_change": 2.66
     }
   },
   "long_term_change": {
     "sensex": {
       "value": null,
       "change_type": "up",
-      "perc_change": 15.53
+      "perc_change": 15.62
     },
     "nifty": {
       "value": null,
       "change_type": "up",
-      "perc_change": 15.13
+      "perc_change": 15.16
     },
     "dow_jones": {
       "value": null,
       "change_type": "up",
-      "perc_change": 7.06
+      "perc_change": 7.11
     },
     "nasdaq": {
       "value": null,
       "change_type": "up",
-      "perc_change": 10.93
+      "perc_change": 11.07
     }
   },
   "news": [
     {
       "title": "Quarterly Results",
-      "description": "Reliance Industries\nNet profit stood at Rs 17,806 cr vs Rs 20,539 cr in the year-ago period.\nRevenue rose to Rs 2.21 lakh cr as compared to Rs 1.91 lakh cr.\nJio\u2019s net profit rose 28.3% to Rs 4,638 cr.\nJSW Steel\nReported an 89% fall in net profit at Rs 490 cr.\nRevenue from operations grew 2% to Rs 39,134 cr."
+      "description": "Axis Bank\nNet profit rose 62% to Rs 5,853 cr.\nNet interest income grew 32.4% to Rs 11,459 cr."
     },
     {
       "title": "More...",
-      "description": "+India's foreign exchange reserves rose to $572 billion in the week ended Jan 13 - highest in 5 months.\n\n\n\n\n\n\n\n\n\n\n\n\n\n+Indian Railways has earned Rs 1.91 lakh cr in this financial year so far compared to Rs 1.49 lakh cr in the year-ago period.\n+Google's parent Alphabet Inc announced it will lay off about 12,000 jobs, or 6% of its global workforce."
+      "description": "+Made-In-India 4G and 5G technology will be launched this year. It will be offered to other countries starting next year: Telecom minister Ashwini Vaishnaw.\n+Vistara announced its first-ever quarterly profit (excluding unrealised foreign currency loss and non-operating income) in the Oct-Dec quarter.\n+Battery start-up Log9 Material raised $40 million in Series B funding led by Amara Raja Batteries.\n+Nokia has signed a new multi-year agreement to license its 5G patents to Samsung."
     },
     {
-      "title": "Stocks in the news",
-      "description": "Vedanta: will sell Zinc International assets to Hindustan Zinc for $2,981 million.\nUnion Bank: reported a 106.8% year-on-year rise in net profit to Rs 2,245 cr.\nLTIMindtree: reported a 4.7% increase in net profit at Rs 1,000 cr. Announced Rs 20/share dividend."
+      "title": "Other stocks in news",
+      "description": "Puravankara: recorded Rs 796 cr sales in the Oct-Dec quarter - a 20% year-on-year increase.\nSBI: acquired a 40% stake in Commercial lndo Bank LLC (CIBL), Moscow.\nAdani Green: posted a 9% increase in sales of solar energy in the Dec quarter.\nZomato: is reportedly planning to shut its 10-minute food delivery business.\nIndoco Remedies: USFDA inspected the company\u2019s Goa plant and gave 9 observations.\nLemon Tree Hotels: opened a new hotel in Kumbhalgarh, Rajasthan.\nSterlite Power: bagged orders worth Rs 3,800 cr in the April-Dec period.\nEaseMyTrip: \u00a0planning to launch offline retail stores under a franchise model in India."
     },
     {
-      "title": "Word of the Day",
-      "description": "Operational Costs\nOperational costs are the expense that a company incurs for its day-to-day operations.\nThis includes raw material expenses as well as selling and administrative expenses like rent and employee salaries.\nThese can be different for different sectors.\nFor FMCG, raw material costs can be the primary operational expenses, for service-based companies, rent and salaries can be the significant operating costs."
+      "title": "Word of the day",
+      "description": "Non-Operating Income\nNon-Operating income is a company's revenue from activities different from its main business.\nFor example, for FMCG companies money received from sale of assets and interest income from investments are included in non-operating income.\nThis income forms a very small part of most companies\u2019 total income."
     },
     {
-      "title": "6 Day Course",
-      "description": "Theme: terms used to describe market downs\nDay 5: Friday\nThere are many other terms that are loosely used to describe different types of downs.\nMost of them do not have a clear definition \u2014 they are casually used by investors and the media.\nWe\u2019ve spoken of \u2018crash\u2019 earlier in this course. Likewise, there are other scarier terms like \u2018market rout\u2019, \u2018bloodbath\u2019, and a few others.\nNewer words are coined on social media every now and then \u2014 almost none of them have a clear definition.\nInvestors must understand that when viewing a stock\u2019s falling price or a market\u2019s falling index, such terms are not of much use.\nInvestors must also observe the percentage by which the fall has occurred more than anything else and decide for themselves.\nMissed last week's course? You can download the course PDF - click to download."
+      "title": "6-day course",
+      "description": "Theme: momentum investing\nDay 1: Monday\nThere are different kinds of investing strategies used by different investors. One such strategy is called momentum strategy.\nIn recent years, it has gained popularity. It is a promising strategy but can also be risky.\nIn momentum, stocks that are climbing up are bought. They are sold as soon as they show signs of downward movement.\nIt\u2019s a bit more complicated than that, but this is the gist of it.\nIt is basically taking a bet on the behaviour of investors to double down on stocks that are rising. And momentum investors aim to be one of the early ones to leave when a stock falls.\nFurther in this course, we\u2019ll go deeper into how all of this works.\nMissed last week's course? You can download the course PDF - click to download."
     },
     {
-      "title": "Featured Question",
-      "description": "\"Why SIP in Mutual Funds is being encouraged so often?\"\nThere are many reasons why. Some main reasons are:\n-Investing every month. This sounds simple but is a surprisingly big problem. Investors tend to forget or skip investing often. With SIP, the investment automatically happens every month.\nEven though the investor can cancel the SIP at any time, many don\u2019t cancel.\n-Another reason is that it averages investments going into the mutual fund. When you invest regularly via SIP, on some days, the markets will be high and on some days, it will be low.\nThus, by starting an SIP, an investor reduces the risk of getting into the market at the wrong time with his/her entire investment amount."
+      "title": "Featured question",
+      "description": "\"Which is better to invest in MF : SIP route or lump sum investment\"\nThere is no \u2019better\u2019.\nIt depends on how your money stands.\nFirst things first, for most normal investors, it does not make sense to accumulate money in your bank for months and then invest in one go (lump sum).\nLike if you have a salary. It doesn\u2019t make sense to accumulate the amount and then invest. SIP is more suitable here.\nIf you suddenly have a certain amount of money like an extra bonus you earned, a property sale, etc, then you can think of a lump sum investment.\nIn equity mutual funds, it is usually suggested to invest via the STP option.\nIn STP (Systematic Transfer Plan), you invest the entire amount in a debt fund and transfer it gradually to an equity fund.\nIt is like starting an SIP but instead of deducting money from your bank, it deducts money from a debt fund where you invested.\nThis reduces the chance of your lump sum investment getting caught in a single-day market spike \u2014 therefore reducing the risk a bit.\n------------------\nIn this section, daily, we'll try to answer one burning question related to the field of personal finance education.\u00a0\nRemember, NO investment advice & ONLY personal finance education questions.\u00a0\nAsk your question here: Ask a question"
     }
   ],
   "introduction": {
-    "image": "https://cms-resources.groww.in/uploads/Screenshot_2023_01_20_at_6_14_03_PM_bdbc272d53.png",
-    "content": "Fact: Nifty has fallen between 0% and 1% about 420 times in the last 5 years.\nMarkets continued to end in the red on Friday. No new event triggered the fall today.\nSensex and Nifty underperformed when compared to Asian markets.\nPublic sector enterprises, bank, and finance stocks ended in the green. Almost all other sectors fell."
+    "image": "https://cms-resources.groww.in/uploads/Screenshot_2023_01_23_at_5_23_45_PM_ca2001f01e.png",
+    "content": "Fact: Nifty has risen between 0% and 1% about 494 times in the last 5 years.\nTech shares in the US rallied after Netflix posted positive results. Asian markets and SGX Nifty were also in the green.\nIndian markets were in the green throughout the session today.\nOnly realty, metal, and commodity stocks were in the red."
   },
   "top_gainers": [
     {
-      "name": "Coal India",
-      "price": 227.0,
+      "name": "HUL",
+      "price": 2596.4,
       "change": {
         "change_type": "up",
-        "perc_change": 1.36
+        "perc_change": 1.87
       }
     },
     {
-      "name": "Power Grid",
-      "price": 223.25,
+      "name": "Sun Pharma",
+      "price": 1049.3,
       "change": {
         "change_type": "up",
-        "perc_change": 1.13
+        "perc_change": 1.84
       }
     },
     {
-      "name": "HDFC Bank",
-      "price": 1660.95,
+      "name": "Tech Mahindra",
+      "price": 1065.3,
       "change": {
         "change_type": "up",
-        "perc_change": 1.02
+        "perc_change": 1.8
       }
     },
     {
-      "name": "HDFC",
-      "price": 2715.95,
+      "name": "Eicher Motors",
+      "price": 3203.35,
       "change": {
         "change_type": "up",
-        "perc_change": 0.9
+        "perc_change": 1.68
       }
     },
     {
-      "name": "ITC",
-      "price": 334.6,
+      "name": "UPL",
+      "price": 749.45,
       "change": {
         "change_type": "up",
-        "perc_change": 0.74
+        "perc_change": 1.58
       }
     }
   ],
   "top_losers": [
     {
-      "name": "HUL",
-      "price": 2548.75,
+      "name": "UltraTech",
+      "price": 6849.75,
       "change": {
         "change_type": "down",
-        "perc_change": 3.81
+        "perc_change": 4.56
       }
     },
     {
-      "name": "Asian Paints",
-      "price": 2787.8,
+      "name": "Grasim",
+      "price": 1631.3,
       "change": {
         "change_type": "down",
-        "perc_change": 2.73
+        "perc_change": 1.45
       }
     },
     {
-      "name": "Bajaj Finance",
-      "price": 5860.4,
+      "name": "NTPC",
+      "price": 166.85,
       "change": {
         "change_type": "down",
-        "perc_change": 2.53
+        "perc_change": 1.1
       }
     },
     {
       "name": "JSW Steel",
-      "price": 741.45,
+      "price": 733.95,
       "change": {
         "change_type": "down",
-        "perc_change": 2.45
+        "perc_change": 1.01
       }
     },
     {
-      "name": "Nestle",
-      "price": 19200.05,
+      "name": "Tata Steel",
+      "price": 122.0,
       "change": {
         "change_type": "down",
-        "perc_change": 2.44
+        "perc_change": 0.77
       }
     }
   ]
