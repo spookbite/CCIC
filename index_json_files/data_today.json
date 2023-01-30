@@ -122,15 +122,15 @@
       "pre_valb": "0.00"
     },
     {
-      "trd": "-",
-      "qty": "-",
-      "val": "-",
-      "utm": "-",
-      "utmAs": "",
+      "trd": "2",
+      "qty": "2",
+      "val": "0.11",
+      "utm": "23:34",
+      "utmAs": "Jan 27, 2023",
       "mkt": "COMFUT",
-      "pre_val": "-",
-      "valb": "-",
-      "pre_valb": "-"
+      "pre_val": "0.00",
+      "valb": "0.00",
+      "pre_valb": "0.00"
     }
   ],
   "time": "Jan 27, 2023 17:00"
