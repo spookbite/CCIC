@@ -2,41 +2,28 @@
   "index": {
     "total": {
       "fii_index_put": {
-        "gross_purchase": 11844.41,
-        "gross_sales": 15067.64,
-        "net_purchase_sales": -3223.23
+        "gross_purchase": 11101.68,
+        "gross_sales": 10304.82,
+        "net_purchase_sales": 796.86
       },
       "fii_index_opt": {
-        "gross_purchase": 2251699.48,
-        "gross_sales": 2249314.23,
-        "net_purchase_sales": 2385.25
+        "gross_purchase": 1628872.44,
+        "gross_sales": 1642981.25,
+        "net_purchase_sales": -14108.81
       }
     },
     "dates": [
       {
-        "date": "31-Jan-2023",
+        "date": "01-Feb-2023",
         "fii_index_put": {
-          "gross_purchase": 6970.35,
-          "gross_sales": 8586.18,
-          "net_purchase_sales": -1615.83
+          "gross_purchase": 11101.68,
+          "gross_sales": 10304.82,
+          "net_purchase_sales": 796.86
         },
         "fii_index_opt": {
-          "gross_purchase": 1178326.25,
-          "gross_sales": 1182294.95,
-          "net_purchase_sales": -3968.7
-        }
-      },
-      {
-        "date": "30-Jan-2023",
-        "fii_index_put": {
-          "gross_purchase": 4874.06,
-          "gross_sales": 6481.46,
-          "net_purchase_sales": -1607.4
-        },
-        "fii_index_opt": {
-          "gross_purchase": 1073373.23,
-          "gross_sales": 1067019.28,
-          "net_purchase_sales": 6353.95
+          "gross_purchase": 1628872.44,
+          "gross_sales": 1642981.25,
+          "net_purchase_sales": -14108.81
         }
       }
     ]
@@ -44,41 +31,28 @@
   "stock": {
     "total": {
       "fii_stock_put": {
-        "gross_purchase": 31279.89,
-        "gross_sales": 30973.63,
-        "net_purchase_sales": 306.26
+        "gross_purchase": 24184.4,
+        "gross_sales": 23940.76,
+        "net_purchase_sales": 243.64
       },
       "fii_stock_opt": {
-        "gross_purchase": 26367.7,
-        "gross_sales": 25557.31,
-        "net_purchase_sales": 810.39
+        "gross_purchase": 22574.39,
+        "gross_sales": 22910.51,
+        "net_purchase_sales": -336.12
       }
     },
     "dates": [
       {
-        "date": "31-Jan-2023",
+        "date": "01-Feb-2023",
         "fii_stock_put": {
-          "gross_purchase": 14762.81,
-          "gross_sales": 15011.07,
-          "net_purchase_sales": -248.26
+          "gross_purchase": 24184.4,
+          "gross_sales": 23940.76,
+          "net_purchase_sales": 243.64
         },
         "fii_stock_opt": {
-          "gross_purchase": 11901.12,
-          "gross_sales": 11324.59,
-          "net_purchase_sales": 576.53
-        }
-      },
-      {
-        "date": "30-Jan-2023",
-        "fii_stock_put": {
-          "gross_purchase": 16517.08,
-          "gross_sales": 15962.56,
-          "net_purchase_sales": 554.52
-        },
-        "fii_stock_opt": {
-          "gross_purchase": 14466.58,
-          "gross_sales": 14232.72,
-          "net_purchase_sales": 233.86
+          "gross_purchase": 22574.39,
+          "gross_sales": 22910.51,
+          "net_purchase_sales": -336.12
         }
       }
     ]
