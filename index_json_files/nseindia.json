@@ -192,14 +192,14 @@
       "open_interest": 118486
     },
     "today": {
-      "volume": null,
-      "traded_value": null,
-      "trd": null,
-      "pre_val": null,
-      "valb": null,
-      "pre_valb": null,
-      "utm": "-",
-      "utmAs": ""
+      "volume": 1,
+      "traded_value": 0.06,
+      "trd": 1,
+      "pre_val": 0.0,
+      "valb": 0.0,
+      "pre_valb": 0.0,
+      "utm": "23:32",
+      "utmAs": "Feb 10, 2023"
     },
     "mkt": "COMFUT"
   }
