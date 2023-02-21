@@ -1,52 +1,52 @@
 {
   "equities": {
     "previous": {
-      "volume": 1770445168,
+      "volume": 1654692637,
       "open_interest": null
     },
     "today": {
-      "volume": 1657550300,
-      "traded_value": 41665.7,
-      "trd": 16027775,
+      "volume": 1987418724,
+      "traded_value": 39494.09,
+      "trd": 16127610,
       "pre_val": 0.0,
-      "valb": 416.66,
+      "valb": 394.94,
       "pre_valb": 0.0,
       "utm": "16:00",
-      "utmAs": "Feb 17, 2023"
+      "utmAs": "Feb 20, 2023"
     },
     "mkt": "CM"
   },
   "index_futures": {
     "previous": {
-      "volume": 289551,
-      "open_interest": 339772
+      "volume": 443771,
+      "open_interest": 361068
     },
     "today": {
-      "volume": 442970,
-      "traded_value": 43413.09,
-      "trd": 285079,
+      "volume": 370880,
+      "traded_value": 35602.91,
+      "trd": 241374,
       "pre_val": 0.0,
-      "valb": 434.13,
+      "valb": 356.03,
       "pre_valb": 0.0,
       "utm": "15:30",
-      "utmAs": "Feb 17, 2023"
+      "utmAs": "Feb 20, 2023"
     },
     "mkt": "FNOFUT"
   },
   "index_options": {
     "previous": {
-      "volume": 342447173,
-      "open_interest": 12011166
+      "volume": 126606808,
+      "open_interest": 9842271
     },
     "today": {
-      "volume": 126372234,
-      "traded_value": 46079.32,
-      "trd": 46651964,
-      "pre_val": 11952925.62,
-      "valb": 460.79,
-      "pre_valb": 119529.26,
+      "volume": 163036923,
+      "traded_value": 48969.34,
+      "trd": 56808643,
+      "pre_val": 14959549.12,
+      "valb": 489.69,
+      "pre_valb": 149595.49,
       "utm": "15:30",
-      "utmAs": "Feb 17, 2023"
+      "utmAs": "Feb 20, 2023"
     },
     "mkt": "FNOOPT"
   },
@@ -69,35 +69,35 @@
   },
   "stock_futures": {
     "previous": {
-      "volume": 1006757,
-      "open_interest": 3018121
+      "volume": 1113344,
+      "open_interest": 3040287
     },
     "today": {
-      "volume": 1110464,
-      "traded_value": 73763.31,
-      "trd": 873781,
+      "volume": 2124055,
+      "traded_value": 140780.87,
+      "trd": 1490968,
       "pre_val": 0.0,
-      "valb": 737.63,
+      "valb": 1407.81,
       "pre_valb": 0.0,
       "utm": "15:30",
-      "utmAs": "Feb 17, 2023"
+      "utmAs": "Feb 20, 2023"
     },
     "mkt": "FNOSTKFUT"
   },
   "stock_options": {
     "previous": {
-      "volume": 4626032,
-      "open_interest": 2816371
+      "volume": 4938801,
+      "open_interest": 2802072
     },
     "today": {
-      "volume": 4930202,
-      "traded_value": 3290.6,
-      "trd": 3797869,
-      "pre_val": 339123.39,
-      "valb": 32.91,
-      "pre_valb": 3391.23,
+      "volume": 4620889,
+      "traded_value": 2865.08,
+      "trd": 3484160,
+      "pre_val": 307181.52,
+      "valb": 28.65,
+      "pre_valb": 3071.82,
       "utm": "15:30",
-      "utmAs": "Feb 17, 2023"
+      "utmAs": "Feb 20, 2023"
     },
     "mkt": "FNOSTKOPT"
   },
@@ -137,35 +137,35 @@
   },
   "currency_futures": {
     "previous": {
-      "volume": 4076221,
-      "open_interest": 8322207
+      "volume": 3674781,
+      "open_interest": 8576135
     },
     "today": {
-      "volume": 3674749,
-      "traded_value": 30909.85,
-      "trd": 153133,
+      "volume": 3389871,
+      "traded_value": 28419.66,
+      "trd": 125855,
       "pre_val": 0.0,
-      "valb": 309.1,
+      "valb": 284.2,
       "pre_valb": 0.0,
       "utm": "17:00",
-      "utmAs": "Feb 17, 2023"
+      "utmAs": "Feb 20, 2023"
     },
     "mkt": "FUTCUR"
   },
   "currency_options": {
     "previous": {
-      "volume": 18781385,
-      "open_interest": 8038031
+      "volume": 14888652,
+      "open_interest": 8966470
     },
     "today": {
-      "volume": 14888544,
-      "traded_value": 150.93,
-      "trd": 222757,
-      "pre_val": 123320.98,
-      "valb": 1.51,
-      "pre_valb": 1233.21,
+      "volume": 10271528,
+      "traded_value": 168.66,
+      "trd": 197811,
+      "pre_val": 85075.83,
+      "valb": 1.69,
+      "pre_valb": 850.76,
       "utm": "17:00",
-      "utmAs": "Feb 17, 2023"
+      "utmAs": "Feb 20, 2023"
     },
     "mkt": "OPTCUR"
   },
@@ -175,31 +175,31 @@
       "open_interest": 35646
     },
     "today": {
-      "volume": 738,
-      "traded_value": 14.63,
-      "trd": 94,
+      "volume": 17679,
+      "traded_value": 354.22,
+      "trd": 192,
       "pre_val": 0.0,
-      "valb": 0.15,
+      "valb": 3.54,
       "pre_valb": 0.0,
       "utm": "17:00",
-      "utmAs": "Feb 17, 2023"
+      "utmAs": "Feb 20, 2023"
     },
     "mkt": "IRF"
   },
   "commodity_futures": {
     "previous": {
-      "volume": 279828,
+      "volume": 279829,
       "open_interest": 118489
     },
     "today": {
-      "volume": 1,
-      "traded_value": 0.06,
-      "trd": 1,
-      "pre_val": 0.0,
-      "valb": 0.0,
-      "pre_valb": 0.0,
-      "utm": "23:33",
-      "utmAs": "Feb 17, 2023"
+      "volume": null,
+      "traded_value": null,
+      "trd": null,
+      "pre_val": null,
+      "valb": null,
+      "pre_valb": null,
+      "utm": "-",
+      "utmAs": ""
     },
     "mkt": "COMFUT"
   }
