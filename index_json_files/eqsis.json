@@ -2,6 +2,30 @@
   "index_future": {
     "data": [
       {
+        "date": "2023-02-23",
+        "participant": "Pro",
+        "long": -11516,
+        "short": -24
+      },
+      {
+        "date": "2023-02-23",
+        "participant": "FII",
+        "long": -11671,
+        "short": -15324
+      },
+      {
+        "date": "2023-02-23",
+        "participant": "DII",
+        "long": -1747,
+        "short": -6434
+      },
+      {
+        "date": "2023-02-23",
+        "participant": "Client",
+        "long": -31383,
+        "short": -34535
+      },
+      {
         "date": "2023-02-22",
         "participant": "Pro",
         "long": 2936,
@@ -24,35 +48,35 @@
         "participant": "Client",
         "long": 11534,
         "short": -12695
-      },
-      {
-        "date": "2023-02-21",
-        "participant": "Pro",
-        "long": -1836,
-        "short": -7051
-      },
-      {
-        "date": "2023-02-21",
-        "participant": "FII",
-        "long": -316,
-        "short": -10623
-      },
-      {
-        "date": "2023-02-21",
-        "participant": "DII",
-        "long": -107,
-        "short": 2100
-      },
-      {
-        "date": "2023-02-21",
-        "participant": "Client",
-        "long": -518,
-        "short": 12797
       }
     ]
   },
   "index_call": {
     "data": [
+      {
+        "date": "2023-02-23",
+        "participant": "Pro",
+        "long": -602334,
+        "short": -1002705
+      },
+      {
+        "date": "2023-02-23",
+        "participant": "FII",
+        "long": -311308,
+        "short": -264040
+      },
+      {
+        "date": "2023-02-23",
+        "participant": "DII",
+        "long": -1070,
+        "short": 0
+      },
+      {
+        "date": "2023-02-23",
+        "participant": "Client",
+        "long": -3679223,
+        "short": -3327190
+      },
       {
         "date": "2023-02-22",
         "participant": "Pro",
@@ -76,35 +100,35 @@
         "participant": "Client",
         "long": 1287879,
         "short": 1042120
-      },
-      {
-        "date": "2023-02-21",
-        "participant": "Pro",
-        "long": -322450,
-        "short": -499011
-      },
-      {
-        "date": "2023-02-21",
-        "participant": "FII",
-        "long": -137749,
-        "short": -146128
-      },
-      {
-        "date": "2023-02-21",
-        "participant": "DII",
-        "long": 0,
-        "short": 0
-      },
-      {
-        "date": "2023-02-21",
-        "participant": "Client",
-        "long": -807711,
-        "short": -622771
       }
     ]
   },
   "index_put": {
     "data": [
+      {
+        "date": "2023-02-23",
+        "participant": "Pro",
+        "long": -297648,
+        "short": -343477
+      },
+      {
+        "date": "2023-02-23",
+        "participant": "FII",
+        "long": -336921,
+        "short": -236756
+      },
+      {
+        "date": "2023-02-23",
+        "participant": "DII",
+        "long": -5090,
+        "short": 0
+      },
+      {
+        "date": "2023-02-23",
+        "participant": "Client",
+        "long": -1379081,
+        "short": -1438508
+      },
       {
         "date": "2023-02-22",
         "participant": "Pro",
@@ -128,30 +152,6 @@
         "participant": "Client",
         "long": 50133,
         "short": 97309
-      },
-      {
-        "date": "2023-02-21",
-        "participant": "Pro",
-        "long": -107244,
-        "short": -83098
-      },
-      {
-        "date": "2023-02-21",
-        "participant": "FII",
-        "long": -41848,
-        "short": -1844
-      },
-      {
-        "date": "2023-02-21",
-        "participant": "DII",
-        "long": 501,
-        "short": 0
-      },
-      {
-        "date": "2023-02-21",
-        "participant": "Client",
-        "long": -34745,
-        "short": -98394
       }
     ]
   },
