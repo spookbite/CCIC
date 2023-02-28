@@ -2,17 +2,30 @@
   "index": {
     "total": {
       "fii_index_put": {
-        "gross_purchase": 101029.09,
-        "gross_sales": 103797.36,
-        "net_purchase_sales": -2768.27
+        "gross_purchase": 104956.46,
+        "gross_sales": 108407.4,
+        "net_purchase_sales": -3450.94
       },
       "fii_index_opt": {
-        "gross_purchase": 24780888.6,
-        "gross_sales": 24726864.89,
-        "net_purchase_sales": 54023.71
+        "gross_purchase": 25995650.47,
+        "gross_sales": 25934037.65,
+        "net_purchase_sales": 61612.82
       }
     },
     "dates": [
+      {
+        "date": "27-Feb-2023",
+        "fii_index_put": {
+          "gross_purchase": 3927.37,
+          "gross_sales": 4610.04,
+          "net_purchase_sales": -682.67
+        },
+        "fii_index_opt": {
+          "gross_purchase": 1214761.87,
+          "gross_sales": 1207172.76,
+          "net_purchase_sales": 7589.11
+        }
+      },
       {
         "date": "24-Feb-2023",
         "fii_index_put": {
@@ -252,17 +265,30 @@
   "stock": {
     "total": {
       "fii_stock_put": {
-        "gross_purchase": 354032.2,
-        "gross_sales": 350572.39,
-        "net_purchase_sales": 3459.81
+        "gross_purchase": 363885.88,
+        "gross_sales": 360102.24,
+        "net_purchase_sales": 3783.64
       },
       "fii_stock_opt": {
-        "gross_purchase": 240773.6,
-        "gross_sales": 241634.4,
-        "net_purchase_sales": -860.8
+        "gross_purchase": 249209.63,
+        "gross_sales": 250227.68,
+        "net_purchase_sales": -1018.05
       }
     },
     "dates": [
+      {
+        "date": "27-Feb-2023",
+        "fii_stock_put": {
+          "gross_purchase": 9853.68,
+          "gross_sales": 9529.85,
+          "net_purchase_sales": 323.83
+        },
+        "fii_stock_opt": {
+          "gross_purchase": 8436.03,
+          "gross_sales": 8593.28,
+          "net_purchase_sales": -157.25
+        }
+      },
       {
         "date": "24-Feb-2023",
         "fii_stock_put": {

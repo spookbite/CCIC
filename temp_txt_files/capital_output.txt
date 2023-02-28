@@ -4,11 +4,11 @@
                                     
                                        Nifty March futures trade at premium
                                     
-                                    Feb 24, 2023 04:13 PM | Source: capitalmarket.com
+                                    Feb 27, 2023 04:20 PM | Source: capitalmarket.com
                                         
                                     
                                         
-                                         NSE India VIX tumbled 5.90% to 14.19.
+                                         NSE India VIX fell 2.18% to 13.88.
                                     
                                    
                                 
@@ -16,14 +16,13 @@
                                
                                 
                                 
-                                
-The Nifty March 2023 futures closed at 17,560, a premium of 94.2 points compared with the Nifty's closing of 17,465.80 in the cash market.
+                                The Nifty March 2023 futures closed at 17,509, a premium of 116.3 points compared with the Nifty's closing of 17,392.70 in the cash market.
 
-Turnover on the National Stock Exchange's futures & options (F&O) segment was Rs 114.70 lakh crore compared with Rs 403.97 lakh crore reported in the previous session.
+Turnover on the National Stock Exchange's futures & options (F&O) segment was Rs 154.12 lakh crore compared with Rs 114.70 lakh crore reported in the previous session.
+
+In the cash market, the Nifty 50 shed 73.10 points or 0.42% to settle at 17,392.70.
 <style='margin-top:96px;'></style>
-In the cash market, the Nifty 50 shed 45.45 points or 0.26% to settle at 17,465.80.
-
-The NSE's India VIX, a gauge of market's expectation of volatility over the near term, dropped 5.90% to 14.19.
+The NSE's India VIX, a gauge of market's expectation of volatility over the near term, fell 2.18% to 13.8750.
 
 Adani Enterprises, Reliance Industries (RIL) and HDFC Bank were the top traded individual stock futures contracts in F&O segment of NSE.
 
