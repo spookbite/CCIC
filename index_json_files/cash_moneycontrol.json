@@ -1,17 +1,30 @@
 {
   "total": {
     "fii": {
-      "gross_purchase": 143608.71,
-      "gross_sales": 150140.14,
-      "net_purchase_sales": -6531.43
+      "gross_purchase": 22874.16,
+      "gross_sales": 29455.89,
+      "net_purchase_sales": -6581.73
     },
     "dii": {
-      "gross_purchase": 121164.54,
-      "gross_sales": 106535.13,
-      "net_purchase_sales": 14629.41
+      "gross_purchase": 15929.16,
+      "gross_sales": 9087.63,
+      "net_purchase_sales": 6841.53
     }
   },
   "dates": [
+    {
+      "date": "28-Feb-2023",
+      "fii": {
+        "gross_purchase": 18558.96,
+        "gross_sales": 23118.17,
+        "net_purchase_sales": -4559.21
+      },
+      "dii": {
+        "gross_purchase": 9307.91,
+        "gross_sales": 4698.04,
+        "net_purchase_sales": 4609.87
+      }
+    },
     {
       "date": "27-Feb-2023",
       "fii": {
@@ -23,240 +36,6 @@
         "gross_purchase": 6621.25,
         "gross_sales": 4389.59,
         "net_purchase_sales": 2231.66
-      }
-    },
-    {
-      "date": "24-Feb-2023",
-      "fii": {
-        "gross_purchase": 8864.6,
-        "gross_sales": 10334.94,
-        "net_purchase_sales": -1470.34
-      },
-      "dii": {
-        "gross_purchase": 5875.05,
-        "gross_sales": 4474.07,
-        "net_purchase_sales": 1400.98
-      }
-    },
-    {
-      "date": "23-Feb-2023",
-      "fii": {
-        "gross_purchase": 6791.35,
-        "gross_sales": 8208.59,
-        "net_purchase_sales": -1417.24
-      },
-      "dii": {
-        "gross_purchase": 7010.44,
-        "gross_sales": 5424.38,
-        "net_purchase_sales": 1586.06
-      }
-    },
-    {
-      "date": "22-Feb-2023",
-      "fii": {
-        "gross_purchase": 6195.54,
-        "gross_sales": 6775.36,
-        "net_purchase_sales": -579.82
-      },
-      "dii": {
-        "gross_purchase": 5711.53,
-        "gross_sales": 5339.97,
-        "net_purchase_sales": 371.56
-      }
-    },
-    {
-      "date": "21-Feb-2023",
-      "fii": {
-        "gross_purchase": 5465.61,
-        "gross_sales": 4939.81,
-        "net_purchase_sales": 525.8
-      },
-      "dii": {
-        "gross_purchase": 5318.43,
-        "gross_sales": 5553.66,
-        "net_purchase_sales": -235.23
-      }
-    },
-    {
-      "date": "20-Feb-2023",
-      "fii": {
-        "gross_purchase": 4256.62,
-        "gross_sales": 4415.57,
-        "net_purchase_sales": -158.95
-      },
-      "dii": {
-        "gross_purchase": 4980.3,
-        "gross_sales": 4894.07,
-        "net_purchase_sales": 86.23
-      }
-    },
-    {
-      "date": "17-Feb-2023",
-      "fii": {
-        "gross_purchase": 4809.72,
-        "gross_sales": 5434.33,
-        "net_purchase_sales": -624.61
-      },
-      "dii": {
-        "gross_purchase": 5540.77,
-        "gross_sales": 5626.06,
-        "net_purchase_sales": -85.29
-      }
-    },
-    {
-      "date": "16-Feb-2023",
-      "fii": {
-        "gross_purchase": 8580.54,
-        "gross_sales": 7009.92,
-        "net_purchase_sales": 1570.62
-      },
-      "dii": {
-        "gross_purchase": 7759.7,
-        "gross_sales": 6182.43,
-        "net_purchase_sales": 1577.27
-      }
-    },
-    {
-      "date": "15-Feb-2023",
-      "fii": {
-        "gross_purchase": 8547.86,
-        "gross_sales": 8115.71,
-        "net_purchase_sales": 432.15
-      },
-      "dii": {
-        "gross_purchase": 5880.41,
-        "gross_sales": 5363.77,
-        "net_purchase_sales": 516.64
-      }
-    },
-    {
-      "date": "14-Feb-2023",
-      "fii": {
-        "gross_purchase": 8418.32,
-        "gross_sales": 7113.02,
-        "net_purchase_sales": 1305.3
-      },
-      "dii": {
-        "gross_purchase": 5042.49,
-        "gross_sales": 4837.7,
-        "net_purchase_sales": 204.79
-      }
-    },
-    {
-      "date": "13-Feb-2023",
-      "fii": {
-        "gross_purchase": 7386.63,
-        "gross_sales": 6064.24,
-        "net_purchase_sales": 1322.39
-      },
-      "dii": {
-        "gross_purchase": 5361.52,
-        "gross_sales": 4839.83,
-        "net_purchase_sales": 521.69
-      }
-    },
-    {
-      "date": "10-Feb-2023",
-      "fii": {
-        "gross_purchase": 7700.57,
-        "gross_sales": 6242.55,
-        "net_purchase_sales": 1458.02
-      },
-      "dii": {
-        "gross_purchase": 4882.41,
-        "gross_sales": 5173.75,
-        "net_purchase_sales": -291.34
-      }
-    },
-    {
-      "date": "09-Feb-2023",
-      "fii": {
-        "gross_purchase": 7049.05,
-        "gross_sales": 7193.78,
-        "net_purchase_sales": -144.73
-      },
-      "dii": {
-        "gross_purchase": 5589.08,
-        "gross_sales": 5794.33,
-        "net_purchase_sales": -205.25
-      }
-    },
-    {
-      "date": "08-Feb-2023",
-      "fii": {
-        "gross_purchase": 7617.8,
-        "gross_sales": 8354.62,
-        "net_purchase_sales": -736.82
-      },
-      "dii": {
-        "gross_purchase": 6154.12,
-        "gross_sales": 5212.96,
-        "net_purchase_sales": 941.16
-      }
-    },
-    {
-      "date": "07-Feb-2023",
-      "fii": {
-        "gross_purchase": 7126.37,
-        "gross_sales": 9686.33,
-        "net_purchase_sales": -2559.96
-      },
-      "dii": {
-        "gross_purchase": 6009.7,
-        "gross_sales": 5369.88,
-        "net_purchase_sales": 639.82
-      }
-    },
-    {
-      "date": "06-Feb-2023",
-      "fii": {
-        "gross_purchase": 6853.35,
-        "gross_sales": 8071.49,
-        "net_purchase_sales": -1218.14
-      },
-      "dii": {
-        "gross_purchase": 5771.18,
-        "gross_sales": 4568.09,
-        "net_purchase_sales": 1203.09
-      }
-    },
-    {
-      "date": "03-Feb-2023",
-      "fii": {
-        "gross_purchase": 9482.09,
-        "gross_sales": 10414.53,
-        "net_purchase_sales": -932.44
-      },
-      "dii": {
-        "gross_purchase": 7473.98,
-        "gross_sales": 6209.24,
-        "net_purchase_sales": 1264.74
-      }
-    },
-    {
-      "date": "02-Feb-2023",
-      "fii": {
-        "gross_purchase": 9780.82,
-        "gross_sales": 12846.17,
-        "net_purchase_sales": -3065.35
-      },
-      "dii": {
-        "gross_purchase": 9470.68,
-        "gross_sales": 7099.32,
-        "net_purchase_sales": 2371.36
-      }
-    },
-    {
-      "date": "01-Feb-2023",
-      "fii": {
-        "gross_purchase": 14366.67,
-        "gross_sales": 12581.46,
-        "net_purchase_sales": 1785.21
-      },
-      "dii": {
-        "gross_purchase": 10711.5,
-        "gross_sales": 10182.03,
-        "net_purchase_sales": 529.47
       }
     }
   ]
