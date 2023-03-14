@@ -2,23 +2,23 @@
   "data": [
     {
       "prevMkt": "OPTCUR",
-      "prevQty": "2,18,84,773",
-      "oi": "91,27,839"
+      "prevQty": "1,70,33,921",
+      "oi": "1,08,32,703"
     },
     {
       "prevMkt": "FUTCUR",
-      "prevQty": "38,13,338",
-      "oi": "82,24,660"
+      "prevQty": "37,71,934",
+      "oi": "83,70,411"
     },
     {
       "prevMkt": "CM",
-      "prevQty": "2,06,30,67,959",
+      "prevQty": "1,98,05,56,918",
       "oi": ""
     },
     {
       "prevMkt": "FNOFUT",
-      "prevQty": "2,95,180",
-      "oi": "4,68,778"
+      "prevQty": "4,03,441",
+      "oi": "4,83,780"
     },
     {
       "prevMkt": "FNOIVX",
@@ -27,13 +27,13 @@
     },
     {
       "prevMkt": "FNOSTKFUT",
-      "prevQty": "6,41,894",
-      "oi": "29,50,466"
+      "prevQty": "6,94,228",
+      "oi": "29,72,384"
     },
     {
       "prevMkt": "FNOOPT",
-      "prevQty": "37,49,96,235",
-      "oi": "1,27,32,978"
+      "prevQty": "13,21,41,387",
+      "oi": "97,13,867"
     },
     {
       "prevMkt": "GIFUT",
@@ -42,8 +42,8 @@
     },
     {
       "prevMkt": "FNOSTKOPT",
-      "prevQty": "26,39,217",
-      "oi": "21,71,034"
+      "prevQty": "28,41,790",
+      "oi": "22,76,714"
     },
     {
       "prevMkt": "GIOPT",
@@ -57,8 +57,8 @@
     },
     {
       "prevMkt": "COMFUT",
-      "prevQty": "2,79,845",
-      "oi": "1,18,497"
+      "prevQty": "2,79,846",
+      "oi": "1,18,498"
     }
   ]
 }
