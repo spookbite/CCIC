@@ -2,17 +2,30 @@
   "index": {
     "total": {
       "fii_index_put": {
-        "gross_purchase": 54260.35,
-        "gross_sales": 55220.56,
-        "net_purchase_sales": -960.21
+        "gross_purchase": 58704.12,
+        "gross_sales": 61479.01,
+        "net_purchase_sales": -2774.89
       },
       "fii_index_opt": {
-        "gross_purchase": 14667601.74,
-        "gross_sales": 14626942.51,
-        "net_purchase_sales": 40659.23
+        "gross_purchase": 18274265.12,
+        "gross_sales": 18213271.93,
+        "net_purchase_sales": 60993.19
       }
     },
     "dates": [
+      {
+        "date": "16-Mar-2023",
+        "fii_index_put": {
+          "gross_purchase": 4443.77,
+          "gross_sales": 6258.45,
+          "net_purchase_sales": -1814.68
+        },
+        "fii_index_opt": {
+          "gross_purchase": 3606663.38,
+          "gross_sales": 3586329.42,
+          "net_purchase_sales": 20333.96
+        }
+      },
       {
         "date": "15-Mar-2023",
         "fii_index_put": {
@@ -148,17 +161,30 @@
   "stock": {
     "total": {
       "fii_stock_put": {
-        "gross_purchase": 94655.94,
-        "gross_sales": 100797.03,
-        "net_purchase_sales": -6141.09
+        "gross_purchase": 106905.55,
+        "gross_sales": 114465.38,
+        "net_purchase_sales": -7559.83
       },
       "fii_stock_opt": {
-        "gross_purchase": 100456.25,
-        "gross_sales": 100830.67,
-        "net_purchase_sales": -374.42
+        "gross_purchase": 114179.32,
+        "gross_sales": 114310.88,
+        "net_purchase_sales": -131.56
       }
     },
     "dates": [
+      {
+        "date": "16-Mar-2023",
+        "fii_stock_put": {
+          "gross_purchase": 12249.61,
+          "gross_sales": 13668.35,
+          "net_purchase_sales": -1418.74
+        },
+        "fii_stock_opt": {
+          "gross_purchase": 13723.07,
+          "gross_sales": 13480.21,
+          "net_purchase_sales": 242.86
+        }
+      },
       {
         "date": "15-Mar-2023",
         "fii_stock_put": {
