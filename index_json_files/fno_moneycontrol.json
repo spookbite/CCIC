@@ -2,17 +2,30 @@
   "index": {
     "total": {
       "fii_index_put": {
-        "gross_purchase": 75438.1,
-        "gross_sales": 81131.31,
-        "net_purchase_sales": -5693.21
+        "gross_purchase": 79695.68,
+        "gross_sales": 84374.28,
+        "net_purchase_sales": -4678.6
       },
       "fii_index_opt": {
-        "gross_purchase": 23300106.24,
-        "gross_sales": 23268302.95,
-        "net_purchase_sales": 31803.29
+        "gross_purchase": 26350340.93,
+        "gross_sales": 26309899.14,
+        "net_purchase_sales": 40441.79
       }
     },
     "dates": [
+      {
+        "date": "23-Mar-2023",
+        "fii_index_put": {
+          "gross_purchase": 4257.58,
+          "gross_sales": 3242.97,
+          "net_purchase_sales": 1014.61
+        },
+        "fii_index_opt": {
+          "gross_purchase": 3050234.69,
+          "gross_sales": 3041596.19,
+          "net_purchase_sales": 8638.5
+        }
+      },
       {
         "date": "22-Mar-2023",
         "fii_index_put": {
@@ -213,17 +226,30 @@
   "stock": {
     "total": {
       "fii_stock_put": {
-        "gross_purchase": 153048.85,
-        "gross_sales": 159880.56,
-        "net_purchase_sales": -6831.71
+        "gross_purchase": 168071.82,
+        "gross_sales": 175025.02,
+        "net_purchase_sales": -6953.2
       },
       "fii_stock_opt": {
-        "gross_purchase": 166099.96,
-        "gross_sales": 165983.46,
-        "net_purchase_sales": 116.5
+        "gross_purchase": 179620.29,
+        "gross_sales": 179428.39,
+        "net_purchase_sales": 191.9
       }
     },
     "dates": [
+      {
+        "date": "23-Mar-2023",
+        "fii_stock_put": {
+          "gross_purchase": 15022.97,
+          "gross_sales": 15144.46,
+          "net_purchase_sales": -121.49
+        },
+        "fii_stock_opt": {
+          "gross_purchase": 13520.33,
+          "gross_sales": 13444.93,
+          "net_purchase_sales": 75.4
+        }
+      },
       {
         "date": "22-Mar-2023",
         "fii_stock_put": {

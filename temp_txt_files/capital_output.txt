@@ -4,11 +4,11 @@
                                     
                                        Nifty March futures trade at premium
                                     
-                                    Mar 22, 2023 04:31 PM | Source: capitalmarket.com
+                                    Mar 23, 2023 04:12 PM | Source: capitalmarket.com
                                         
                                     
                                         
-                                         NSE India VIX declined 1.82% as shares advanced.
+                                         RIL, HAL and ICICI Bank were the top traded contracts.
                                     
                                    
                                 
@@ -16,15 +16,15 @@
                                
                                 
                                 
-                                The Nifty March 2023 futures closed at 17,183.95, a premium of 32.05 points compared with the Nifty's closing of 17,151.90 in the cash market.
+                                The Nifty March 2023 futures closed at 17,082, a premium of 5.1 points compared with the Nifty's closing of 17,076.90 in the cash market.
 
-Turnover on the National Stock Exchange's futures & options (F&O) segment was Rs 146.51 lakh crore compared with Rs 247.18 lakh crore reported in the previous session.
+Turnover on the National Stock Exchange's futures & options (F&O) segment was Rs 424.77 lakh crore compared with Rs 146.51 lakh crore reported in the previous session.
 
-In the cash market, the Nifty 50 gained 44.40 points or 0.26% to settle at 17,151.90.
+In the cash market, the Nifty 50 lost 75 points or 0.44% to settle at 17,076.90.
 <style='margin-top:96px;'></style>
-The NSE's India VIX, a gauge of market's expectation of volatility over the near term, fell 1.82% to 14.8075.
+The NSE's India VIX, a gauge of market's expectation of volatility over the near term, fell 2.14% to 14.49.
 
-HDFC Bank, Reliance Industries (RIL) and ICICI Bank were the top traded individual stock futures contracts in F&O segment of NSE.
+Reliance Industries (RIL), Hindustan Aeronautics (HAL) and ICICI Bank were the top traded individual stock futures contracts in F&O segment of NSE.
 
 The March 2023 F&O contracts will expire on 29 March 2023.
  
