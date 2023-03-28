@@ -2,17 +2,30 @@
   "index": {
     "total": {
       "fii_index_put": {
-        "gross_purchase": 85638.26,
-        "gross_sales": 90102.92,
-        "net_purchase_sales": -4464.66
+        "gross_purchase": 97574.41,
+        "gross_sales": 98790.17,
+        "net_purchase_sales": -1215.76
       },
       "fii_index_opt": {
-        "gross_purchase": 27433781.02,
-        "gross_sales": 27389606.6,
-        "net_purchase_sales": 44174.42
+        "gross_purchase": 28927329.92,
+        "gross_sales": 28868852.43,
+        "net_purchase_sales": 58477.49
       }
     },
     "dates": [
+      {
+        "date": "27-Mar-2023",
+        "fii_index_put": {
+          "gross_purchase": 11936.15,
+          "gross_sales": 8687.25,
+          "net_purchase_sales": 3248.9
+        },
+        "fii_index_opt": {
+          "gross_purchase": 1493548.9,
+          "gross_sales": 1479245.83,
+          "net_purchase_sales": 14303.07
+        }
+      },
       {
         "date": "24-Mar-2023",
         "fii_index_put": {
@@ -239,17 +252,30 @@
   "stock": {
     "total": {
       "fii_stock_put": {
-        "gross_purchase": 207384.75,
-        "gross_sales": 214726.46,
-        "net_purchase_sales": -7341.71
+        "gross_purchase": 270456.97,
+        "gross_sales": 276191.32,
+        "net_purchase_sales": -5734.35
       },
       "fii_stock_opt": {
-        "gross_purchase": 195390.03,
-        "gross_sales": 195048.38,
-        "net_purchase_sales": 341.65
+        "gross_purchase": 208818.29,
+        "gross_sales": 208515.66,
+        "net_purchase_sales": 302.63
       }
     },
     "dates": [
+      {
+        "date": "27-Mar-2023",
+        "fii_stock_put": {
+          "gross_purchase": 63072.22,
+          "gross_sales": 61464.86,
+          "net_purchase_sales": 1607.36
+        },
+        "fii_stock_opt": {
+          "gross_purchase": 13428.26,
+          "gross_sales": 13467.28,
+          "net_purchase_sales": -39.02
+        }
+      },
       {
         "date": "24-Mar-2023",
         "fii_stock_put": {
