@@ -2,17 +2,30 @@
   "index": {
     "total": {
       "fii_index_put": {
-        "gross_purchase": 105247.91,
-        "gross_sales": 107394.6,
-        "net_purchase_sales": -2146.69
+        "gross_purchase": 116588.72,
+        "gross_sales": 116708.8,
+        "net_purchase_sales": -120.08
       },
       "fii_index_opt": {
-        "gross_purchase": 30549425.65,
-        "gross_sales": 30499528.85,
-        "net_purchase_sales": 49896.8
+        "gross_purchase": 33181165.38,
+        "gross_sales": 33109654.37,
+        "net_purchase_sales": 71511.01
       }
     },
     "dates": [
+      {
+        "date": "29-Mar-2023",
+        "fii_index_put": {
+          "gross_purchase": 11340.81,
+          "gross_sales": 9314.2,
+          "net_purchase_sales": 2026.61
+        },
+        "fii_index_opt": {
+          "gross_purchase": 2631739.73,
+          "gross_sales": 2610125.52,
+          "net_purchase_sales": 21614.21
+        }
+      },
       {
         "date": "28-Mar-2023",
         "fii_index_put": {
@@ -265,17 +278,30 @@
   "stock": {
     "total": {
       "fii_stock_put": {
-        "gross_purchase": 311893.65,
-        "gross_sales": 317775.41,
-        "net_purchase_sales": -5881.76
+        "gross_purchase": 336294.69,
+        "gross_sales": 342160.89,
+        "net_purchase_sales": -5866.2
       },
       "fii_stock_opt": {
-        "gross_purchase": 218782.86,
-        "gross_sales": 218665.35,
-        "net_purchase_sales": 117.51
+        "gross_purchase": 224830.45,
+        "gross_sales": 224931.55,
+        "net_purchase_sales": -101.1
       }
     },
     "dates": [
+      {
+        "date": "29-Mar-2023",
+        "fii_stock_put": {
+          "gross_purchase": 24401.04,
+          "gross_sales": 24385.48,
+          "net_purchase_sales": 15.56
+        },
+        "fii_stock_opt": {
+          "gross_purchase": 6047.59,
+          "gross_sales": 6266.2,
+          "net_purchase_sales": -218.61
+        }
+      },
       {
         "date": "28-Mar-2023",
         "fii_stock_put": {
