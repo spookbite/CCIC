@@ -188,18 +188,18 @@
   },
   "commodity_futures": {
     "previous": {
-      "volume": 279858,
-      "open_interest": 118504
+      "volume": 279860,
+      "open_interest": 118505
     },
     "today": {
-      "volume": 2,
-      "traded_value": 0.12,
-      "trd": 2,
+      "volume": 1,
+      "traded_value": 0.06,
+      "trd": 1,
       "pre_val": 0.0,
       "valb": 0.0,
       "pre_valb": 0.0,
-      "utm": "23:13",
-      "utmAs": "Mar 29, 2023"
+      "utm": "23:06",
+      "utmAs": "Mar 30, 2023"
     },
     "mkt": "COMFUT"
   }
