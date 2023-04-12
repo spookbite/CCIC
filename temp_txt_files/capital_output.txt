@@ -4,11 +4,11 @@
                                     
                                        Nifty April futures trade at premium
                                     
-                                    Apr 10, 2023 04:23 PM | Source: capitalmarket.com
+                                    Apr 11, 2023 04:24 PM | Source: capitalmarket.com
                                         
                                     
                                         
-                                         NSE India VIX climbed 4.02% to 12.27.
+                                         NSE India VIX fell 2.42% as shares advanced.
                                     
                                    
                                 
@@ -16,14 +16,13 @@
                                
                                 
                                 
-                                
-The Nifty April 2023 futures closed at 17,677, a premium of 52.95 points compared with the Nifty's closing of 17,624.05 in the cash market.
+                                The Nifty April 2023 futures closed at 17,787, a premium of 64.7 points compared with the Nifty's closing of 17,722.30 in the cash market.
 
-In the cash market, the Nifty 50 gained 24.90 points or 0.14% to settle at 17,624.05.
+In the cash market, the Nifty 50 gained 98.25 points or 0.56% to settle at 17,722.30.
+
+The NSE's India VIX, a gauge of market's expectation of volatility over the near term, declined 2.42% to 11.98.
 <style='margin-top:96px;'></style>
-The NSE's India VIX, a gauge of market's expectation of volatility over the near term, jumped 4.02% to 12.27.
-
-Tata Motors, ICICI Bank and Reliance Industries (RIL) were the top traded individual stock futures contracts in F&O segment of NSE.
+Kotak Mahindra Bank, ICICI Bank and Infosys were the top traded individual stock futures contracts in F&O segment of NSE.
 
 The April 2023 F&O contracts will expire on 27 April 2023.
  
