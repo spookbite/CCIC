@@ -4,11 +4,11 @@
                                     
                                        Nifty April futures trade at premium
                                     
-                                    Apr 19, 2023 04:05 PM | Source: capitalmarket.com
+                                    Apr 20, 2023 04:08 PM | Source: capitalmarket.com
                                         
                                     
                                         
-                                         Infy, RIL and ICICI Bank were the top traded contracts. 
+                                         HDFC Bank, Infy and ICICI Bank were the top traded contracts. 
                                     
                                    
                                 
@@ -17,13 +17,13 @@
                                 
                                 
                                 
-The Nifty April 2023 futures closed at 17,645, a premium of 26.25 points compared with the Nifty's closing of 17,618.75 in the cash market.
+The Nifty April 2023 futures closed at 17,655, a premium of 30.55 points compared with the Nifty's closing of 17,624.45 in the cash market.
 
-In the cash market, the Nifty 50 declined 41.40 points or 0.23% to settle at 17,618.75.
+In the cash market, the Nifty 50 added 5.70 points or 0.03% to settle at 17,624.45.
 <style='margin-top:96px;'></style>
-The NSE's India VIX, a gauge of market's expectation of volatility over the near term, rose 0.64% to 12.1525.
+The NSE's India VIX, a gauge of market's expectation of volatility over the near term, fell 1.74% to 11.94.
 
-Infosys, Reliance Industries (RIL) and ICICI Bank were the top traded individual stock futures contracts in F&O segment of NSE.
+HDFC Bank, Infosys and ICICI Bank were the top traded individual stock futures contracts in F&O segment of NSE.
 
 The April 2023 F&O contracts will expire on 27 April 2023. 
                                 
