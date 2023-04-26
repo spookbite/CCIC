@@ -2,17 +2,30 @@
   "index": {
     "total": {
       "fii_index_put": {
-        "gross_purchase": 48246.34,
-        "gross_sales": 37986.08,
-        "net_purchase_sales": 10260.26
+        "gross_purchase": 54022.12,
+        "gross_sales": 43234.73,
+        "net_purchase_sales": 10787.39
       },
       "fii_index_opt": {
-        "gross_purchase": 19184607.58,
-        "gross_sales": 19199668.13,
-        "net_purchase_sales": -15060.55
+        "gross_purchase": 20566847.56,
+        "gross_sales": 20596705.56,
+        "net_purchase_sales": -29858.0
       }
     },
     "dates": [
+      {
+        "date": "25-Apr-2023",
+        "fii_index_put": {
+          "gross_purchase": 5775.78,
+          "gross_sales": 5248.65,
+          "net_purchase_sales": 527.13
+        },
+        "fii_index_opt": {
+          "gross_purchase": 1382239.98,
+          "gross_sales": 1397037.43,
+          "net_purchase_sales": -14797.45
+        }
+      },
       {
         "date": "24-Apr-2023",
         "fii_index_put": {
@@ -187,17 +200,30 @@
   "stock": {
     "total": {
       "fii_stock_put": {
-        "gross_purchase": 183440.6,
-        "gross_sales": 178164.65,
-        "net_purchase_sales": 5275.95
+        "gross_purchase": 245312.4,
+        "gross_sales": 238331.31,
+        "net_purchase_sales": 6981.09
       },
       "fii_stock_opt": {
-        "gross_purchase": 180832.99,
-        "gross_sales": 179957.07,
-        "net_purchase_sales": 875.92
+        "gross_purchase": 198897.78,
+        "gross_sales": 197811.3,
+        "net_purchase_sales": 1086.48
       }
     },
     "dates": [
+      {
+        "date": "25-Apr-2023",
+        "fii_stock_put": {
+          "gross_purchase": 61871.8,
+          "gross_sales": 60166.66,
+          "net_purchase_sales": 1705.14
+        },
+        "fii_stock_opt": {
+          "gross_purchase": 18064.79,
+          "gross_sales": 17854.23,
+          "net_purchase_sales": 210.56
+        }
+      },
       {
         "date": "24-Apr-2023",
         "fii_stock_put": {
