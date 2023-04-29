@@ -4,11 +4,11 @@
                                     
                                        Nifty May futures trade at premium
                                     
-                                    Apr 27, 2023 04:09 PM | Source: capitalmarket.com
+                                    Apr 28, 2023 04:20 PM | Source: capitalmarket.com
                                         
                                     
                                         
-                                         NSE India VIX slipped 1.95% as shares advanced.
+                                         NSE India VIX tumbled 4.17% as shares rallied.
                                     
                                    
                                 
@@ -17,13 +17,13 @@
                                 
                                 
                                 
-The Nifty May 2023 futures closed at 17,995.80, a premium of 80.75 points compared with the Nifty's closing of 17,915.05 in the cash market.
+The Nifty May 2023 futures closed at 18,113.45, a premium of 48.45 points compared with the Nifty's closing of 18,065 in the cash market.
 
-In the cash market, the Nifty 50 gained 101.45 points or 0.57% to settle at 17,915.05.
+In the cash market, the Nifty 50 advanced 149.95 points or 0.84% to settle at 18,065.
 <style='margin-top:96px;'></style>
-The NSE's India VIX, a gauge of market's expectation of volatility over the near term, declined 1.95% to 11.43.
+The NSE's India VIX, a gauge of market's expectation of volatility over the near term, dropped 4.17% to 10.95.
 
-Reliance Industries (RIL), Infosys and ICICI Bank were the top traded individual stock futures contracts in F&O segment of NSE.
+Axis Bank, Reliance Industries (RIL), and Adani Enterprises were the top traded individual stock futures contracts in F&O segment of NSE.
 
 The May 2023 F&O contracts will expire on 25 May 2023.
  
