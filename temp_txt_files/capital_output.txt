@@ -4,11 +4,11 @@
                                     
                                        Nifty May futures trade at premium
                                     
-                                    May 04, 2023 04:20 PM | Source: capitalmarket.com
+                                    May 05, 2023 04:10 PM | Source: capitalmarket.com
                                         
                                     
                                         
-                                         HDFC Bank, HDFC and RIL were most active in futures segment.
+                                         NSE India VIX surged 4.79% as shares tumbled.
                                     
                                    
                                 
@@ -16,13 +16,13 @@
                                
                                 
                                 
-                                The Nifty May 2023 futures closed at 18,284, a premium of 28.2 points compared with the Nifty's closing of 18,255.80 in the cash market.
+                                The Nifty May 2023 futures closed at 18,130.10, a premium of 61.1 points compared with the Nifty's closing of 18,069 in the cash market.
 
-In the cash market, the Nifty 50 jumped 165.95 points or 0.92% to settle at 18,255.80.
+In the cash market, the Nifty 50 lost 186.80 points or 1.02% to settle at 18,069.
 
-The NSE's India VIX, a gauge of market's expectation of volatility over the near term, fell 0.90% to 11.73.
+The NSE's India VIX, a gauge of market's expectation of volatility over the near term, jumped 4.79% to 12.30.
 <style='margin-top:96px;'></style>
-HDFC Bank, Housing Development Finance Corporation (HDFC) and Reliance Industries (RIL) were the top traded individual stock futures contracts in F&O segment of NSE.
+HDFC Bank, ICICI Bank and IndusInd Bank were the top traded individual stock futures contracts in F&O segment of NSE.
 
 The May 2023 F&O contracts will expire on 25 May 2023. 
                                 
