@@ -2,13 +2,13 @@
                                 
                                   
                                     
-                                       Nifty May futures trade at premium 
+                                       Nifty May futures trade at premium
                                     
-                                    May 08, 2023 04:30 PM | Source: capitalmarket.com
+                                    May 09, 2023 04:55 PM | Source: capitalmarket.com
                                         
                                     
                                         
-                                         HDFC Bank, Canara Bank, ICICI Bank were the top traded contracts.
+                                         HDFC Bank, ICICI Bank & Canara Bank were the top traded contracts.  
                                     
                                    
                                 
@@ -16,13 +16,14 @@
                                
                                 
                                 
-                                The Nifty May 2023 futures closed at 18,317.50, a premium of 53.1 points compared with the Nifty's closing of 18,264.40 in the cash market.
+                                
+The Nifty May 2023 futures closed at 18,304, a premium of 38.05 points compared with the Nifty's closing of 18,265.95 in the cash market.
 
-In the cash market, the Nifty 50 added 195.40 points or 1.08% to settle at 18,264.40.
-
-The NSE's India VIX, a gauge of market's expectation of volatility over the near term, advanced 2.76% to 12.64.
+In the cash market, the Nifty 50 added 1.55 points or 0.01% to settle at 18,265.95.
 <style='margin-top:96px;'></style>
-HDFC Bank, Canara Bank, ICICI Bank were the top traded individual stock futures contracts in F&O segment of NSE.
+The NSE's India VIX, a gauge of market's expectation of volatility over the near term, rose 0.33% to 12.68.
+
+HDFC Bank, ICICI Bank & Canara Bank were the top traded individual stock futures contracts in F&O segment of NSE.
 
 The May 2023 F&O contracts will expire on 25 May 2023. 
                                 
