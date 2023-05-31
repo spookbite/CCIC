@@ -2,17 +2,30 @@
   "index": {
     "total": {
       "fii_index_put": {
-        "gross_purchase": 77532.23,
-        "gross_sales": 76251.56,
-        "net_purchase_sales": 1280.67
+        "gross_purchase": 79688.77,
+        "gross_sales": 78167.3,
+        "net_purchase_sales": 1521.47
       },
       "fii_index_opt": {
-        "gross_purchase": 30051237.83,
-        "gross_sales": 30089832.49,
-        "net_purchase_sales": -38594.66
+        "gross_purchase": 31363775.73,
+        "gross_sales": 31419607.48,
+        "net_purchase_sales": -55831.75
       }
     },
     "dates": [
+      {
+        "date": "30-May-2023",
+        "fii_index_put": {
+          "gross_purchase": 2156.54,
+          "gross_sales": 1915.74,
+          "net_purchase_sales": 240.8
+        },
+        "fii_index_opt": {
+          "gross_purchase": 1312537.9,
+          "gross_sales": 1329774.99,
+          "net_purchase_sales": -17237.09
+        }
+      },
       {
         "date": "29-May-2023",
         "fii_index_put": {
@@ -278,17 +291,30 @@
   "stock": {
     "total": {
       "fii_stock_put": {
-        "gross_purchase": 393500.31,
-        "gross_sales": 386237.92,
-        "net_purchase_sales": 7262.39
+        "gross_purchase": 402903.01,
+        "gross_sales": 396293.86,
+        "net_purchase_sales": 6609.15
       },
       "fii_stock_opt": {
-        "gross_purchase": 317539.32,
-        "gross_sales": 1117745.38,
-        "net_purchase_sales": -800206.06
+        "gross_purchase": 327128.3,
+        "gross_sales": 1127469.94,
+        "net_purchase_sales": -800341.64
       }
     },
     "dates": [
+      {
+        "date": "30-May-2023",
+        "fii_stock_put": {
+          "gross_purchase": 9402.7,
+          "gross_sales": 10055.94,
+          "net_purchase_sales": -653.24
+        },
+        "fii_stock_opt": {
+          "gross_purchase": 9588.98,
+          "gross_sales": 9724.56,
+          "net_purchase_sales": -135.58
+        }
+      },
       {
         "date": "29-May-2023",
         "fii_stock_put": {
