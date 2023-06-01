@@ -4,11 +4,11 @@
                                     
                                        Nifty June futures trade at steep premium
                                     
-                                    May 30, 2023 04:27 PM | Source: capitalmarket.com
+                                    May 31, 2023 03:53 PM | Source: capitalmarket.com
                                         
                                     
                                         
-                                         HDFC Bank, Apollo Hospitals & Kotak Bank were the top traded contracts. 
+                                         Kotak Bank, RIL & HDFC Bank were the top traded contracts.
                                     
                                    
                                 
@@ -17,13 +17,13 @@
                                 
                                 
                                 
-The Nifty June 2023 futures closed at 18,719.65, a premium of 85.8 points compared with the Nifty's closing of 18,633.85 in the cash market.
+The Nifty June 2023 futures closed at 18,624.95, a premium of 90.55 points compared with the Nifty's closing of 18,534.40 in the cash market.
 
-In the cash market, the Nifty 50 gained 35.20 points or 0.19% to settle at 18,633.85.
+In the cash market, the Nifty 50 lost 99.45 points or 0.53% to settle at 18,534.40.
 <style='margin-top:96px;'></style>
-The NSE's India VIX, a gauge of market's expectation of volatility over the near term, fell 2.33% to 12.01.
+The NSE's India VIX, a gauge of market's expectation of volatility over the near term, declined 0.31% to 11.97.
 
-HDFC Bank, Apollo Hospitals Enterprise and Kotak Mahindra Bank were the top traded individual stock futures contracts in F&O segment of NSE.
+Kotak Mahindra Bank, Reliance Industries and HDFC Bank were the top traded individual stock futures contracts in F&O segment of NSE.
 
 The June 2023 F&O contracts will expire on 29 June 2023.
  
