@@ -2,13 +2,13 @@
                                 
                                   
                                     
-                                       Nifty June futures trade at steep premium
+                                       Nifty June futures trade at premium 
                                     
-                                    May 31, 2023 03:53 PM | Source: capitalmarket.com
+                                    Jun 01, 2023 04:36 PM | Source: capitalmarket.com
                                         
                                     
                                         
-                                         Kotak Bank, RIL & HDFC Bank were the top traded contracts.
+                                         NSE India VIX declined 3.13% to 11.06 
                                     
                                    
                                 
@@ -16,17 +16,15 @@
                                
                                 
                                 
-                                
-The Nifty June 2023 futures closed at 18,624.95, a premium of 90.55 points compared with the Nifty's closing of 18,534.40 in the cash market.
+                                The Nifty June 2023 futures closed at 18,574.80, a premium of 87.05 points compared with the Nifty's closing of 18,487.75 in the cash market.
 
-In the cash market, the Nifty 50 lost 99.45 points or 0.53% to settle at 18,534.40.
+In the cash market, the Nifty 50 declined 46.65 points or 0.25% to settle at 18,487.75.
+
+The NSE's India VIX, a gauge of market's expectation of volatility over the near term, dropped 3.13% to 11.06.
 <style='margin-top:96px;'></style>
-The NSE's India VIX, a gauge of market's expectation of volatility over the near term, declined 0.31% to 11.97.
+Kotak Mahindra Bank, HDFC Bank, Reliance Industries were the top traded individual stock futures contracts in F&O segment of NSE.
 
-Kotak Mahindra Bank, Reliance Industries and HDFC Bank were the top traded individual stock futures contracts in F&O segment of NSE.
-
-The June 2023 F&O contracts will expire on 29 June 2023.
- 
+The June 2023 F&O contracts will expire on 29 June 2023. 
                                 
 
 
