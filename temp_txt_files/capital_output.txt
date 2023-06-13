@@ -4,11 +4,11 @@
                                     
                                        Nifty June futures trade at premium
                                     
-                                    Jun 09, 2023 04:38 PM | Source: capitalmarket.com
+                                    Jun 12, 2023 04:26 PM | Source: capitalmarket.com
                                         
                                     
                                         
-                                         NSE India VIX declined 1.22% to 11.12.
+                                         Infosys, HDFC Bank and HAL were the top traded contracts.
                                     
                                    
                                 
@@ -16,17 +16,15 @@
                                
                                 
                                 
-                                
-The Nifty June 2023 futures closed at 18,627.55, a premium of 64.15 points compared with the Nifty's closing of 18,563.40 in the cash market.
+                                The Nifty June 2023 futures closed at 18,690.40, a premium of 88.9 points compared with the Nifty's closing of 18,601.50 in the cash market.
 
-In the cash market, the Nifty 50 lost 71.15 points or 0.38% to settle at 18,563.40.
+In the cash market, the Nifty 50 added 38.10 points or 0.21% to settle at 18,601.50.
+
+The NSE's India VIX, a gauge of market's expectation of volatility over the near term, rose 1.12% to 11.25.
 <style='margin-top:96px;'></style>
-The NSE's India VIX, a gauge of market's expectation of volatility over the near term, fell 1.22% to 11.12.
+Infosys, HDFC Bank and Hindustan Aeronautics (HAL) were the top traded individual stock futures contracts in F&O segment of NSE.
 
-Kotak Mahindra Bank, Hindustan Aeronautics (HAL) and Indian Energy Exchange (IEX) were the top traded individual stock futures contracts in F&O segment of NSE.
-
-The June 2023 F&O contracts will expire on 29 June 2023.
- 
+The June 2023 F&O contracts will expire on 29 June 2023. 
                                 
 
 
