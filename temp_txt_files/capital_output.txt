@@ -4,11 +4,11 @@
                                     
                                        Nifty June futures trade at premium
                                     
-                                    Jun 15, 2023 04:36 PM | Source: capitalmarket.com
+                                    Jun 19, 2023 04:17 PM | Source: capitalmarket.com
                                         
                                     
                                         
-                                         HDFC Bank, RIL and ICICI Bank were the top traded contracts.
+                                         NSE India VIX climbed 3.55% as shares declined.
                                     
                                    
                                 
@@ -16,13 +16,14 @@
                                
                                 
                                 
-                                The Nifty June 2023 futures closed at 18,740, a premium of 51.9 points compared with the Nifty's closing of 18,688.10 in the cash market.
-
-In the cash market, the Nifty 50 lost 67.80 points or 0.36% to settle at 18,688.10.
-
-The NSE's India VIX, a gauge of market's expectation of volatility over the near term, fell 0.73% to 11.08.
+                                
+The Nifty June 2023 futures closed at 18,840.40, a premium of 84.95 points compared with the Nifty's closing of 18,755.45 in the cash market.
+  
+In the cash market, the Nifty 50 lost 70.55 points or 0.37% to settle at 18,755.45.
 <style='margin-top:96px;'></style>
-HDFC Bank, Reliance Industries (RIL) and ICICI Bank were the top traded individual stock futures contracts in F&O segment of NSE.
+The NSE's India VIX, a gauge of market's expectation of volatility over the near term, rallied 3.55% to 11.23.
+
+Adani Enterprises, HDFC Bank and ICICI Bank were the top traded individual stock futures contracts in F&O segment of NSE.
 
 The June 2023 F&O contracts will expire on 29 June 2023.
  
