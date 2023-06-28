@@ -2,13 +2,13 @@
                                 
                                   
                                     
-                                       Nifty June futures trade at premium
+                                       Nifty June futures trade at discount
                                     
-                                    Jun 26, 2023 04:27 PM | Source: capitalmarket.com
+                                    Jun 27, 2023 05:16 PM | Source: capitalmarket.com
                                         
                                     
                                         
-                                         HDFC Bank, ICICI Bank and Reliance Industries (RIL) were the top traded contracts.
+                                         NSE India VIX dropped 5.41% as shares rallied.
                                     
                                    
                                 
@@ -17,15 +17,19 @@
                                 
                                 
                                 
-The Nifty June 2023 futures closed at 18,716.15, a premium of 24.95 points compared with the Nifty's closing of 18,691.20 in the cash market.
+The Nifty June 2023 futures closed at 18,815, a discount of 2.4 points compared with the Nifty's closing of 18,817.40 in the cash market.
   
-In the cash market, the Nifty 50 gained 25.70 points or 0.14% to settle at 18,691.20.
+In the cash market, the Nifty 50 advanced 126.20 points or 0.68% to settle at 18,817.40.
 <style='margin-top:96px;'></style>
-The NSE's India VIX, a gauge of market's expectation of volatility over the near term, advanced 1.42% to 11.40.
+The NSE's India VIX, a gauge of market's expectation of volatility over the near term, tumbled 5.41% to 10.78.
 
-HDFC Bank, ICICI Bank and RIL were the top traded individual stock futures contracts in F&O segment of NSE.
+HDFC Bank, Reliance Industries (RIL) and Housing Development Finance Corporation (HDFC) were the top traded individual stock futures contracts in F&O segment of NSE.
 
-The June 2023 F&O contracts will expire on 29 June 2023.
+The June 2023 F&O contracts will expire on 28 June 2023.
+
+As per the circular issued by NSE, Indian stock market will remain open on Wednesday as holiday for Bakri Id festival has been shifted to one day ahead on 29 June 2023.
+
+The weekly and monthly F&O contract expiry has been rescheduled to Wednesday as a result of the holiday being moved to Thursday, the exchange said in a separate circular.
  
                                 
 
