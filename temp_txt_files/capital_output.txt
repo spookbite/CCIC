@@ -4,11 +4,11 @@
                                     
                                        Nifty July futures trade at premium
                                     
-                                    Jun 28, 2023 04:18 PM | Source: capitalmarket.com
+                                    Jun 30, 2023 04:17 PM | Source: capitalmarket.com
                                         
                                     
                                         
-                                         Reliance Industries (RIL), HDFC Bank and Infosys were the top traded contracts.
+                                         Infosys, HDFC Bank, and Tata Consultancy Services (TCS) were the top traded contracts.
                                     
                                    
                                 
@@ -17,13 +17,13 @@
                                 
                                 
                                 
-The Nifty July 2023 futures closed at 19,082.35, a premium of 110.25 points compared with the Nifty's closing of 18,972.10 in the cash market.
+The Nifty July 2023 futures closed at 19,270.80, a premium of 81.75 points compared with the Nifty's closing of 19,189.05 in the cash market.
   
-In the cash market, the Nifty 50 advanced 154.70 points or 0.82% to settle at 18,972.10.
+In the cash market, the Nifty 50 advanced 216.95 points or 1.14% to settle at 19,189.05.
 <style='margin-top:96px;'></style>
-The NSE's India VIX, a gauge of market's expectation of volatility over the near term, rose 1.02% to 10.89.
+The NSE's India VIX, a gauge of market's expectation of volatility over the near term, declined 0.80% to 10.80.
 
-RIL, HDFC Bank, and Infosys were the top traded individual stock futures contracts in F&O segment of NSE.
+Infosys, HDFC Bank and TCS were the top traded individual stock futures contracts in F&O segment of NSE.
 
 The July 2023 F&O contracts will expire on 27 July 2023.
  
