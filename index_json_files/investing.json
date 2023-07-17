@@ -4,6 +4,11 @@
     "volume": "11.52M",
     "month_chg_pct": "7.64%"
   },
+  "Azure Power Global": {
+    "chg_pct": "-79.89%",
+    "volume": "6.85M",
+    "month_chg_pct": "-78.88%"
+  },
   "Wipro ADR": {
     "chg_pct": "+2.50%",
     "volume": "3.45M",
@@ -53,11 +58,6 @@
     "chg_pct": "0.00%",
     "volume": "0",
     "month_chg_pct": "0.00%"
-  },
-  "Azure Power Global": {
-    "chg_pct": "0.00%",
-    "volume": "0",
-    "month_chg_pct": "4.97%"
   },
   "Axis Bank ADR": {
     "chg_pct": "0.00%",
