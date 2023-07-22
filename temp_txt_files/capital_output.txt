@@ -2,13 +2,13 @@
                                 
                                   
                                     
-                                       Nifty July futures trade at discount
+                                       Nifty July futures trade at premium
                                     
-                                    Jul 20, 2023 04:24 PM | Source: capitalmarket.com
+                                    Jul 21, 2023 04:41 PM | Source: capitalmarket.com
                                         
                                     
                                         
-                                         HDFC Bank, Infosys and Reliance Industries (RIL) were the top traded contracts.
+                                         NSE India VIX slipped 2.54% to 11.49.
                                     
                                    
                                 
@@ -17,13 +17,13 @@
                                 
                                 
                                 
-The Nifty July 2023 futures closed at 19,967.10, a discount of 12.05 points compared with the Nifty's closing of 19,979.15 in the cash market.
+The Nifty July 2023 futures closed at 19,806.20, a premium of 61.2points compared with the Nifty's closing 19,745 in the cash market.
   
-In the cash market, the Nifty 50 advanced 146 points or 0.74% to settle at 19,979.15.
+In the cash market, the Nifty 50 dropped 234.15 points or 1.17% to settle at 19,745.
 <style='margin-top:96px;'></style>
-The NSE's India VIX, a gauge of market's expectation of volatility over the near term, rose 1.59% to 11.79.
+The NSE's India VIX, a gauge of market's expectation of volatility over the near term, declined 2.54% to 11.49.
 
-HDFC Bank, Infosys and RIL were the top traded individual stock futures contracts in F&O segment of NSE.
+Infosys, HDFC Bank, and Reliance Industries (RIL) were the top traded individual stock futures contracts in F&O segment of NSE.
 
 The July 2023 F&O contracts will expire on 27 July 2023.
  
