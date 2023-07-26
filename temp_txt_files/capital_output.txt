@@ -4,11 +4,11 @@
                                     
                                        Nifty July futures trade at premium
                                     
-                                    Jul 24, 2023 04:26 PM | Source: capitalmarket.com
+                                    Jul 25, 2023 04:17 PM | Source: capitalmarket.com
                                         
                                     
                                         
-                                         NSE India VIX rose 1.45% to 11.65.
+                                         NSE India VIX tumbled 12.10% to 10.24.
                                     
                                    
                                 
@@ -16,14 +16,13 @@
                                
                                 
                                 
-                                
-The Nifty July 2023 futures closed at 19,681.60, a premium of 9.25 points compared with the Nifty's closing 19,672.35 in the cash market.
-  
-In the cash market, the Nifty 50 declined 72.65 points or 0.37% to settle at 19,672.35.
-<style='margin-top:96px;'></style>
-The NSE's India VIX, a gauge of market's expectation of volatility over the near term, rose 1.45% to 11.65.
+                                The Nifty July 2023 futures closed at 19,695, a premium of 14.40 points compared with the Nifty's closing 19,680.60 in the cash market.
 
-ITC, HDFC Bank, and ICICI Bank were the top traded individual stock futures contracts in F&O segment of NSE.
+In the cash market, the Nifty 50 added 8.25 points or 0.04% to settle at 19,680.60.
+
+The NSE's India VIX, a gauge of market's expectation of volatility over the near term, slumped 12.10% to 10.24.
+<style='margin-top:96px;'></style>
+HDFC Bank, Axis Bank and ICICI Bank were the top traded individual stock futures contracts in F&O segment of NSE.
 
 The July 2023 F&O contracts will expire on 27 July 2023.
  
