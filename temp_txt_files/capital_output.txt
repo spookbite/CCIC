@@ -4,11 +4,11 @@
                                     
                                        Nifty August futures trade at premium
                                     
-                                    Jul 27, 2023 04:34 PM | Source: capitalmarket.com
+                                    Jul 28, 2023 04:47 PM | Source: capitalmarket.com
                                         
                                     
                                         
-                                         HDFC Bank, Axis Bank & TechM were the traded contracts.
+                                         NSE India VIX slipped 3.59% to 10.14.
                                     
                                    
                                 
@@ -16,15 +16,16 @@
                                
                                 
                                 
-                                The Nifty August 2023 futures closed at 19,840, a premium of 180.1 points compared with the Nifty's closing 19,659.90 in the cash market.
+                                The Nifty August 2023 futures closed at 19,733.30, a premium of 87.25 points compared with the Nifty's closing 19,646.05 in the cash market.
 
-In the cash market, the Nifty 50 lost 118.40 points or 0.6% to settle at 19,659.90.
+In the cash market, the Nifty 50 lost 13.85 points or 0.07% to settle at 19,646.05.
 
-The NSE's India VIX, a gauge of market's expectation of volatility over the near term, rose 0.52% to 10.51.
+The NSE's India VIX, a gauge of market's expectation of volatility over the near term, declined 3.59% to 10.14.
 <style='margin-top:96px;'></style>
-HDFC Bank, Axis Bank and Tech Mahindra were the top traded individual stock futures contracts in F&O segment of NSE.
+HDFC Bank, Reliance Industries and Tata Power Company were the top traded individual stock futures contracts in F&O segment of NSE.
 
-The August 2023 F&O contracts will expire on 31 August 2023. 
+The August 2023 F&O contracts will expire on 31 August 2023.
+ 
                                 
 
 
