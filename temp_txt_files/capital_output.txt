@@ -4,11 +4,11 @@
                                     
                                        Nifty August futures trade at premium
                                     
-                                    Jul 28, 2023 04:47 PM | Source: capitalmarket.com
+                                    Jul 31, 2023 04:42 PM | Source: capitalmarket.com
                                         
                                     
                                         
-                                         NSE India VIX slipped 3.59% to 10.14.
+                                         HDFC Bank, PEL and Infy were the top traded contracts.
                                     
                                    
                                 
@@ -16,13 +16,14 @@
                                
                                 
                                 
-                                The Nifty August 2023 futures closed at 19,733.30, a premium of 87.25 points compared with the Nifty's closing 19,646.05 in the cash market.
+                                
+The Nifty August 2023 futures closed at 19,837, a premium of 83.2 points compared with the Nifty's closing 19,753.80 in the cash market.
 
-In the cash market, the Nifty 50 lost 13.85 points or 0.07% to settle at 19,646.05.
-
-The NSE's India VIX, a gauge of market's expectation of volatility over the near term, declined 3.59% to 10.14.
+In the cash market, the Nifty 50 added 107.75 points or 0.55% to settle at 19,753.80.
 <style='margin-top:96px;'></style>
-HDFC Bank, Reliance Industries and Tata Power Company were the top traded individual stock futures contracts in F&O segment of NSE.
+The NSE's India VIX, a gauge of market's expectation of volatility over the near term, rose 2.73% to 10.41.
+
+HDFC Bank, Piramal Enterprises and Infosys were the top traded individual stock futures contracts in F&O segment of NSE.
 
 The August 2023 F&O contracts will expire on 31 August 2023.
  
