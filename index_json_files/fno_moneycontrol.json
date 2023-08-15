@@ -2,17 +2,30 @@
   "index": {
     "total": {
       "fii_index_put": {
-        "gross_purchase": 30180.55,
-        "gross_sales": 33947.75,
-        "net_purchase_sales": -3767.2
+        "gross_purchase": 32771.33,
+        "gross_sales": 36978.28,
+        "net_purchase_sales": -4206.95
       },
       "fii_index_opt": {
-        "gross_purchase": 16386827.27,
-        "gross_sales": 16358311.64,
-        "net_purchase_sales": 28515.63
+        "gross_purchase": 17789504.24,
+        "gross_sales": 17766284.77,
+        "net_purchase_sales": 23219.47
       }
     },
     "dates": [
+      {
+        "date": "14-Aug-2023",
+        "fii_index_put": {
+          "gross_purchase": 2590.78,
+          "gross_sales": 3030.53,
+          "net_purchase_sales": -439.75
+        },
+        "fii_index_opt": {
+          "gross_purchase": 1402676.97,
+          "gross_sales": 1407973.13,
+          "net_purchase_sales": -5296.16
+        }
+      },
       {
         "date": "11-Aug-2023",
         "fii_index_put": {
@@ -135,17 +148,30 @@
   "stock": {
     "total": {
       "fii_stock_put": {
-        "gross_purchase": 123621.1,
-        "gross_sales": 136518.57,
-        "net_purchase_sales": -12897.47
+        "gross_purchase": 135433.73,
+        "gross_sales": 149451.04,
+        "net_purchase_sales": -14017.31
       },
       "fii_stock_opt": {
-        "gross_purchase": 160440.3,
-        "gross_sales": 161757.44,
-        "net_purchase_sales": -1317.14
+        "gross_purchase": 182178.51,
+        "gross_sales": 183527.78,
+        "net_purchase_sales": -1349.27
       }
     },
     "dates": [
+      {
+        "date": "14-Aug-2023",
+        "fii_stock_put": {
+          "gross_purchase": 11812.63,
+          "gross_sales": 12932.47,
+          "net_purchase_sales": -1119.84
+        },
+        "fii_stock_opt": {
+          "gross_purchase": 21738.21,
+          "gross_sales": 21770.34,
+          "net_purchase_sales": -32.13
+        }
+      },
       {
         "date": "11-Aug-2023",
         "fii_stock_put": {
