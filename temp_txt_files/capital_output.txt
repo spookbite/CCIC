@@ -4,11 +4,11 @@
                                     
                                        Nifty August futures trade at premium
                                     
-                                    Aug 18, 2023 04:17 PM | Source: capitalmarket.com
+                                    Aug 21, 2023 05:29 PM | Source: capitalmarket.com
                                         
                                     
                                         
-                                         RIL, Adani Ent & Adani Ports were most active in futures segment.
+                                         RIL, HDFC Bank & Adani Ports were the top traded contracts.
                                     
                                    
                                 
@@ -16,13 +16,14 @@
                                
                                 
                                 
-                                The Nifty August 2023 futures closed at 19,315.45, a premium of 5.30 point compared with the Nifty's closing 19,310.15 in the cash market.
+                                
+The Nifty August 2023 futures closed at 19,399, a premium of 5.4 point compared with the Nifty's closing 19,393.60 in the cash market.
 
-In the cash market, the Nifty 50 lost 55.10 points or 0.28% to settle at 19,310.15.
-
-The NSE's India VIX, a gauge of market's expectation of volatility over the near term, fell 0.79% to 12.14.
+In the cash market, the Nifty 50 added 83.45 points or 0.43% to settle at 19,393.60.
 <style='margin-top:96px;'></style>
-Reliance Industries (RIL), Adani Enterprises, Adani Ports and Special Economic Zone were the top traded individual stock futures contracts in F&O segment of NSE.
+The NSE's India VIX, a gauge of market's expectation of volatility over the near term, fell 1.50% to 11.96.
+
+Reliance Industries (RIL), HDFC Bank and Adani Ports and Special Economic Zone were the top traded individual stock futures contracts in F&O segment of NSE.
 
 The August 2023 F&O contracts will expire on 31 August 2023.
  
