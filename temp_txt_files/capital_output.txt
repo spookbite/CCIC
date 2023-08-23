@@ -2,13 +2,13 @@
                                 
                                   
                                     
-                                       Nifty August futures trade at premium
+                                       Nifty August futures trade at discount
                                     
-                                    Aug 21, 2023 05:29 PM | Source: capitalmarket.com
+                                    Aug 22, 2023 05:19 PM | Source: capitalmarket.com
                                         
                                     
                                         
-                                         RIL, HDFC Bank & Adani Ports were the top traded contracts.
+                                         HDFC Bank, RIL & ICICI Bank were the top traded contracts.
                                     
                                    
                                 
@@ -17,13 +17,13 @@
                                 
                                 
                                 
-The Nifty August 2023 futures closed at 19,399, a premium of 5.4 point compared with the Nifty's closing 19,393.60 in the cash market.
+The Nifty August 2023 futures closed at 19,381, a discount of 15.45 point compared with the Nifty's closing 19,396.45 in the cash market.
 
-In the cash market, the Nifty 50 added 83.45 points or 0.43% to settle at 19,393.60.
+In the cash market, the Nifty 50 rose 2.85 points or 0.01% to settle at 19,396.45.
 <style='margin-top:96px;'></style>
-The NSE's India VIX, a gauge of market's expectation of volatility over the near term, fell 1.50% to 11.96.
+The NSE's India VIX, a gauge of market's expectation of volatility over the near term, declined 1.77% to 11.75.
 
-Reliance Industries (RIL), HDFC Bank and Adani Ports and Special Economic Zone were the top traded individual stock futures contracts in F&O segment of NSE.
+HDFC Bank, Reliance Industries (RIL) and ICICI Bank were the top traded individual stock futures contracts in F&O segment of NSE.
 
 The August 2023 F&O contracts will expire on 31 August 2023.
  
