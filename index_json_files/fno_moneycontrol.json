@@ -2,17 +2,30 @@
   "index": {
     "total": {
       "fii_index_put": {
-        "gross_purchase": 53061.07,
-        "gross_sales": 55963.24,
-        "net_purchase_sales": -2902.17
+        "gross_purchase": 56300.88,
+        "gross_sales": 60467.5,
+        "net_purchase_sales": -4166.62
       },
       "fii_index_opt": {
-        "gross_purchase": 29394938.71,
-        "gross_sales": 29325939.89,
-        "net_purchase_sales": 68998.82
+        "gross_purchase": 30478344.17,
+        "gross_sales": 30410967.12,
+        "net_purchase_sales": 67377.05
       }
     },
     "dates": [
+      {
+        "date": "25-Aug-2023",
+        "fii_index_put": {
+          "gross_purchase": 3239.81,
+          "gross_sales": 4504.26,
+          "net_purchase_sales": -1264.45
+        },
+        "fii_index_opt": {
+          "gross_purchase": 1083405.46,
+          "gross_sales": 1085027.23,
+          "net_purchase_sales": -1621.77
+        }
+      },
       {
         "date": "24-Aug-2023",
         "fii_index_put": {
@@ -239,17 +252,30 @@
   "stock": {
     "total": {
       "fii_stock_put": {
-        "gross_purchase": 226321.14,
-        "gross_sales": 244769.96,
-        "net_purchase_sales": -18448.82
+        "gross_purchase": 248136.86,
+        "gross_sales": 266148.69,
+        "net_purchase_sales": -18011.83
       },
       "fii_stock_opt": {
-        "gross_purchase": 336955.67,
-        "gross_sales": 338260.09,
-        "net_purchase_sales": -1304.42
+        "gross_purchase": 368405.14,
+        "gross_sales": 369281.36,
+        "net_purchase_sales": -876.22
       }
     },
     "dates": [
+      {
+        "date": "25-Aug-2023",
+        "fii_stock_put": {
+          "gross_purchase": 21815.72,
+          "gross_sales": 21378.73,
+          "net_purchase_sales": 436.99
+        },
+        "fii_stock_opt": {
+          "gross_purchase": 31449.47,
+          "gross_sales": 31021.27,
+          "net_purchase_sales": 428.2
+        }
+      },
       {
         "date": "24-Aug-2023",
         "fii_stock_put": {
