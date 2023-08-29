@@ -2,17 +2,30 @@
   "index": {
     "total": {
       "fii_index_put": {
-        "gross_purchase": 56300.88,
-        "gross_sales": 60467.5,
-        "net_purchase_sales": -4166.62
+        "gross_purchase": 61461.35,
+        "gross_sales": 64953.51,
+        "net_purchase_sales": -3492.16
       },
       "fii_index_opt": {
-        "gross_purchase": 30478344.17,
-        "gross_sales": 30410967.12,
-        "net_purchase_sales": 67377.05
+        "gross_purchase": 31419491.25,
+        "gross_sales": 31352395.59,
+        "net_purchase_sales": 67095.66
       }
     },
     "dates": [
+      {
+        "date": "28-Aug-2023",
+        "fii_index_put": {
+          "gross_purchase": 5160.47,
+          "gross_sales": 4486.01,
+          "net_purchase_sales": 674.46
+        },
+        "fii_index_opt": {
+          "gross_purchase": 941147.08,
+          "gross_sales": 941428.47,
+          "net_purchase_sales": -281.39
+        }
+      },
       {
         "date": "25-Aug-2023",
         "fii_index_put": {
@@ -252,17 +265,30 @@
   "stock": {
     "total": {
       "fii_stock_put": {
-        "gross_purchase": 248136.86,
-        "gross_sales": 266148.69,
-        "net_purchase_sales": -18011.83
+        "gross_purchase": 316840.58,
+        "gross_sales": 334346.32,
+        "net_purchase_sales": -17505.74
       },
       "fii_stock_opt": {
-        "gross_purchase": 368405.14,
-        "gross_sales": 369281.36,
-        "net_purchase_sales": -876.22
+        "gross_purchase": 394012.62,
+        "gross_sales": 394628.24,
+        "net_purchase_sales": -615.62
       }
     },
     "dates": [
+      {
+        "date": "28-Aug-2023",
+        "fii_stock_put": {
+          "gross_purchase": 68703.72,
+          "gross_sales": 68197.63,
+          "net_purchase_sales": 506.09
+        },
+        "fii_stock_opt": {
+          "gross_purchase": 25607.48,
+          "gross_sales": 25346.88,
+          "net_purchase_sales": 260.6
+        }
+      },
       {
         "date": "25-Aug-2023",
         "fii_stock_put": {
