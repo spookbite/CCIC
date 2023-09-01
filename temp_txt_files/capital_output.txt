@@ -2,13 +2,13 @@
                                 
                                   
                                     
-                                       Nifty August Futures Trade At discount
+                                       Nifty September futures trade at premium
                                     
-                                    Aug 30, 2023 04:29 PM | Source: capitalmarket.com
+                                    Aug 31, 2023 04:40 PM | Source: capitalmarket.com
                                         
                                     
                                         
-                                         NSE India VIX tumbled 3.47% to 11.80.
+                                         NSE India VIX rallied 2.22% as shares declined.
                                     
                                    
                                 
@@ -16,15 +16,17 @@
                                
                                 
                                 
-                                The Nifty August 2023 futures closed at 19,340, a discount of 7.45 points compared with the Nifty's closing 19,347.45 in the cash market.
+                                
+The Nifty September 2023 futures closed at 19,428.30, a premium of 174.5 points compared with the Nifty's closing 19,253.80 in the cash market.
 
-In the cash market, the Nifty 50 added 4.80 points or 0.02% to settle at 19,347.45.
-
-The NSE's India VIX, a gauge of market's expectation of volatility over the near term, tumbled 3.47% to 11.80.
+In the cash market, the Nifty 50 declined 93.65 points or 0.48% to settle at 19,253.80.
 <style='margin-top:96px;'></style>
-Reliance Industries, ICICI Bank and HDFC Bank were the top traded individual stock futures contracts in F&O segment of NSE.
+The NSE's India VIX, a gauge of market's expectation of volatility over the near term, advanced 2.22% to 12.06.
 
-The August 2023 F&O contracts will expire on 31 August 2023. 
+HDFC Bank, Reliance Industries and ICICI Bank were the top traded individual stock futures contracts in F&O segment of NSE.
+
+The September 2023 F&O contracts will expire on 28 September 2023.
+ 
                                 
 
 
