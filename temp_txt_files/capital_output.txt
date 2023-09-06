@@ -4,11 +4,11 @@
                                     
                                        Nifty September futures trade at premium
                                     
-                                    Sep 04, 2023 04:38 PM | Source: capitalmarket.com
+                                    Sep 05, 2023 04:08 PM | Source: capitalmarket.com
                                         
                                     
                                         
-                                         NSE India VIX declined 3.54% as shares rallied.
+                                         NSE India VIX declined 1.34% as shares gained.
                                     
                                    
                                 
@@ -16,13 +16,13 @@
                                
                                 
                                 
-                                The Nifty September 2023 futures closed at 19,613, a premium of 84.2 points compared with the Nifty's closing 19,528.80 in the cash market.
+                                The Nifty September 2023 futures closed at 19,654.60, a premium of 79.7 points compared with the Nifty's closing 19,574.90 in the cash market.
 
-In the cash market, the Nifty 50 advanced 93.50 points or 0.48% to settle at 19,528.80.
+In the cash market, the Nifty 50 advanced 46.10 points or 0.24% to settle at 19,574.90.
 
-The NSE's India VIX, a gauge of market's expectation of volatility over the near term, slipped 3.54% to 10.96.
+The NSE's India VIX, a gauge of market's expectation of volatility over the near term, fell 1.34% to 10.82.
 <style='margin-top:96px;'></style>
-Reliance Industries, HDFC Bank and Kotak Mahindra Bank were the top traded individual stock futures contracts in F&O segment of NSE.
+Reliance Industries, ICICI Bank and HDFC Bank were the top traded individual stock futures contracts in F&O segment of NSE.
 
 The September 2023 F&O contracts will expire on 28 September 2023.
  
