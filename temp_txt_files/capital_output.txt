@@ -4,11 +4,11 @@
                                     
                                        Nifty September futures trade at premium
                                     
-                                    Sep 07, 2023 04:54 PM | Source: capitalmarket.com
+                                    Sep 08, 2023 04:56 PM | Source: capitalmarket.com
                                         
                                     
                                         
-                                         HDFC Bank, RIL & Coal India were the top traded contracts.
+                                         RIL, HDFC Bank & IRCTC were the top traded contracts.
                                     
                                    
                                 
@@ -16,13 +16,13 @@
                                
                                 
                                 
-                                The Nifty September 2023 futures closed at 19,767.05, a premium of 40 points compared with the Nifty's closing 19,727.05 in the cash market.
+                                The Nifty September 2023 futures closed at 19,874, a premium of 54.05 points compared with the Nifty's closing 19,819.95 in the cash market.
 
-In the cash market, the Nifty 50 rose 116 points or 0.59% to settle at 19,727.05.
+In the cash market, the Nifty 50 rose 92.90 points or 0.47% to settle at 19,819.95.
 
-The NSE's India VIX, a gauge of market's expectation of volatility over the near term, rose 1.82% to 10.87.
+The NSE's India VIX, a gauge of market's expectation of volatility over the near term, declined 0.85% to 10.78.
 <style='margin-top:96px;'></style>
-HDFC Bank, Reliance Industries (RIL) and Coal India were the top traded individual stock futures contracts in F&O segment of NSE.
+Reliance Industries (RIL), HDFC Bank and Indian Railway Catering and Tourism Corporation (IRCTC) were the top traded individual stock futures contracts in F&O segment of NSE.
 
 The September 2023 F&O contracts will expire on 28 September 2023.
 
