@@ -4,11 +4,11 @@
                                     
                                        Nifty September futures trade at premium
                                     
-                                    Sep 08, 2023 04:56 PM | Source: capitalmarket.com
+                                    Sep 11, 2023 04:23 PM | Source: capitalmarket.com
                                         
                                     
                                         
-                                         RIL, HDFC Bank & IRCTC were the top traded contracts.
+                                         RIL, Adani Ports and HDFC Bank were the top traded contracts. 
                                     
                                    
                                 
@@ -16,13 +16,14 @@
                                
                                 
                                 
-                                The Nifty September 2023 futures closed at 19,874, a premium of 54.05 points compared with the Nifty's closing 19,819.95 in the cash market.
+                                
+The Nifty September 2023 futures closed at 20,046, a premium of 49.65 points compared with the Nifty's closing 19,996.35 in the cash market.
 
-In the cash market, the Nifty 50 rose 92.90 points or 0.47% to settle at 19,819.95.
-
-The NSE's India VIX, a gauge of market's expectation of volatility over the near term, declined 0.85% to 10.78.
+In the cash market, the Nifty 50 added 176.40 points or 0.89% to settle at 19,996.35.
 <style='margin-top:96px;'></style>
-Reliance Industries (RIL), HDFC Bank and Indian Railway Catering and Tourism Corporation (IRCTC) were the top traded individual stock futures contracts in F&O segment of NSE.
+The NSE's India VIX, a gauge of market's expectation of volatility over the near term, jumped 5.26% to 11.35.
+
+Reliance Industries (RIL), Adani Ports and Special Economic Zone, and HDFC Bank were the top traded individual stock futures contracts in F&O segment of NSE.
 
 The September 2023 F&O contracts will expire on 28 September 2023.
 
