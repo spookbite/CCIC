@@ -4,11 +4,11 @@
                                     
                                        Nifty September futures trade at premium
                                     
-                                    Sep 13, 2023 04:35 PM | Source: capitalmarket.com
+                                    Sep 14, 2023 04:56 PM | Source: capitalmarket.com
                                         
                                     
                                         
-                                         HDFC Bank, ICICI Bank & RIL were the top traded contracts.
+                                         HDFC Bank, RIL & SBI were the top traded contracts.
                                     
                                    
                                 
@@ -17,13 +17,13 @@
                                 
                                 
                                 
-The Nifty September 2023 futures closed at 20,128.95, a premium of 58.95 points compared with the Nifty's closing 20,070 in the cash market.
+The Nifty September 2023 futures closed at 20,186.60, a premium of 83.5 points compared with the Nifty's closing 20,103.10 in the cash market.
 
-In the cash market, the Nifty 50 added 76.80 points or 0.38% to settle at 20,070.
+In the cash market, the Nifty 50 added 33.10 points or 0.16% to settle at 20,103.10.
 <style='margin-top:96px;'></style>
-The NSE's India VIX, a gauge of market's expectation of volatility over the near term, rose 1.17% to 11.83.
+The NSE's India VIX, a gauge of market's expectation of volatility over the near term, tumbled 4.31% to 11.32.
 
-HDFC Bank, ICICI Bank and Reliance Industries (RIL) were the top traded individual stock futures contracts in F&O segment of NSE.
+HDFC Bank, Reliance Industries (RIL) and State Bank of India (SBI) were the top traded individual stock futures contracts in F&O segment of NSE.
 
 The September 2023 F&O contracts will expire on 28 September 2023.
 
