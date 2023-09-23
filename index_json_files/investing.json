@@ -1,58 +1,58 @@
 {
-  "HDFC Bank ADR": {
-    "chg_pct": "+0.39%",
-    "volume": "7.03M",
-    "month_chg_pct": "-6.96%"
+  "Infosys ADR": {
+    "chg_pct": "+0.23%",
+    "volume": "5.30M",
+    "month_chg_pct": "3.79%"
   },
   "ICICI Bank ADR": {
-    "chg_pct": "-3.27%",
-    "volume": "6.05M",
-    "month_chg_pct": "-3.48%"
+    "chg_pct": "+0.31%",
+    "volume": "3.54M",
+    "month_chg_pct": "-2.23%"
   },
-  "Infosys ADR": {
-    "chg_pct": "-0.84%",
-    "volume": "5.63M",
-    "month_chg_pct": "2.72%"
+  "HDFC Bank ADR": {
+    "chg_pct": "-0.88%",
+    "volume": "2.63M",
+    "month_chg_pct": "-6.63%"
   },
   "Wipro ADR": {
-    "chg_pct": "-1.93%",
-    "volume": "1.12M",
-    "month_chg_pct": "-0.20%"
+    "chg_pct": "-1.18%",
+    "volume": "997.33K",
+    "month_chg_pct": "1.41%"
   },
   "MakeMyTrip": {
-    "chg_pct": "+2.28%",
-    "volume": "616.51K",
-    "month_chg_pct": "0.34%"
-  },
-  "Yatra Online": {
-    "chg_pct": "-5.08%",
-    "volume": "325.10K",
-    "month_chg_pct": "-6.67%"
-  },
-  "WNS Holdings": {
-    "chg_pct": "-1.89%",
-    "volume": "228.88K",
-    "month_chg_pct": "4.48%"
+    "chg_pct": "-0.31%",
+    "volume": "373.68K",
+    "month_chg_pct": "0.16%"
   },
   "Dr. Reddy\u2019s Labs ADR": {
-    "chg_pct": "-0.43%",
-    "volume": "222.24K",
-    "month_chg_pct": "-6.68%"
-  },
-  "Lytus Technologies Holdings Ptv": {
-    "chg_pct": "-4.16%",
-    "volume": "88.75K",
-    "month_chg_pct": "-38.34%"
+    "chg_pct": "-2.08%",
+    "volume": "237.03K",
+    "month_chg_pct": "-6.31%"
   },
   "Sify": {
-    "chg_pct": "-2.69%",
-    "volume": "49.83K",
-    "month_chg_pct": "-17.73%"
+    "chg_pct": "-5.52%",
+    "volume": "200.32K",
+    "month_chg_pct": "-20.83%"
+  },
+  "WNS Holdings": {
+    "chg_pct": "+0.36%",
+    "volume": "170.24K",
+    "month_chg_pct": "5.82%"
+  },
+  "Yatra Online": {
+    "chg_pct": "+0.45%",
+    "volume": "140.96K",
+    "month_chg_pct": "-5.46%"
+  },
+  "Lytus Technologies Holdings Ptv": {
+    "chg_pct": "0.38%",
+    "volume": "127.10K",
+    "month_chg_pct": "-39.77%"
   },
   "Azure Power Global": {
-    "chg_pct": "0.00%",
-    "volume": "7.51K",
-    "month_chg_pct": "75.51%"
+    "chg_pct": "-1.16%",
+    "volume": "3.03K",
+    "month_chg_pct": "80.85%"
   },
   "Rediff.com India": {
     "chg_pct": "0.00%",
